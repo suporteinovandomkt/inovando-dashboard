@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Inovando MKT — Command Center de Tráfego</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
+<style>
+  :root{
+    --bg:#0c0d10; --panel:#15171c; --panel2:#1c1f26; --line:#2a2e38;
+    --orange:#ff6a00; --orange2:#ff8a3d; --txt:#f4f5f7; --muted:#9aa1ad;
+    --green:#27c08a; --red:#ff5470; --yellow:#ffcf5c; --blue:#5aa9ff;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;overflow:hidden}
+  #root{height:100vh}
+  ::-webkit-scrollbar{width:9px;height:9px}
+  ::-webkit-scrollbar-thumb{background:#33384a;border-radius:6px}
+  ::-webkit-scrollbar-track{background:transparent}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+const { useState, useEffect, useMemo, useCallback } = React;
+
+/* ============================================================
+   COMMAND CENTER — Inovando MKT
+   • Dados ao vivo: o painel tenta ler ./dados.json (gerado pelo
+     motor n8n a cada 30 min). Se não encontrar, usa o SNAPSHOT
+     embutido abaixo (dados reais de 12-18/jun/2026).
+   • Fonte: Meta Ads API (ads_get_ad_entities) + Trello.
+   ============================================================ */
+
+const SNAPSHOT = {
+  atualizadoEm: "Snapshot manual — 19/06/2026",
+  periodo: { label: "12 a 18 de junho de 2026" },
+  clientes: [
+    {nome:"Souzagneri",seg:"Odontologia",plano:"Ouro",ig:"@souzagneri",acc:"1599437730832316",status:"ATIVO",
+     spend:1103.15,impr:87634,reach:48089,clicks:1232,ctr:1.41,cpc:0.90,cpm:12.59,freq:1.82,linkClicks:1071,pay:true,
+     camps:[{n:"WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",spend:1032.03,impr:66931,clicks:825,ctr:1.23,cpc:1.25},
+            {n:"IG-PERFIL / 07.05 / TODOS / 10D",spend:71.12,impr:20703,clicks:407,ctr:1.97,cpc:0.17}]},
+    {nome:"Odonto Chueh",seg:"Odontologia",plano:"Ouro",ig:"@odontochueh",acc:"776932710078790",status:"ATIVO",
+     spend:1209.09,impr:142287,reach:46695,clicks:1361,ctr:0.96,cpc:0.89,cpm:8.50,freq:3.05,linkClicks:1154,pay:true,
+     camps:[{n:"WHATS SUG / 13.05 / WIFI 150D",spend:1101.39,impr:116585,clicks:853,ctr:0.73,cpc:1.29},
+            {n:"IG-perfil / 27.03 / todos / 15D",spend:107.71,impr:25703,clicks:508,ctr:1.98,cpc:0.21}]},
+    {nome:"Dent-X",seg:"Odontologia",plano:"Start",ig:"@dentxodontologia",acc:"495685006882489",status:"ATIVO",
+     spend:755.98,impr:56453,reach:28944,clicks:864,ctr:1.53,cpc:0.87,cpm:13.39,freq:1.95,linkClicks:783,pay:true,
+     camps:[{n:"WHATS META / 13.05 / +30 / 100D",spend:682.60,impr:44250,clicks:576,ctr:1.30,cpc:1.19},
+            {n:"IG-PERFIL / 09.02.26 / TODOS / 10D",spend:69.34,impr:12002,clicks:288,ctr:2.40,cpc:0.24},
+            {n:"teste formulário / 18.06 / 30+ / todos / 40D",spend:4.04,impr:201,clicks:0,ctr:0,cpc:0}]},
+    {nome:"Ortodonto",seg:"Odontologia",plano:"Start",ig:"@ortodonto_se",acc:"2046299446147904",status:"ATIVO",
+     spend:55.90,impr:18025,reach:15652,clicks:271,ctr:1.50,cpc:0.21,cpm:3.10,freq:1.15,linkClicks:270,pay:true,
+     camps:[{n:"IG- PERFIL / 22.05.26 / WIFI / 8D",spend:55.90,impr:18025,clicks:271,ctr:1.50,cpc:0.21}]},
+    {nome:"Instituto Clínico Especializado",seg:"Odontologia",plano:"Ouro",ig:"—",acc:"1705373906851759",status:"ATIVO",
+     spend:480.79,impr:48288,reach:33966,clicks:587,ctr:1.22,cpc:0.82,cpm:9.96,freq:1.42,linkClicks:542,pay:true,
+     camps:[{n:"WHATS / 10.06 / 4KM / WIFI / 25+ / 50D",spend:369.35,impr:12596,clicks:207,ctr:1.64,cpc:1.78},
+            {n:"IG PERFIL / 22.05.26 / WIFI / 10D",spend:71.63,impr:17625,clicks:298,ctr:1.69,cpc:0.24}]},
+    {nome:"Gama Clinic SP",seg:"Estética/Clínica",plano:"Start",ig:"@gamaclinicsp",acc:"681487721360272",status:"ATIVO",
+     spend:440.98,impr:30221,reach:24335,clicks:505,ctr:1.67,cpc:0.87,cpm:14.59,freq:1.24,linkClicks:426,pay:true,
+     camps:[{n:"ADV WHATS / 14.05 / +25 / 50D",spend:334.95,impr:18968,clicks:146,ctr:0.77,cpc:2.29},
+            {n:"IG PERFIL / 19.03 / TODOS / 25+ / 15D",spend:145.84,impr:29320,clicks:441,ctr:1.50,cpc:0.33}]},
+    {nome:"Ótica Óptima",seg:"Ótica",plano:"Ouro",ig:"—",acc:"969933572256897",status:"ATIVO",
+     spend:378.31,impr:58031,reach:34465,clicks:573,ctr:0.99,cpc:0.66,cpm:6.52,freq:1.68,linkClicks:509,pay:true,
+     camps:[{n:"WHATS ENG / 11.06 / TODOS / 35D",spend:251.77,impr:11422,clicks:118,ctr:1.03,cpc:2.13},
+            {n:"IG - PERFIL / 11.05 / TODOS / 15D",spend:126.54,impr:46609,clicks:455,ctr:0.98,cpc:0.28}]},
+    {nome:"Geração de Minas",seg:"Restaurante",plano:"Start",ig:"@geracaodeminassp",acc:"3517126421796226",status:"ATIVO",
+     spend:348.39,impr:28056,reach:23557,clicks:2843,ctr:10.13,cpc:0.12,cpm:12.42,freq:1.19,linkClicks:2507,pay:true,
+     camps:[{n:"PERFIL / 22.04 / TODOS / 18+ / 50D",spend:348.39,impr:28056,clicks:2843,ctr:10.13,cpc:0.12}]},
+    {nome:"RR Spa Mobile",seg:"Estética Automotiva",plano:"Start",ig:"—",acc:"877905779872333",status:"ATIVO",
+     spend:230.80,impr:25820,reach:19908,clicks:478,ctr:1.85,cpc:0.48,cpm:8.94,freq:1.30,linkClicks:388,pay:true,
+     camps:[{n:"WHATS / 22.04 / WIFI / 25-60 / 24D",spend:162.16,impr:9263,clicks:98,ctr:1.06,cpc:1.65},
+            {n:"IG-PERFIL / 31.01 / todos / 25+ / 10D",spend:68.64,impr:16557,clicks:380,ctr:2.30,cpc:0.18}]},
+    {nome:"Chácara da Serra",seg:"Eventos/Lazer",plano:"Start",ig:"—",acc:"1343108897056888",status:"ATIVO",
+     spend:186.69,impr:34792,reach:26736,clicks:990,ctr:2.85,cpc:0.19,cpm:5.37,freq:1.30,linkClicks:963,pay:true,
+     camps:[{n:"IG GERAL / 15.06 / TODOS / 30D",spend:85.16,impr:17854,clicks:534,ctr:2.99,cpc:0.16},
+            {n:"WHATS ENG MUN / 03.06.26 / WIFI / 30D",spend:64.60,impr:4216,clicks:60,ctr:1.42,cpc:1.08},
+            {n:"IG / 26.05 / TODOS / 10D",spend:36.93,impr:12722,clicks:396,ctr:3.11,cpc:0.09}]},
+    {nome:"Lucks Lanches",seg:"Restaurante",plano:"Start",ig:"@luckslanches",acc:"724989819654241",status:"ATIVO",
+     spend:105.21,impr:18397,reach:14719,clicks:343,ctr:1.86,cpc:0.31,cpm:5.72,freq:1.25,linkClicks:339,pay:true,
+     camps:[{n:"IG PERFIL / 03.06.26 / WIFI / 20_60 / 18H_01H / 400T",spend:105.21,impr:18397,clicks:343,ctr:1.86,cpc:0.31}]},
+    {nome:"Padaria Rainha da Sul",seg:"Padaria",plano:"Start",ig:"@padariarainhadasul",acc:"892357802999114",status:"ATIVO",
+     spend:79.86,impr:10274,reach:7704,clicks:188,ctr:1.83,cpc:0.42,cpm:7.77,freq:1.33,linkClicks:196,pay:true,
+     camps:[{n:"IG-perfil / 20.01.26 / todos / 20D",spend:79.86,impr:10274,clicks:188,ctr:1.83,cpc:0.42}]},
+    {nome:"União de Minas",seg:"Restaurante",plano:"Start",ig:"@barerestaurante.uniaodeminas",acc:"1076173037436485",status:"ATIVO",
+     spend:71.51,impr:16318,reach:10910,clicks:350,ctr:2.14,cpc:0.20,cpm:4.38,freq:1.50,linkClicks:261,pay:true,
+     camps:[{n:"IG PERFIL / 05.05.26 / TODOS / 10D",spend:71.51,impr:16319,clicks:350,ctr:2.14,cpc:0.20}]},
+    {nome:"Cafeína Urbana Arquitetura",seg:"Arquitetura",plano:"Start",ig:"—",acc:"973988312272175",status:"ATIVO",
+     spend:24.72,impr:5642,reach:5440,clicks:88,ctr:1.56,cpc:0.28,cpm:4.38,freq:1.04,linkClicks:84,pay:true,
+     camps:[{n:"IG GERAL / 16.06 / 25+ / TODOS / 10D",spend:24.72,impr:5642,clicks:88,ctr:1.56,cpc:0.28}]},
+    {nome:"Servemei",seg:"App/Consultoria MEI",plano:"Start",ig:"—",acc:"2416703108676525",status:"ATIVO",
+     spend:804.24,impr:55757,reach:42446,clicks:1871,ctr:3.36,cpc:0.43,cpm:14.42,freq:1.31,linkClicks:1422,pay:true,
+     camps:[{n:"Whats / 09.02.26<16.04.26 / wifi-todos / 110D",spend:704.75,impr:48570,clicks:1103,ctr:2.27,cpc:0.64},
+            {n:"IG-PERFIL / 21.01.26 / WIFI / BR-20_50 / 15D",spend:99.49,impr:7187,clicks:768,ctr:10.69,cpc:0.13}]},
+    {nome:"Espaço AMAR",seg:"Estética/Integrativa",plano:"Start",ig:"—",acc:"312676821930863",status:"DORMENTE",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+    {nome:"ATA Deco",seg:"Tapeçaria/Decoração",plano:"—",ig:"@ata.deco",acc:"37012127715052483",status:"DORMENTE",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:true,camps:[]},
+    {nome:"Açaí Bacaceo",seg:"Alimentação",plano:"—",ig:"—",acc:"2117547009034350",status:"DORMENTE",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+    {nome:"Breno Rodrigues",seg:"Personal/Fight",plano:"Start",ig:"—",acc:"952366480052425",status:"DORMENTE",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:true,camps:[]},
+    {nome:"Tenório's Burger",seg:"Hamburgueria",plano:"Start",ig:"@tenoriosburger.saoluis",acc:"730924665516463",status:"API_PENDENTE",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:true,camps:[]},
+    {nome:"Master Clean Pro",seg:"Produtos de Limpeza",plano:"—",ig:"—",acc:"1499544194883369",status:"API_PENDENTE",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+    {nome:"ASTS.ARG",seg:"—",plano:"Ouro",ig:"—",acc:"—",status:"SEM_CONTA",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+    {nome:"JB Lacroux",seg:"—",plano:"Ouro",ig:"—",acc:"—",status:"SEM_CONTA",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+    {nome:"Villa Macarrone",seg:"Restaurante Italiano",plano:"Start",ig:"@villamacarroneoficial",acc:"—",status:"SEM_CONTA",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+    {nome:"Tapioca Alagoana",seg:"Restaurante",plano:"Start",ig:"@tapiocalagoana",acc:"—",status:"SEM_CONTA",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+    {nome:"Adriano Dias Positivo",seg:"—",plano:"—",ig:"@adrianodiaspositivo",acc:"—",status:"SEM_CONTA",spend:0,impr:0,reach:0,clicks:0,ctr:0,cpc:0,cpm:0,freq:0,linkClicks:0,pay:false,camps:[]},
+  ]
+};
+
+/* metas / benchmarks usados no diagnóstico (calibráveis) */
+const META = { ctrBom:3, ctrOk:1.5, ctrRuim:1, freqAlerta:3, freqAviso:2.5, cpcAlto:1.5, cpmAlto:15, cpmBom:6 };
+
+/* ---------- helpers ---------- */
+const BRL = n => "R$" + (n||0).toLocaleString("pt-BR",{minimumFractionDigits:2,maximumFractionDigits:2});
+const NUM = n => (n||0).toLocaleString("pt-BR");
+const PCT = n => (n||0).toLocaleString("pt-BR",{minimumFractionDigits:2,maximumFractionDigits:2}) + "%";
+const FX = n => (n||0).toLocaleString("pt-BR",{minimumFractionDigits:2,maximumFractionDigits:2});
+
+const STATUS_META = {
+  ATIVO:{label:"Ativo", color:"var(--green)"},
+  DORMENTE:{label:"Dormente", color:"var(--yellow)"},
+  API_PENDENTE:{label:"API pendente", color:"var(--blue)"},
+  SEM_CONTA:{label:"Sem conta conectada", color:"var(--muted)"},
+};
+
+/* ============================================================
+   MOTOR DE DIAGNÓSTICO — gera veredito + alertas + instruções
+   ============================================================ */
+function diagnostico(c){
+  if(c.status==="DORMENTE"){
+    const o=[{t:"alerta",m:"Conta sem investimento no período. Reativar campanha ou confirmar a pausa com o cliente."}];
+    if(!c.pay) o.push({t:"alerta",m:"Sem meio de pagamento configurado na conta de anúncio — bloqueia qualquer veiculação."});
+    return {veredito:"Dormente", vcor:"var(--yellow)", itens:o};
+  }
+  if(c.status==="API_PENDENTE")
+    return {veredito:"Aguardando API", vcor:"var(--blue)", itens:[{t:"info",m:"Conta existe no Meta, mas o acesso via API/MCP ainda não foi liberado. Solicitar liberação para puxar os dados."}]};
+  if(c.status==="SEM_CONTA")
+    return {veredito:"Sem conta", vcor:"var(--muted)", itens:[{t:"info",m:"Cliente ativo no Trello sem conta de tráfego conectada. Adicionar o ID da conta de anúncio no cartão do cliente ou confirmar que é conteúdo-only."}]};
+
+  // ATIVO — diagnóstico quantitativo
+  const o=[]; let sev=0; // 0 ok, 1 aviso, 2 alerta
+  const bump = n => { if(n>sev) sev=n; };
+
+  // 1) Frequência (fadiga)
+  if(c.freq >= META.freqAlerta){ o.push({t:"alerta",m:`Frequência de ${FX(c.freq)}: cada pessoa já viu o anúncio ~${Math.round(c.freq)}x. Sinal de fadiga de criativo. Ação: subir 2-3 criativos novos e/ou ampliar o público.`}); bump(2); }
+  else if(c.freq >= META.freqAviso){ o.push({t:"aviso",m:`Frequência de ${FX(c.freq)} começando a subir. Ação: deixar o próximo criativo pronto para entrar.`}); bump(1); }
+
+  // 2) CTR (criativo)
+  if(c.ctr < META.ctrRuim){ o.push({t:"alerta",m:`CTR de ${PCT(c.ctr)} abaixo de 1%: o criativo não está gerando cliques. Como criativo é o novo público, priorize testar 3 novos criativos (ganchos diferentes) antes de mexer em público.`}); bump(2); }
+  else if(c.ctr < META.ctrOk){ o.push({t:"aviso",m:`CTR de ${PCT(c.ctr)} abaixo da média da carteira (~2%). Ação: testar novos ganchos/formatos.`}); bump(1); }
+  else if(c.ctr >= META.ctrBom){ o.push({t:"bom",m:`CTR de ${PCT(c.ctr)} excelente — criativo e público bem casados. Candidato a escalar verba gradualmente (+20%/semana).`}); }
+
+  // 3) CPC (eficiência do clique)
+  if(c.cpc > META.cpcAlto){ o.push({t:"alerta",m:`CPC de ${BRL(c.cpc)} alto. Combine com CTR e CPM para achar a causa: CTR baixo = criativo; CPM alto = leilão/relevância.`}); bump(2); }
+  else if(c.cpc<=0.25 && c.clicks>50){ o.push({t:"bom",m:`CPC de ${BRL(c.cpc)} muito eficiente — há espaço para aumentar o orçamento.`}); }
+
+  // 4) CPM (custo de distribuição)
+  if(c.cpm > META.cpmAlto){ o.push({t:"aviso",m:`CPM de ${BRL(c.cpm)} alto: leilão concorrido ou baixa relevância. Criativo mais nativo (menos "cara de anúncio") tende a baixar o CPM.`}); bump(1); }
+  else if(c.cpm>0 && c.cpm<=META.cpmBom && c.ctr>=META.ctrOk){ o.push({t:"bom",m:`CPM de ${BRL(c.cpm)} eficiente com bom CTR — distribuição barata e relevante.`}); }
+
+  // 5) pior campanha do cliente
+  const ativ = (c.camps||[]).filter(k=>k.impr>300);
+  if(ativ.length>1){
+    const pior = ativ.reduce((a,b)=> (a.ctr<b.ctr?a:b));
+    if(pior.ctr < META.ctrRuim){ o.push({t:"aviso",m:`A campanha "${pior.n}" está puxando o resultado para baixo (CTR ${PCT(pior.ctr)}, CPC ${BRL(pior.cpc)}). Ação: pausar ou trocar o criativo dela.`}); bump(1); }
+  }
+
+  let veredito, vcor;
+  if(sev>=2){ veredito="Requer ação"; vcor="var(--red)"; }
+  else if(sev===1){ veredito="Monitorar"; vcor="var(--yellow)"; }
+  else { veredito="Saudável"; vcor="var(--green)"; }
+
+  // explicação do "tudo bem"
+  if(sev===0){
+    o.unshift({t:"bom",m:`Tudo certo por aqui: CTR de ${PCT(c.ctr)} saudável, frequência controlada em ${FX(c.freq)}, CPM de ${BRL(c.cpm)} eficiente e CPC de ${BRL(c.cpc)} dentro do alvo. Conta entregando bem — manter monitoramento e ter o próximo criativo pronto para quando a frequência subir.`});
+  }
+  return {veredito, vcor, itens:o};
+}
+
+const OBS_STYLE = {
+  alerta:{bg:"rgba(255,84,112,.12)", bd:"var(--red)", ic:"⚠", c:"var(--red)"},
+  aviso:{bg:"rgba(255,207,92,.12)", bd:"var(--yellow)", ic:"!", c:"var(--yellow)"},
+  bom:{bg:"rgba(39,192,138,.12)", bd:"var(--green)", ic:"✓", c:"var(--green)"},
+  info:{bg:"rgba(90,169,255,.12)", bd:"var(--blue)", ic:"i", c:"var(--blue)"},
+};
+
+/* ---------- UI ---------- */
+function Logo(){
+  return (
+    <div style={{display:"flex",alignItems:"center",gap:10}}>
+      <div style={{width:34,height:34,borderRadius:9,background:"linear-gradient(135deg,var(--orange),var(--orange2))",
+        display:"flex",alignItems:"center",justifyContent:"center",fontWeight:800,fontSize:18,color:"#1a1206"}}>i</div>
+      <div style={{lineHeight:1}}>
+        <div style={{fontWeight:800,letterSpacing:.5}}>INOVANDO <span style={{color:"var(--orange)"}}>MKT</span></div>
+        <div style={{fontSize:10,color:"var(--muted)",letterSpacing:2,marginTop:2}}>COMMAND CENTER</div>
+      </div>
+    </div>
+  );
+}
+function Pill({status}){
+  const m = STATUS_META[status];
+  return <span style={{fontSize:11,fontWeight:700,color:m.color,border:`1px solid ${m.color}`,padding:"2px 9px",borderRadius:20,whiteSpace:"nowrap"}}>{m.label}</span>;
+}
+function Stat({label,value,sub,accent}){
+  return (
+    <div style={{background:"var(--panel)",border:"1px solid var(--line)",borderRadius:14,padding:"14px 16px",flex:1,minWidth:130}}>
+      <div style={{fontSize:11,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1}}>{label}</div>
+      <div style={{fontSize:24,fontWeight:800,marginTop:6,color:accent||"var(--txt)"}}>{value}</div>
+      {sub && <div style={{fontSize:11,color:"var(--muted)",marginTop:3}}>{sub}</div>}
+    </div>
+  );
+}
+
+/* ---------- OVERVIEW ---------- */
+function Overview({clientes, totais, onPick}){
+  const [filtro,setFiltro] = useState("TODOS");
+  const [ordem,setOrdem] = useState("spend");
+  const [dir,setDir] = useState("desc");
+
+  const statusCount = useMemo(()=>{
+    const c={ATIVO:0,DORMENTE:0,API_PENDENTE:0,SEM_CONTA:0}; clientes.forEach(x=>c[x.status]++); return c;
+  },[clientes]);
+
+  const linhas = useMemo(()=>{
+    let arr = clientes.filter(c=> filtro==="TODOS"?true:c.status===filtro);
+    return [...arr].sort((a,b)=>{
+      const va=a[ordem]??0, vb=b[ordem]??0;
+      if(typeof va==="string") return dir==="asc"?va.localeCompare(vb):vb.localeCompare(va);
+      return dir==="asc"?va-vb:vb-va;
+    });
+  },[clientes,filtro,ordem,dir]);
+
+  const setSort = k => { if(ordem===k) setDir(d=>d==="asc"?"desc":"asc"); else {setOrdem(k); setDir("desc");} };
+  const arrow = k => ordem===k ? (dir==="asc"?" ▲":" ▼") : "";
+  const FBtn = ({id,children}) => (
+    <button onClick={()=>setFiltro(id)} style={{background:filtro===id?"var(--orange)":"var(--panel2)",color:filtro===id?"#1a1206":"var(--muted)",
+      border:"1px solid var(--line)",borderRadius:20,padding:"6px 14px",fontSize:12,fontWeight:700,cursor:"pointer"}}>{children}</button>
+  );
+  const th = (k,label,al) => (
+    <th onClick={()=>setSort(k)} style={{textAlign:al||"right",padding:"10px 10px",cursor:"pointer",color:"var(--muted)",fontSize:11,textTransform:"uppercase",letterSpacing:.5,userSelect:"none",whiteSpace:"nowrap"}}>{label}{arrow(k)}</th>
+  );
+
+  return (
+    <div style={{padding:"24px 36px",height:"100%",overflowY:"auto"}}>
+      <h1 style={{fontSize:27,fontWeight:800}}>Visão Geral da Carteira</h1>
+      <div style={{color:"var(--muted)",marginTop:4}}>Tráfego pago • {totais.periodo} • dados reais Meta Ads</div>
+
+      <div style={{display:"flex",gap:12,marginTop:20,flexWrap:"wrap"}}>
+        <Stat label="Investido" value={BRL(totais.spend)} sub={`${statusCount.ATIVO} contas ativas`} accent="var(--orange)"/>
+        <Stat label="Impressões" value={NUM(totais.impr)} />
+        <Stat label="Cliques" value={NUM(totais.clicks)} />
+        <Stat label="CTR médio" value={PCT(totais.ctr)} accent={totais.ctr>=2?"var(--green)":"var(--txt)"}/>
+        <Stat label="CPC médio" value={BRL(totais.cpc)} />
+        <Stat label="CPM médio" value={BRL(totais.cpm)} />
+        <Stat label="Freq. média" value={FX(totais.freq)} accent={totais.freq>=3?"var(--red)":"var(--txt)"}/>
+      </div>
+
+      <div style={{display:"flex",gap:10,marginTop:18,flexWrap:"wrap"}}>
+        <div style={{background:"var(--panel)",border:"1px solid var(--line)",borderRadius:12,padding:"10px 16px",display:"flex",gap:18,flexWrap:"wrap"}}>
+          {Object.keys(STATUS_META).map(k=>(
+            <div key={k} style={{display:"flex",alignItems:"center",gap:7}}>
+              <span style={{width:9,height:9,borderRadius:9,background:STATUS_META[k].color,display:"inline-block"}}></span>
+              <span style={{fontSize:12}}>{STATUS_META[k].label}: <b>{statusCount[k]}</b></span>
+            </div>
+          ))}
+          <div style={{fontSize:12,color:"var(--muted)"}}>Total: <b>{clientes.length}</b></div>
+        </div>
+      </div>
+
+      <div style={{display:"flex",gap:8,marginTop:16,flexWrap:"wrap",alignItems:"center"}}>
+        <span style={{fontSize:12,color:"var(--muted)",marginRight:4}}>Filtrar:</span>
+        <FBtn id="TODOS">Todos</FBtn><FBtn id="ATIVO">Ativos</FBtn><FBtn id="DORMENTE">Dormentes</FBtn>
+        <FBtn id="API_PENDENTE">API pendente</FBtn><FBtn id="SEM_CONTA">Sem conta</FBtn>
+      </div>
+
+      <div style={{marginTop:14,background:"var(--panel)",border:"1px solid var(--line)",borderRadius:14,overflow:"auto"}}>
+        <table style={{width:"100%",borderCollapse:"collapse",minWidth:760}}>
+          <thead>
+            <tr style={{borderBottom:"1px solid var(--line)",background:"var(--panel2)"}}>
+              {th("nome","Cliente","left")}
+              <th style={{textAlign:"left",padding:"10px 10px",color:"var(--muted)",fontSize:11,textTransform:"uppercase",letterSpacing:.5}}>Status</th>
+              {th("spend","Investido")}{th("impr","Impr.")}{th("clicks","Cliques")}{th("ctr","CTR")}{th("cpc","CPC")}{th("cpm","CPM")}{th("freq","Freq.")}
+            </tr>
+          </thead>
+          <tbody>
+            {linhas.map(c=>{
+              const a = c.status==="ATIVO";
+              return (
+                <tr key={c.nome} onClick={()=>onPick(c.nome)} style={{borderBottom:"1px solid var(--line)",cursor:"pointer"}}
+                  onMouseEnter={e=>e.currentTarget.style.background="var(--panel2)"} onMouseLeave={e=>e.currentTarget.style.background="transparent"}>
+                  <td style={{padding:"10px",fontWeight:600}}>{c.nome}<span style={{color:"var(--muted)",fontWeight:400,fontSize:11,marginLeft:8}}>{c.seg!=="—"?c.seg:""}</span></td>
+                  <td style={{padding:"10px"}}><Pill status={c.status}/></td>
+                  <td style={{padding:"10px",textAlign:"right",fontWeight:700,color:c.spend>0?"var(--orange)":"var(--muted)"}}>{c.spend>0?BRL(c.spend):"—"}</td>
+                  <td style={{padding:"10px",textAlign:"right"}}>{c.impr>0?NUM(c.impr):"—"}</td>
+                  <td style={{padding:"10px",textAlign:"right"}}>{c.clicks>0?NUM(c.clicks):"—"}</td>
+                  <td style={{padding:"10px",textAlign:"right",color:a?(c.ctr<1?"var(--red)":c.ctr>=3?"var(--green)":"var(--txt)"):"var(--muted)"}}>{a?PCT(c.ctr):"—"}</td>
+                  <td style={{padding:"10px",textAlign:"right",color:a?(c.cpc>1.5?"var(--red)":"var(--txt)"):"var(--muted)"}}>{a?BRL(c.cpc):"—"}</td>
+                  <td style={{padding:"10px",textAlign:"right",color:"var(--muted)"}}>{a?BRL(c.cpm):"—"}</td>
+                  <td style={{padding:"10px",textAlign:"right",color:a?(c.freq>=3?"var(--red)":c.freq>=2.5?"var(--yellow)":"var(--txt)"):"var(--muted)"}}>{a?FX(c.freq):"—"}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      <div style={{textAlign:"center",color:"var(--muted)",fontSize:11,marginTop:12,paddingBottom:10}}>
+        Clique num cliente para abrir o diagnóstico • cabeçalhos ordenam a tabela • metas: CTR&lt;1% e CPC&gt;R$1,50 e Freq&ge;3 acendem alerta
+      </div>
+    </div>
+  );
+}
+
+/* ---------- CLIENTE ---------- */
+function ClienteSlide({c, idx, total}){
+  const d = diagnostico(c);
+  const ativo = c.status==="ATIVO";
+  return (
+    <div style={{padding:"24px 36px",height:"100%",overflowY:"auto"}}>
+      <div style={{display:"flex",justifyContent:"space-between",alignItems:"flex-start",flexWrap:"wrap",gap:12}}>
+        <div>
+          <div style={{display:"flex",alignItems:"center",gap:12,flexWrap:"wrap"}}>
+            <h1 style={{fontSize:28,fontWeight:800}}>{c.nome}</h1>
+            <Pill status={c.status}/>
+            {c.plano!=="—" && <span style={{fontSize:11,color:"var(--orange2)",border:"1px solid var(--orange2)",borderRadius:20,padding:"2px 9px"}}>Plano {c.plano}</span>}
+          </div>
+          <div style={{color:"var(--muted)",marginTop:6}}>{c.seg!=="—"?c.seg:""}{c.ig!=="—"?`  •  ${c.ig}`:""}{c.acc!=="—"?`  •  act_${c.acc}`:""}</div>
+        </div>
+        <div style={{textAlign:"right"}}>
+          <div style={{display:"inline-block",border:`1px solid ${d.vcor}`,color:d.vcor,fontWeight:800,fontSize:13,borderRadius:10,padding:"6px 14px"}}>{d.veredito}</div>
+          <div style={{color:"var(--muted)",fontSize:12,marginTop:6}}>Cliente {idx} de {total}</div>
+        </div>
+      </div>
+
+      {ativo ? (
+        <React.Fragment>
+          <div style={{display:"flex",gap:12,marginTop:20,flexWrap:"wrap"}}>
+            <Stat label="Investido" value={BRL(c.spend)} accent="var(--orange)"/>
+            <Stat label="Impressões" value={NUM(c.impr)} />
+            <Stat label="Alcance" value={NUM(c.reach)} />
+            <Stat label="Cliques" value={NUM(c.clicks)} sub={c.linkClicks?`${NUM(c.linkClicks)} no link`:null}/>
+            <Stat label="CTR" value={PCT(c.ctr)} accent={c.ctr<1?"var(--red)":c.ctr>=3?"var(--green)":"var(--txt)"}/>
+            <Stat label="CPC" value={BRL(c.cpc)} accent={c.cpc>1.5?"var(--red)":"var(--txt)"}/>
+            <Stat label="CPM" value={BRL(c.cpm)} accent={c.cpm>15?"var(--yellow)":"var(--txt)"}/>
+            <Stat label="Frequência" value={FX(c.freq)} accent={c.freq>=3?"var(--red)":c.freq>=2.5?"var(--yellow)":"var(--txt)"}/>
+          </div>
+
+          <div style={{display:"grid",gridTemplateColumns:"1.35fr 1fr",gap:16,marginTop:20}}>
+            <div style={{background:"var(--panel)",border:"1px solid var(--line)",borderRadius:14,padding:"14px 16px"}}>
+              <div style={{fontSize:12,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:10}}>Campanhas no período</div>
+              {c.camps.map((k,i)=>(
+                <div key={i} style={{padding:"9px 0",borderTop:i?"1px solid var(--line)":"none"}}>
+                  <div style={{fontSize:13,fontWeight:600,marginBottom:6}}>{k.n}</div>
+                  <div style={{display:"flex",gap:14,flexWrap:"wrap",fontSize:12,color:"var(--muted)"}}>
+                    <span>Invest.: <b style={{color:"var(--orange)"}}>{BRL(k.spend)}</b></span>
+                    <span>Impr.: <b style={{color:"var(--txt)"}}>{NUM(k.impr)}</b></span>
+                    <span>Cliques: <b style={{color:"var(--txt)"}}>{NUM(k.clicks)}</b></span>
+                    <span>CTR: <b style={{color:k.ctr<1?"var(--red)":k.ctr>=3?"var(--green)":"var(--txt)"}}>{k.impr>300?PCT(k.ctr):"n/d"}</b></span>
+                    <span>CPC: <b style={{color:"var(--txt)"}}>{k.clicks>0?BRL(k.cpc):"n/d"}</b></span>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            <div style={{background:"var(--panel)",border:"1px solid var(--line)",borderRadius:14,padding:"14px 16px"}}>
+              <div style={{fontSize:12,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:10}}>Diagnóstico do gestor</div>
+              {d.itens.map((o,i)=>{
+                const s=OBS_STYLE[o.t];
+                return (
+                  <div key={i} style={{display:"flex",gap:10,background:s.bg,borderLeft:`3px solid ${s.bd}`,borderRadius:8,padding:"10px 12px",marginBottom:9}}>
+                    <span style={{color:s.c,fontWeight:800}}>{s.ic}</span>
+                    <span style={{fontSize:13,lineHeight:1.42}}>{o.m}</span>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </React.Fragment>
+      ) : (
+        <div style={{marginTop:26,maxWidth:780}}>
+          <div style={{background:"var(--panel)",border:"1px solid var(--line)",borderRadius:14,padding:"26px"}}>
+            <div style={{fontSize:14,color:"var(--muted)",marginBottom:14}}>Sem dados de tráfego no período.</div>
+            {d.itens.map((o,i)=>{
+              const s=OBS_STYLE[o.t];
+              return (
+                <div key={i} style={{display:"flex",gap:10,background:s.bg,borderLeft:`3px solid ${s.bd}`,borderRadius:8,padding:"12px 14px",marginBottom:10}}>
+                  <span style={{color:s.c,fontWeight:800}}>{s.ic}</span>
+                  <span style={{fontSize:14,lineHeight:1.45}}>{o.m}</span>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ---------- App ---------- */
+function App(){
+  const [data,setData] = useState(SNAPSHOT);
+  const [fonte,setFonte] = useState("Snapshot embutido");
+  const [i,setI] = useState(0);
+  const [auto,setAuto] = useState(false);
+
+  // tenta carregar dados ao vivo gerados pelo motor (n8n) -> dados.json
+  const carregarVivo = useCallback(()=>{
+    fetch("dados.json?ts="+Date.now()).then(r=>{ if(!r.ok) throw 0; return r.json(); })
+      .then(j=>{ if(j && j.clientes){ setData(j); setFonte("Ao vivo (motor n8n)"); } })
+      .catch(()=>{});
+  },[]);
+  useEffect(()=>{ carregarVivo(); },[carregarVivo]);
+
+  const clientes = data.clientes;
+  const totais = useMemo(()=>{
+    const at = clientes.filter(c=>c.status==="ATIVO");
+    const spend=at.reduce((s,c)=>s+c.spend,0), impr=at.reduce((s,c)=>s+c.impr,0),
+          reach=at.reduce((s,c)=>s+c.reach,0), clicks=at.reduce((s,c)=>s+c.clicks,0);
+    const freq = at.length? at.reduce((s,c)=>s+(c.freq||0),0)/at.length : 0;
+    return { spend, impr, reach, clicks, ctr: impr?clicks/impr*100:0, cpc: clicks?spend/clicks:0,
+             cpm: impr?spend/impr*1000:0, freq, periodo:(data.periodo&&data.periodo.label)||"" };
+  },[clientes,data]);
+
+  const slides = useMemo(()=> [{tipo:"overview"}, ...clientes.map(c=>({tipo:"cliente",c}))],[clientes]);
+  const go = useCallback(dl=> setI(p=> (p+dl+slides.length)%slides.length),[slides.length]);
+  const pick = useCallback(nome=>{ const idx=clientes.findIndex(c=>c.nome===nome); if(idx>=0) setI(idx+1); },[clientes]);
+
+  useEffect(()=>{ const h=e=>{ if(e.key==="ArrowRight")go(1); else if(e.key==="ArrowLeft")go(-1); };
+    window.addEventListener("keydown",h); return ()=>window.removeEventListener("keydown",h); },[go]);
+  useEffect(()=>{ if(!auto)return; const t=setInterval(()=>go(1),10000); return ()=>clearInterval(t); },[auto,go]);
+
+  const s = slides[i] || {tipo:"overview"};
+  return (
+    <div style={{height:"100vh",display:"flex",flexDirection:"column"}}>
+      <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"12px 22px",borderBottom:"1px solid var(--line)",background:"var(--panel)"}}>
+        <Logo/>
+        <div style={{display:"flex",alignItems:"center",gap:10,flexWrap:"wrap"}}>
+          <span style={{fontSize:11,color:"var(--muted)"}}>{fonte} • {data.atualizadoEm||""}</span>
+          <button onClick={()=>setI(0)} style={btn(i===0)}>Visão Geral</button>
+          <button onClick={carregarVivo} style={btn(false)}>↻ Atualizar</button>
+          <button onClick={()=>setAuto(a=>!a)} style={btn(auto)}>{auto?"⏸ Auto":"▶ Auto (10s)"}</button>
+        </div>
+      </div>
+      <div style={{height:3,background:"var(--line)"}}>
+        <div style={{height:"100%",width:`${(i/Math.max(slides.length-1,1))*100}%`,background:"linear-gradient(90deg,var(--orange),var(--orange2))",transition:"width .3s"}}></div>
+      </div>
+      <div style={{flex:1,position:"relative",overflow:"hidden"}}>
+        {s.tipo==="overview" ? <Overview clientes={clientes} totais={totais} onPick={pick}/> : <ClienteSlide c={s.c} idx={i} total={clientes.length}/>}
+        <button onClick={()=>go(-1)} style={arrowBtn("left")}>‹</button>
+        <button onClick={()=>go(1)} style={arrowBtn("right")}>›</button>
+      </div>
+      <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"8px 22px",borderTop:"1px solid var(--line)",background:"var(--panel)",fontSize:12,color:"var(--muted)"}}>
+        <span>Slide {i+1} / {slides.length} • use ← → para navegar</span>
+        <span>Inovando MKT — “Seremos a melhor agência do Brasil!”</span>
+      </div>
+    </div>
+  );
+}
+
+function btn(active){ return {background:active?"var(--orange)":"var(--panel2)",color:active?"#1a1206":"var(--muted)",border:"1px solid var(--line)",borderRadius:9,padding:"7px 12px",fontSize:12,fontWeight:700,cursor:"pointer"}; }
+function arrowBtn(side){ return {position:"absolute",top:"50%",[side]:12,transform:"translateY(-50%)",width:40,height:40,borderRadius:"50%",border:"1px solid var(--line)",background:"rgba(21,23,28,.85)",color:"var(--txt)",fontSize:23,cursor:"pointer",display:"flex",alignItems:"center",justifyContent:"center"}; }
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
+</script>
+</body>
+</html>
