@@ -1,0 +1,36 @@
+name: Atualizar dados do dashboard
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar o Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Rodar o motor
+        env:
+          TRELLO_KEY: ${{ secrets.TRELLO_KEY }}
+          TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+        run: node motor.js
+
+      - name: Salvar dados.json
+        run: |
+          git config user.name "motor-inovando"
+          git config user.email "actions@users.noreply.github.com"
+          git add dados.json
+          git diff --staged --quiet || git commit -m "motor: atualiza dados.json"
+          git push
