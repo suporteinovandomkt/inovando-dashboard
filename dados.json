@@ -1,114 +1,114 @@
 {
-  "atualizadoEm": "Exemplo — gerado pelo motor às 08:30 (cada execução sobrescreve)",
+  "atualizadoEm": "Atualizado em 19/06/2026, 16:13:04",
   "periodo": {
-    "label": "12 a 18 de junho de 2026"
+    "label": "Últimos 7 dias"
   },
   "clientes": [
     {
-      "nome": "Souzagneri",
-      "seg": "Odontologia",
+      "nome": "SOUZAGNERI",
+      "seg": "—",
       "plano": "Ouro",
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1103.15,
-      "impr": 87634,
+      "spend": 1103.18,
+      "impr": 87639,
       "reach": 48089,
       "clicks": 1232,
-      "ctr": 1.41,
-      "cpc": 0.9,
-      "cpm": 12.59,
-      "freq": 1.82,
-      "linkClicks": 1071,
+      "ctr": 1.405767,
+      "cpc": 0.895438,
+      "cpm": 12.587775,
+      "freq": 1.822433,
+      "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
-          "spend": 1032.03,
-          "impr": 66931,
+          "spend": 1032.06,
+          "impr": 66936,
           "clicks": 825,
-          "ctr": 1.23,
-          "cpc": 1.25
+          "ctr": 1.232521,
+          "cpc": 1.250982
         },
         {
-          "n": "IG-PERFIL / 07.05 / TODOS / 10D",
+          "n": "IG - PERFIL / 07.05 / TODOS / 10D",
           "spend": 71.12,
           "impr": 20703,
           "clicks": 407,
-          "ctr": 1.97,
-          "cpc": 0.17
+          "ctr": 1.965899,
+          "cpc": 0.174742
         }
       ]
     },
     {
-      "nome": "Odonto Chueh",
-      "seg": "Odontologia",
+      "nome": "ODONTO CHUEH",
+      "seg": "—",
       "plano": "Ouro",
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 1209.09,
-      "impr": 142287,
+      "spend": 1209.1,
+      "impr": 142293,
       "reach": 46695,
       "clicks": 1361,
-      "ctr": 0.96,
-      "cpc": 0.89,
-      "cpm": 8.5,
-      "freq": 3.05,
-      "linkClicks": 1154,
+      "ctr": 0.956477,
+      "cpc": 0.888391,
+      "cpm": 8.497256,
+      "freq": 3.047286,
+      "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS SUG / 13.05 / WIFI 150D",
           "spend": 1101.39,
-          "impr": 116585,
+          "impr": 116590,
           "clicks": 853,
-          "ctr": 0.73,
-          "cpc": 1.29
+          "ctr": 0.731624,
+          "cpc": 1.291196
         },
         {
           "n": "IG-perfil / 27.03 / todos / 15D",
           "spend": 107.71,
           "impr": 25703,
           "clicks": 508,
-          "ctr": 1.98,
-          "cpc": 0.21
+          "ctr": 1.976423,
+          "cpc": 0.212028
         }
       ]
     },
     {
-      "nome": "Dent-X",
-      "seg": "Odontologia",
+      "nome": "DENT-X",
+      "seg": "—",
       "plano": "Start",
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 755.98,
-      "impr": 56453,
+      "impr": 56457,
       "reach": 28944,
       "clicks": 864,
-      "ctr": 1.53,
-      "cpc": 0.87,
-      "cpm": 13.39,
-      "freq": 1.95,
-      "linkClicks": 783,
+      "ctr": 1.530368,
+      "cpc": 0.874977,
+      "cpm": 13.390368,
+      "freq": 1.95056,
+      "linkClicks": 0,
       "pay": true,
       "camps": [
         {
-          "n": "WHATS META / 13.05 / +30 / 100D",
+          "n": "WHATS META  / 13.05 / +30 / 100D",
           "spend": 682.6,
-          "impr": 44250,
+          "impr": 44252,
           "clicks": 576,
-          "ctr": 1.3,
-          "cpc": 1.19
+          "ctr": 1.301636,
+          "cpc": 1.185069
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 69.34,
-          "impr": 12002,
+          "impr": 12004,
           "clicks": 288,
-          "ctr": 2.4,
-          "cpc": 0.24
+          "ctr": 2.3992,
+          "cpc": 0.240764
         },
         {
           "n": "teste formulário / 18.06 / 30+ / todos / 40D",
@@ -122,7 +122,7 @@
     },
     {
       "nome": "Ortodonto",
-      "seg": "Odontologia",
+      "seg": "—",
       "plano": "Start",
       "ig": "@ortodonto_se",
       "acc": "2046299446147904",
@@ -131,11 +131,11 @@
       "impr": 18025,
       "reach": 15652,
       "clicks": 271,
-      "ctr": 1.5,
-      "cpc": 0.21,
-      "cpm": 3.1,
-      "freq": 1.15,
-      "linkClicks": 270,
+      "ctr": 1.503467,
+      "cpc": 0.206273,
+      "cpm": 3.101248,
+      "freq": 1.15161,
+      "linkClicks": 0,
       "pay": true,
       "camps": [
         {
@@ -143,50 +143,33 @@
           "spend": 55.9,
           "impr": 18025,
           "clicks": 271,
-          "ctr": 1.5,
-          "cpc": 0.21
+          "ctr": 1.503467,
+          "cpc": 0.206273
         }
       ]
     },
     {
-      "nome": "Instituto Clínico Especializado",
-      "seg": "Odontologia",
+      "nome": "I. CLÍNICO ESPECIALIZADO - Plano Ouro",
+      "seg": "—",
       "plano": "Ouro",
       "ig": "—",
-      "acc": "1705373906851759",
-      "status": "ATIVO",
-      "spend": 480.79,
-      "impr": 48288,
-      "reach": 33966,
-      "clicks": 587,
-      "ctr": 1.22,
-      "cpc": 0.82,
-      "cpm": 9.96,
-      "freq": 1.42,
-      "linkClicks": 542,
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 10.06 / 4KM / WIFI / 25+ / 50D",
-          "spend": 369.35,
-          "impr": 12596,
-          "clicks": 207,
-          "ctr": 1.64,
-          "cpc": 1.78
-        },
-        {
-          "n": "IG PERFIL / 22.05.26 / WIFI / 10D",
-          "spend": 71.63,
-          "impr": 17625,
-          "clicks": 298,
-          "ctr": 1.69,
-          "cpc": 0.24
-        }
-      ]
+      "camps": []
     },
     {
-      "nome": "Gama Clinic SP",
-      "seg": "Estética/Clínica",
+      "nome": "GAMA CLINIC",
+      "seg": "—",
       "plano": "Start",
       "ig": "@gamaclinicsp",
       "acc": "681487721360272",
@@ -195,326 +178,34 @@
       "impr": 30221,
       "reach": 24335,
       "clicks": 505,
-      "ctr": 1.67,
-      "cpc": 0.87,
-      "cpm": 14.59,
-      "freq": 1.24,
-      "linkClicks": 426,
+      "ctr": 1.671023,
+      "cpc": 0.873228,
+      "cpm": 14.59184,
+      "freq": 1.241874,
+      "linkClicks": 0,
       "pay": true,
       "camps": [
         {
-          "n": "ADV WHATS / 14.05 / +25 / 50D",
-          "spend": 334.95,
-          "impr": 18968,
-          "clicks": 146,
-          "ctr": 0.77,
-          "cpc": 2.29
+          "n": "WHATS / 10.06 / 4KM / WIFI / 25+ / 50D",
+          "spend": 369.35,
+          "impr": 12596,
+          "clicks": 207,
+          "ctr": 1.643379,
+          "cpc": 1.7843
         },
         {
-          "n": "IG PERFIL / 19.03 / TODOS / 25+ / 15D",
-          "spend": 145.84,
-          "impr": 29320,
-          "clicks": 441,
-          "ctr": 1.5,
-          "cpc": 0.33
+          "n": "IG PERFIL / 22.05.26 / WIFI / 10D",
+          "spend": 71.63,
+          "impr": 17625,
+          "clicks": 298,
+          "ctr": 1.69078,
+          "cpc": 0.240369
         }
       ]
     },
     {
-      "nome": "Ótica Óptima",
-      "seg": "Ótica",
-      "plano": "Ouro",
-      "ig": "—",
-      "acc": "969933572256897",
-      "status": "ATIVO",
-      "spend": 378.31,
-      "impr": 58031,
-      "reach": 34465,
-      "clicks": 573,
-      "ctr": 0.99,
-      "cpc": 0.66,
-      "cpm": 6.52,
-      "freq": 1.68,
-      "linkClicks": 509,
-      "pay": true,
-      "camps": [
-        {
-          "n": "WHATS ENG / 11.06 / TODOS / 35D",
-          "spend": 251.77,
-          "impr": 11422,
-          "clicks": 118,
-          "ctr": 1.03,
-          "cpc": 2.13
-        },
-        {
-          "n": "IG - PERFIL / 11.05 / TODOS / 15D",
-          "spend": 126.54,
-          "impr": 46609,
-          "clicks": 455,
-          "ctr": 0.98,
-          "cpc": 0.28
-        }
-      ]
-    },
-    {
-      "nome": "Geração de Minas",
-      "seg": "Restaurante",
-      "plano": "Start",
-      "ig": "@geracaodeminassp",
-      "acc": "3517126421796226",
-      "status": "ATIVO",
-      "spend": 348.39,
-      "impr": 28056,
-      "reach": 23557,
-      "clicks": 2843,
-      "ctr": 10.13,
-      "cpc": 0.12,
-      "cpm": 12.42,
-      "freq": 1.19,
-      "linkClicks": 2507,
-      "pay": true,
-      "camps": [
-        {
-          "n": "PERFIL / 22.04 / TODOS / 18+ / 50D",
-          "spend": 348.39,
-          "impr": 28056,
-          "clicks": 2843,
-          "ctr": 10.13,
-          "cpc": 0.12
-        }
-      ]
-    },
-    {
-      "nome": "RR Spa Mobile",
-      "seg": "Estética Automotiva",
-      "plano": "Start",
-      "ig": "—",
-      "acc": "877905779872333",
-      "status": "ATIVO",
-      "spend": 230.8,
-      "impr": 25820,
-      "reach": 19908,
-      "clicks": 478,
-      "ctr": 1.85,
-      "cpc": 0.48,
-      "cpm": 8.94,
-      "freq": 1.3,
-      "linkClicks": 388,
-      "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 22.04 / WIFI / 25-60 / 24D",
-          "spend": 162.16,
-          "impr": 9263,
-          "clicks": 98,
-          "ctr": 1.06,
-          "cpc": 1.65
-        },
-        {
-          "n": "IG-PERFIL / 31.01 / todos / 25+ / 10D",
-          "spend": 68.64,
-          "impr": 16557,
-          "clicks": 380,
-          "ctr": 2.3,
-          "cpc": 0.18
-        }
-      ]
-    },
-    {
-      "nome": "Chácara da Serra",
-      "seg": "Eventos/Lazer",
-      "plano": "Start",
-      "ig": "—",
-      "acc": "1343108897056888",
-      "status": "ATIVO",
-      "spend": 186.69,
-      "impr": 34792,
-      "reach": 26736,
-      "clicks": 990,
-      "ctr": 2.85,
-      "cpc": 0.19,
-      "cpm": 5.37,
-      "freq": 1.3,
-      "linkClicks": 963,
-      "pay": true,
-      "camps": [
-        {
-          "n": "IG GERAL / 15.06 / TODOS / 30D",
-          "spend": 85.16,
-          "impr": 17854,
-          "clicks": 534,
-          "ctr": 2.99,
-          "cpc": 0.16
-        },
-        {
-          "n": "WHATS ENG MUN / 03.06.26 / WIFI / 30D",
-          "spend": 64.6,
-          "impr": 4216,
-          "clicks": 60,
-          "ctr": 1.42,
-          "cpc": 1.08
-        },
-        {
-          "n": "IG / 26.05 / TODOS / 10D",
-          "spend": 36.93,
-          "impr": 12722,
-          "clicks": 396,
-          "ctr": 3.11,
-          "cpc": 0.09
-        }
-      ]
-    },
-    {
-      "nome": "Lucks Lanches",
-      "seg": "Restaurante",
-      "plano": "Start",
-      "ig": "@luckslanches",
-      "acc": "724989819654241",
-      "status": "ATIVO",
-      "spend": 105.21,
-      "impr": 18397,
-      "reach": 14719,
-      "clicks": 343,
-      "ctr": 1.86,
-      "cpc": 0.31,
-      "cpm": 5.72,
-      "freq": 1.25,
-      "linkClicks": 339,
-      "pay": true,
-      "camps": [
-        {
-          "n": "IG PERFIL / 03.06.26 / WIFI / 20_60 / 18H_01H / 400T",
-          "spend": 105.21,
-          "impr": 18397,
-          "clicks": 343,
-          "ctr": 1.86,
-          "cpc": 0.31
-        }
-      ]
-    },
-    {
-      "nome": "Padaria Rainha da Sul",
-      "seg": "Padaria",
-      "plano": "Start",
-      "ig": "@padariarainhadasul",
-      "acc": "892357802999114",
-      "status": "ATIVO",
-      "spend": 79.86,
-      "impr": 10274,
-      "reach": 7704,
-      "clicks": 188,
-      "ctr": 1.83,
-      "cpc": 0.42,
-      "cpm": 7.77,
-      "freq": 1.33,
-      "linkClicks": 196,
-      "pay": true,
-      "camps": [
-        {
-          "n": "IG-perfil / 20.01.26 / todos / 20D",
-          "spend": 79.86,
-          "impr": 10274,
-          "clicks": 188,
-          "ctr": 1.83,
-          "cpc": 0.42
-        }
-      ]
-    },
-    {
-      "nome": "União de Minas",
-      "seg": "Restaurante",
-      "plano": "Start",
-      "ig": "@barerestaurante.uniaodeminas",
-      "acc": "1076173037436485",
-      "status": "ATIVO",
-      "spend": 71.51,
-      "impr": 16318,
-      "reach": 10910,
-      "clicks": 350,
-      "ctr": 2.14,
-      "cpc": 0.2,
-      "cpm": 4.38,
-      "freq": 1.5,
-      "linkClicks": 261,
-      "pay": true,
-      "camps": [
-        {
-          "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 71.51,
-          "impr": 16319,
-          "clicks": 350,
-          "ctr": 2.14,
-          "cpc": 0.2
-        }
-      ]
-    },
-    {
-      "nome": "Cafeína Urbana Arquitetura",
-      "seg": "Arquitetura",
-      "plano": "Start",
-      "ig": "—",
-      "acc": "973988312272175",
-      "status": "ATIVO",
-      "spend": 24.72,
-      "impr": 5642,
-      "reach": 5440,
-      "clicks": 88,
-      "ctr": 1.56,
-      "cpc": 0.28,
-      "cpm": 4.38,
-      "freq": 1.04,
-      "linkClicks": 84,
-      "pay": true,
-      "camps": [
-        {
-          "n": "IG GERAL / 16.06 / 25+ / TODOS / 10D",
-          "spend": 24.72,
-          "impr": 5642,
-          "clicks": 88,
-          "ctr": 1.56,
-          "cpc": 0.28
-        }
-      ]
-    },
-    {
-      "nome": "Servemei",
-      "seg": "App/Consultoria MEI",
-      "plano": "Start",
-      "ig": "—",
-      "acc": "2416703108676525",
-      "status": "ATIVO",
-      "spend": 804.24,
-      "impr": 55757,
-      "reach": 42446,
-      "clicks": 1871,
-      "ctr": 3.36,
-      "cpc": 0.43,
-      "cpm": 14.42,
-      "freq": 1.31,
-      "linkClicks": 1422,
-      "pay": true,
-      "camps": [
-        {
-          "n": "Whats / 09.02.26<16.04.26 / wifi-todos / 110D",
-          "spend": 704.75,
-          "impr": 48570,
-          "clicks": 1103,
-          "ctr": 2.27,
-          "cpc": 0.64
-        },
-        {
-          "n": "IG-PERFIL / 21.01.26 / WIFI / BR-20_50 / 15D",
-          "spend": 99.49,
-          "impr": 7187,
-          "clicks": 768,
-          "ctr": 10.69,
-          "cpc": 0.13
-        }
-      ]
-    },
-    {
-      "nome": "Espaço AMAR",
-      "seg": "Estética/Integrativa",
+      "nome": "AMAR - Plano Start",
+      "seg": "—",
       "plano": "Start",
       "ig": "—",
       "acc": "312676821930863",
@@ -528,12 +219,48 @@
       "cpm": 0,
       "freq": 0,
       "linkClicks": 0,
-      "pay": false,
+      "pay": true,
       "camps": []
     },
     {
-      "nome": "ATA Deco",
-      "seg": "Tapeçaria/Decoração",
+      "nome": "ÓTICA ÓPTIMA - Plano Ouro",
+      "seg": "—",
+      "plano": "Ouro",
+      "ig": "—",
+      "acc": "969933572256897",
+      "status": "ATIVO",
+      "spend": 378.31,
+      "impr": 58031,
+      "reach": 34465,
+      "clicks": 573,
+      "ctr": 0.987403,
+      "cpc": 0.660227,
+      "cpm": 6.519102,
+      "freq": 1.683766,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "WHATS ENG / 11.06 / TODOS / 35D",
+          "spend": 251.77,
+          "impr": 11422,
+          "clicks": 118,
+          "ctr": 1.033094,
+          "cpc": 2.133644
+        },
+        {
+          "n": "IG - PERFIL / 11.05 / TODOS / 15D",
+          "spend": 126.54,
+          "impr": 46609,
+          "clicks": 455,
+          "ctr": 0.976206,
+          "cpc": 0.27811
+        }
+      ]
+    },
+    {
+      "nome": "ATA - 05",
+      "seg": "—",
       "plano": "—",
       "ig": "@ata.deco",
       "acc": "37012127715052483",
@@ -551,7 +278,137 @@
       "camps": []
     },
     {
-      "nome": "Açaí Bacaceo",
+      "nome": "CAFEÍNA URBANA ARQUITETURA",
+      "seg": "Arquitetura",
+      "plano": "—",
+      "ig": "—",
+      "acc": "973988312272175",
+      "status": "ATIVO",
+      "spend": 24.73,
+      "impr": 5644,
+      "reach": 5441,
+      "clicks": 88,
+      "ctr": 1.559178,
+      "cpc": 0.281023,
+      "cpm": 4.381644,
+      "freq": 1.037309,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "IG GERAL / 16.06 / 25+ / TODOS / 10D",
+          "spend": 24.73,
+          "impr": 5644,
+          "clicks": 88,
+          "ctr": 1.559178,
+          "cpc": 0.281023
+        }
+      ]
+    },
+    {
+      "nome": "ASTS.ARG - Plano Ouro",
+      "seg": "—",
+      "plano": "Ouro",
+      "ig": "—",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "JB LACROUX - Plano Ouro",
+      "seg": "—",
+      "plano": "Ouro",
+      "ig": "—",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "RR SPA MOBILE - Plano Start",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "—",
+      "acc": "877905779872333",
+      "status": "ATIVO",
+      "spend": 230.8,
+      "impr": 25820,
+      "reach": 19908,
+      "clicks": 478,
+      "ctr": 1.851278,
+      "cpc": 0.482845,
+      "cpm": 8.938807,
+      "freq": 1.296966,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "WHATS / 22.04 / WIFI / 25 - 60  / 24 D",
+          "spend": 162.16,
+          "impr": 9263,
+          "clicks": 98,
+          "ctr": 1.057973,
+          "cpc": 1.654694
+        },
+        {
+          "n": "IG-PERFIL / 31.01 / todos / 25+ / 10D",
+          "spend": 68.64,
+          "impr": 16557,
+          "clicks": 380,
+          "ctr": 2.295102,
+          "cpc": 0.180632
+        }
+      ]
+    },
+    {
+      "nome": "GERAÇÃO DE MINAS - 05",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "@geracaodeminassp",
+      "acc": "3517126421796226",
+      "status": "ATIVO",
+      "spend": 348.4,
+      "impr": 28057,
+      "reach": 23557,
+      "clicks": 2843,
+      "ctr": 10.132944,
+      "cpc": 0.122547,
+      "cpm": 12.417579,
+      "freq": 1.191026,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "PERFIL / 22.04 / TODOS / 18+ / 50D",
+          "spend": 348.4,
+          "impr": 28057,
+          "clicks": 2843,
+          "ctr": 10.132944,
+          "cpc": 0.122547
+        }
+      ]
+    },
+    {
+      "nome": "BACACIO AÇAI",
       "seg": "Alimentação",
       "plano": "—",
       "ig": "—",
@@ -566,12 +423,233 @@
       "cpm": 0,
       "freq": 0,
       "linkClicks": 0,
-      "pay": false,
+      "pay": true,
       "camps": []
     },
     {
-      "nome": "Breno Rodrigues",
-      "seg": "Personal/Fight",
+      "nome": "TENORIOS - 10",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "@tenoriosburger.saoluis",
+      "acc": "730924665516463",
+      "status": "ATIVO",
+      "spend": 82.52,
+      "impr": 16006,
+      "reach": 12278,
+      "clicks": 271,
+      "ctr": 1.693115,
+      "cpc": 0.304502,
+      "cpm": 5.155567,
+      "freq": 1.303633,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "C. WEB JUNHO / 02.06 - 30.06  / WIFI / 4KM / 400T",
+          "spend": 82.52,
+          "impr": 16006,
+          "clicks": 271,
+          "ctr": 1.693115,
+          "cpc": 0.304502
+        }
+      ]
+    },
+    {
+      "nome": "UNIÃO DE MINAS",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "@barerestaurante.uniaodeminas",
+      "acc": "1076173037436485",
+      "status": "ATIVO",
+      "spend": 71.51,
+      "impr": 16320,
+      "reach": 10910,
+      "clicks": 350,
+      "ctr": 2.144608,
+      "cpc": 0.204314,
+      "cpm": 4.38174,
+      "freq": 1.495875,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
+          "spend": 71.51,
+          "impr": 16320,
+          "clicks": 350,
+          "ctr": 2.144608,
+          "cpc": 0.204314
+        }
+      ]
+    },
+    {
+      "nome": "PADARIA RAINHA DA SUL - 05",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "—",
+      "acc": "892357802999114",
+      "status": "ATIVO",
+      "spend": 79.86,
+      "impr": 10274,
+      "reach": 7704,
+      "clicks": 188,
+      "ctr": 1.829862,
+      "cpc": 0.424787,
+      "cpm": 7.773019,
+      "freq": 1.333593,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "IG-perfil / 20.01.26 / todos / 20D",
+          "spend": 79.86,
+          "impr": 10274,
+          "clicks": 188,
+          "ctr": 1.829862,
+          "cpc": 0.424787
+        }
+      ]
+    },
+    {
+      "nome": "VILLA MACARRONE",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "@villamacarroneoficial",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "TAPIOCA ALAGOANA - 10",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "@tapiocalagoana",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "SERVEMEI - Plano Start",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "—",
+      "acc": "2416703108676525",
+      "status": "ATIVO",
+      "spend": 804.25,
+      "impr": 55759,
+      "reach": 42127,
+      "clicks": 1871,
+      "ctr": 3.355512,
+      "cpc": 0.42985,
+      "cpm": 14.42368,
+      "freq": 1.323593,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "Whats / 09.02.26<16.04.26 / wifi - todos / face.insta - todos / 110D",
+          "spend": 704.76,
+          "impr": 48572,
+          "clicks": 1103,
+          "ctr": 2.270856,
+          "cpc": 0.638948
+        },
+        {
+          "n": "IG-PERFIL / 21.01.26 / WIFI / BR-20_50 / 15D",
+          "spend": 99.49,
+          "impr": 7187,
+          "clicks": 768,
+          "ctr": 10.685961,
+          "cpc": 0.129544
+        }
+      ]
+    },
+    {
+      "nome": "CHACARA  DA SERRA - Plano Start",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "—",
+      "acc": "1343108897056888",
+      "status": "ATIVO",
+      "spend": 186.69,
+      "impr": 34792,
+      "reach": 26736,
+      "clicks": 990,
+      "ctr": 2.845482,
+      "cpc": 0.188576,
+      "cpm": 5.365889,
+      "freq": 1.301317,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": [
+        {
+          "n": "IG GERAL / 15.06 / TODOS / 30 D",
+          "spend": 85.16,
+          "impr": 17854,
+          "clicks": 534,
+          "ctr": 2.990926,
+          "cpc": 0.159476
+        },
+        {
+          "n": "WHATS ENG MUN / 03.06.26 / WIFI / 30D",
+          "spend": 64.6,
+          "impr": 4216,
+          "clicks": 60,
+          "ctr": 1.42315,
+          "cpc": 1.076667
+        },
+        {
+          "n": "IG / 26.05 / TODOS / 10D",
+          "spend": 36.93,
+          "impr": 12722,
+          "clicks": 396,
+          "ctr": 3.112718,
+          "cpc": 0.093258
+        }
+      ]
+    },
+    {
+      "nome": "MASTER CLEAN PRO AJU",
+      "seg": "Produtos de Limpeza",
+      "plano": "—",
+      "ig": "—",
+      "acc": "1499544194883369",
+      "status": "DORMENTE",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "BRENO RODRIGUES - Plano Start",
+      "seg": "—",
       "plano": "Start",
       "ig": "—",
       "acc": "952366480052425",
@@ -589,121 +667,35 @@
       "camps": []
     },
     {
-      "nome": "Tenório's Burger",
-      "seg": "Hamburgueria",
+      "nome": "LUCKS LANCHES -10",
+      "seg": "—",
       "plano": "Start",
-      "ig": "@tenoriosburger.saoluis",
-      "acc": "730924665516463",
-      "status": "API_PENDENTE",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
+      "ig": "@luckslanches",
+      "acc": "724989819654241",
+      "status": "ATIVO",
+      "spend": 105.21,
+      "impr": 18397,
+      "reach": 14719,
+      "clicks": 343,
+      "ctr": 1.864434,
+      "cpc": 0.306735,
+      "cpm": 5.718867,
+      "freq": 1.249881,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG PERFIL / 03.06.26 / WIFI / 20_60 / 18H_01H / 400T",
+          "spend": 105.21,
+          "impr": 18397,
+          "clicks": 343,
+          "ctr": 1.864434,
+          "cpc": 0.306735
+        }
+      ]
     },
     {
-      "nome": "Master Clean Pro",
-      "seg": "Produtos de Limpeza",
-      "plano": "—",
-      "ig": "—",
-      "acc": "1499544194883369",
-      "status": "API_PENDENTE",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": false,
-      "camps": []
-    },
-    {
-      "nome": "ASTS.ARG",
-      "seg": "—",
-      "plano": "Ouro",
-      "ig": "—",
-      "acc": "—",
-      "status": "SEM_CONTA",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": false,
-      "camps": []
-    },
-    {
-      "nome": "JB Lacroux",
-      "seg": "—",
-      "plano": "Ouro",
-      "ig": "—",
-      "acc": "—",
-      "status": "SEM_CONTA",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": false,
-      "camps": []
-    },
-    {
-      "nome": "Villa Macarrone",
-      "seg": "Restaurante Italiano",
-      "plano": "Start",
-      "ig": "@villamacarroneoficial",
-      "acc": "—",
-      "status": "SEM_CONTA",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": false,
-      "camps": []
-    },
-    {
-      "nome": "Tapioca Alagoana",
-      "seg": "Restaurante",
-      "plano": "Start",
-      "ig": "@tapiocalagoana",
-      "acc": "—",
-      "status": "SEM_CONTA",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": false,
-      "camps": []
-    },
-    {
-      "nome": "Adriano Dias Positivo",
+      "nome": "ADRIANO DIAS POSITIVO - 10",
       "seg": "—",
       "plano": "—",
       "ig": "@adrianodiaspositivo",
@@ -718,7 +710,7 @@
       "cpm": 0,
       "freq": 0,
       "linkClicks": 0,
-      "pay": false,
+      "pay": true,
       "camps": []
     }
   ]
