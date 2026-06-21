@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 20/06/2026, 20:20:14",
+  "atualizadoEm": "Atualizado em 20/06/2026, 23:01:36",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1124.32,
-      "impr": 87584,
+      "spend": 1124.35,
+      "impr": 87587,
       "reach": 48424,
       "clicks": 1266,
-      "ctr": 1.445469,
-      "cpc": 0.888088,
-      "cpm": 12.837048,
-      "freq": 1.80869,
+      "ctr": 1.44542,
+      "cpc": 0.888112,
+      "cpm": 12.836951,
+      "freq": 1.808752,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
-          "spend": 1056.72,
-          "impr": 68051,
+          "spend": 1056.75,
+          "impr": 68054,
           "clicks": 871,
-          "ctr": 1.279922,
-          "cpc": 1.213226
+          "ctr": 1.279866,
+          "cpc": 1.213261
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -155,32 +155,32 @@
       "ig": "—",
       "acc": "1705373906851759",
       "status": "ATIVO",
-      "spend": 490.77,
-      "impr": 47644,
-      "reach": 32585,
-      "clicks": 605,
-      "ctr": 1.269835,
-      "cpc": 0.81119,
-      "cpm": 10.300772,
-      "freq": 1.462145,
+      "spend": 486.96,
+      "impr": 44135,
+      "reach": 30155,
+      "clicks": 556,
+      "ctr": 1.259771,
+      "cpc": 0.875827,
+      "cpm": 11.03342,
+      "freq": 1.463605,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "ADV WHATS / 14.05 / +25 / 50D",
-          "spend": 348.06,
-          "impr": 18577,
-          "clicks": 154,
-          "ctr": 0.828982,
-          "cpc": 2.26013
+          "spend": 347.35,
+          "impr": 16012,
+          "clicks": 145,
+          "ctr": 0.905571,
+          "cpc": 2.395517
         },
         {
           "n": "IG PERFIL / 19.03 / TODOS / 25+ / 15D",
-          "spend": 142.71,
-          "impr": 29067,
-          "clicks": 451,
-          "ctr": 1.551588,
-          "cpc": 0.31643
+          "spend": 139.61,
+          "impr": 28123,
+          "clicks": 411,
+          "ctr": 1.461437,
+          "cpc": 0.339684
         }
       ]
     },
