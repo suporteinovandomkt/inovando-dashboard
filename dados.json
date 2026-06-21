@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 21/06/2026, 17:44:35",
+  "atualizadoEm": "Atualizado em 21/06/2026, 19:21:33",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -12,22 +12,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 1119.97,
-      "impr": 88690,
+      "impr": 88693,
       "reach": 47516,
       "clicks": 1284,
-      "ctr": 1.447739,
+      "ctr": 1.44769,
       "cpc": 0.872251,
-      "cpm": 12.627917,
-      "freq": 1.866529,
+      "cpm": 12.62749,
+      "freq": 1.866592,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
           "spend": 1050,
-          "impr": 68542,
+          "impr": 68545,
           "clicks": 898,
-          "ctr": 1.310146,
+          "ctr": 1.310088,
           "cpc": 1.169265
         },
         {
@@ -144,22 +144,22 @@
       "acc": "2046299446147904",
       "status": "ATIVO",
       "spend": 55.97,
-      "impr": 18329,
+      "impr": 18330,
       "reach": 15791,
       "clicks": 284,
-      "ctr": 1.549457,
+      "ctr": 1.549373,
       "cpc": 0.197077,
-      "cpm": 3.053631,
-      "freq": 1.160724,
+      "cpm": 3.053464,
+      "freq": 1.160788,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG- PERFIL / 22.05.26 / WIFI / 8D",
           "spend": 55.97,
-          "impr": 18329,
+          "impr": 18330,
           "clicks": 284,
-          "ctr": 1.549457,
+          "ctr": 1.549373,
           "cpc": 0.197077
         }
       ]
@@ -606,22 +606,22 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 874.15,
-      "impr": 61124,
+      "impr": 61125,
       "reach": 46960,
       "clicks": 2067,
-      "ctr": 3.38165,
+      "ctr": 3.381595,
       "cpc": 0.422908,
-      "cpm": 14.301256,
-      "freq": 1.301618,
+      "cpm": 14.301022,
+      "freq": 1.30164,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "Whats / 09.02.26<16.04.26 / wifi - todos / face.insta - todos / 110D",
           "spend": 769.21,
-          "impr": 53338,
+          "impr": 53339,
           "clicks": 1212,
-          "ctr": 2.272301,
+          "ctr": 2.272259,
           "cpc": 0.634662
         },
         {
