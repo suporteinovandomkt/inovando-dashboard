@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/06/2026, 15:25:26",
+  "atualizadoEm": "Atualizado em 23/06/2026, 17:40:34",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1113.63,
-      "impr": 92782,
+      "spend": 1113.78,
+      "impr": 92793,
       "reach": 48151,
       "clicks": 1321,
-      "ctr": 1.423768,
-      "cpc": 0.84302,
-      "cpm": 12.002651,
-      "freq": 1.926897,
+      "ctr": 1.423599,
+      "cpc": 0.843134,
+      "cpm": 12.002845,
+      "freq": 1.927125,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
-          "spend": 1039.45,
-          "impr": 71758,
+          "spend": 1039.6,
+          "impr": 71769,
           "clicks": 924,
-          "ctr": 1.287661,
-          "cpc": 1.124946
+          "ctr": 1.287464,
+          "cpc": 1.125108
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -47,14 +47,14 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 1067.76,
-      "impr": 133818,
+      "spend": 1067.77,
+      "impr": 133819,
       "reach": 47551,
       "clicks": 1156,
-      "ctr": 0.86386,
-      "cpc": 0.923668,
-      "cpm": 7.979196,
-      "freq": 2.814199,
+      "ctr": 0.863853,
+      "cpc": 0.923676,
+      "cpm": 7.979211,
+      "freq": 2.814221,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -68,11 +68,11 @@
         },
         {
           "n": "WHATS / 20.06 / WIFI / 120D",
-          "spend": 318.36,
-          "impr": 40400,
+          "spend": 318.37,
+          "impr": 40401,
           "clicks": 259,
-          "ctr": 0.641089,
-          "cpc": 1.229189
+          "ctr": 0.641073,
+          "cpc": 1.229228
         },
         {
           "n": "IG-perfil / 27.03 / todos / 15D",
@@ -99,31 +99,31 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 820.96,
-      "impr": 59091,
+      "spend": 821,
+      "impr": 59097,
       "reach": 29734,
       "clicks": 953,
-      "ctr": 1.612767,
-      "cpc": 0.861448,
-      "cpm": 13.893148,
-      "freq": 1.987321,
+      "ctr": 1.612603,
+      "cpc": 0.86149,
+      "cpm": 13.892414,
+      "freq": 1.987523,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS META  / 13.05 / +30 / 100D",
-          "spend": 690.52,
-          "impr": 45847,
+          "spend": 690.56,
+          "impr": 45852,
           "clicks": 627,
-          "ctr": 1.367592,
-          "cpc": 1.101308
+          "ctr": 1.367443,
+          "cpc": 1.101372
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 68.98,
-          "impr": 10775,
+          "impr": 10776,
           "clicks": 303,
-          "ctr": 2.812065,
+          "ctr": 2.811804,
           "cpc": 0.227657
         },
         {
@@ -207,32 +207,32 @@
       "ig": "@gamaclinicsp",
       "acc": "681487721360272",
       "status": "ATIVO",
-      "spend": 400.62,
-      "impr": 31689,
+      "spend": 400.65,
+      "impr": 31691,
       "reach": 26256,
       "clicks": 491,
-      "ctr": 1.549434,
-      "cpc": 0.815927,
-      "cpm": 12.642242,
-      "freq": 1.206924,
+      "ctr": 1.549336,
+      "cpc": 0.815988,
+      "cpm": 12.642391,
+      "freq": 1.207,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 10.06 / 4KM / WIFI / 25+ / 50D",
-          "spend": 332.96,
-          "impr": 15238,
+          "spend": 332.97,
+          "impr": 15239,
           "clicks": 215,
-          "ctr": 1.410946,
-          "cpc": 1.548651
+          "ctr": 1.410854,
+          "cpc": 1.548698
         },
         {
           "n": "IG PERFIL / 22.05.26 / WIFI / 10D",
-          "spend": 67.66,
-          "impr": 16451,
+          "spend": 67.68,
+          "impr": 16452,
           "clicks": 276,
-          "ctr": 1.67771,
-          "cpc": 0.245145
+          "ctr": 1.677608,
+          "cpc": 0.245217
         }
       ]
     },
