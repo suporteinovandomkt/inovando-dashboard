@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 24/06/2026, 18:56:40",
+  "atualizadoEm": "Atualizado em 24/06/2026, 20:16:51",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1074.5,
-      "impr": 90160,
+      "spend": 1074.51,
+      "impr": 90162,
       "reach": 46413,
       "clicks": 1259,
-      "ctr": 1.396406,
-      "cpc": 0.853455,
-      "cpm": 11.917702,
-      "freq": 1.942559,
+      "ctr": 1.396375,
+      "cpc": 0.853463,
+      "cpm": 11.917548,
+      "freq": 1.942602,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
-          "spend": 1004.26,
-          "impr": 70151,
+          "spend": 1004.27,
+          "impr": 70153,
           "clicks": 877,
-          "ctr": 1.25016,
-          "cpc": 1.145108
+          "ctr": 1.250125,
+          "cpc": 1.14512
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -99,24 +99,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 822.66,
-      "impr": 64931,
+      "spend": 822.68,
+      "impr": 64932,
       "reach": 30984,
       "clicks": 959,
-      "ctr": 1.476952,
-      "cpc": 0.857831,
-      "cpm": 12.669757,
-      "freq": 2.09563,
+      "ctr": 1.47693,
+      "cpc": 0.857852,
+      "cpm": 12.66987,
+      "freq": 2.095662,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS META  / 13.05 / +30 / 100D",
-          "spend": 692.44,
-          "impr": 50912,
+          "spend": 692.46,
+          "impr": 50913,
           "clicks": 638,
-          "ctr": 1.253143,
-          "cpc": 1.085329
+          "ctr": 1.253118,
+          "cpc": 1.085361
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -455,24 +455,24 @@
       "ig": "@geracaodeminassp",
       "acc": "3517126421796226",
       "status": "ATIVO",
-      "spend": 349.16,
-      "impr": 28627,
+      "spend": 349.22,
+      "impr": 28628,
       "reach": 24151,
       "clicks": 2961,
-      "ctr": 10.343382,
-      "cpc": 0.11792,
-      "cpm": 12.196877,
-      "freq": 1.185334,
+      "ctr": 10.343021,
+      "cpc": 0.11794,
+      "cpm": 12.198547,
+      "freq": 1.185375,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "PERFIL / 22.04 / TODOS / 18+ / 50D",
-          "spend": 349.16,
-          "impr": 28627,
+          "spend": 349.22,
+          "impr": 28628,
           "clicks": 2961,
-          "ctr": 10.343382,
-          "cpc": 0.11792
+          "ctr": 10.343021,
+          "cpc": 0.11794
         }
       ]
     },
