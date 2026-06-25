@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 25/06/2026, 16:28:27",
+  "atualizadoEm": "Atualizado em 25/06/2026, 18:15:53",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1032.06,
-      "impr": 87454,
+      "spend": 1032.12,
+      "impr": 87459,
       "reach": 48168,
       "clicks": 1185,
-      "ctr": 1.354998,
-      "cpc": 0.870937,
-      "cpm": 11.801175,
-      "freq": 1.815604,
+      "ctr": 1.354921,
+      "cpc": 0.870987,
+      "cpm": 11.801187,
+      "freq": 1.815708,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
-          "spend": 965.35,
-          "impr": 68647,
+          "spend": 965.41,
+          "impr": 68652,
           "clicks": 832,
-          "ctr": 1.211998,
-          "cpc": 1.160276
+          "ctr": 1.211909,
+          "cpc": 1.160349
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -531,22 +531,22 @@
       "acc": "1076173037436485",
       "status": "ATIVO",
       "spend": 69.53,
-      "impr": 14967,
-      "reach": 9849,
+      "impr": 14968,
+      "reach": 9857,
       "clicks": 298,
-      "ctr": 1.991047,
+      "ctr": 1.990914,
       "cpc": 0.233322,
-      "cpm": 4.645554,
-      "freq": 1.519647,
+      "cpm": 4.645243,
+      "freq": 1.518515,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
           "spend": 69.53,
-          "impr": 14967,
+          "impr": 14968,
           "clicks": 298,
-          "ctr": 1.991047,
+          "ctr": 1.990914,
           "cpc": 0.233322
         }
       ]
