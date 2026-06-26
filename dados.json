@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 26/06/2026, 18:37:25",
+  "atualizadoEm": "Atualizado em 26/06/2026, 19:48:36",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1083.72,
-      "impr": 90951,
+      "spend": 1083.73,
+      "impr": 90954,
       "reach": 50748,
       "clicks": 1202,
-      "ctr": 1.321591,
-      "cpc": 0.901597,
-      "cpm": 11.915427,
-      "freq": 1.792209,
+      "ctr": 1.321547,
+      "cpc": 0.901606,
+      "cpm": 11.915144,
+      "freq": 1.792268,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
-          "spend": 1014.85,
-          "impr": 71844,
+          "spend": 1014.86,
+          "impr": 71847,
           "clicks": 837,
-          "ctr": 1.165024,
-          "cpc": 1.212485
+          "ctr": 1.164976,
+          "cpc": 1.212497
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -530,24 +530,24 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 68.62,
-      "impr": 14738,
+      "spend": 68.64,
+      "impr": 14739,
       "reach": 9698,
       "clicks": 290,
-      "ctr": 1.967703,
-      "cpc": 0.236621,
-      "cpm": 4.655991,
-      "freq": 1.519695,
+      "ctr": 1.967569,
+      "cpc": 0.23669,
+      "cpm": 4.657032,
+      "freq": 1.519798,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 68.62,
-          "impr": 14738,
+          "spend": 68.64,
+          "impr": 14739,
           "clicks": 290,
-          "ctr": 1.967703,
-          "cpc": 0.236621
+          "ctr": 1.967569,
+          "cpc": 0.23669
         }
       ]
     },
