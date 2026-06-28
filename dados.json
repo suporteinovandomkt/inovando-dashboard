@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 28/06/2026, 14:22:56",
+  "atualizadoEm": "Atualizado em 28/06/2026, 15:47:30",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -48,22 +48,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 944.97,
-      "impr": 133389,
+      "impr": 133391,
       "reach": 54907,
       "clicks": 1034,
-      "ctr": 0.775176,
+      "ctr": 0.775165,
       "cpc": 0.913897,
-      "cpm": 7.084317,
-      "freq": 2.429362,
+      "cpm": 7.084211,
+      "freq": 2.429399,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 20.06 / WIFI / 120D",
           "spend": 840,
-          "impr": 102695,
+          "impr": 102697,
           "clicks": 603,
-          "ctr": 0.587176,
+          "ctr": 0.587164,
           "cpc": 1.393035
         },
         {
@@ -84,23 +84,23 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 800.67,
-      "impr": 78424,
+      "impr": 78427,
       "reach": 33284,
-      "clicks": 886,
-      "ctr": 1.129756,
-      "cpc": 0.903691,
-      "cpm": 10.209502,
-      "freq": 2.356207,
+      "clicks": 887,
+      "ctr": 1.130988,
+      "cpc": 0.902672,
+      "cpm": 10.209112,
+      "freq": 2.356297,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS META  / 13.05 / +30 / 100D",
           "spend": 730.7,
-          "impr": 65306,
-          "clicks": 622,
-          "ctr": 0.952439,
-          "cpc": 1.174759
+          "impr": 65309,
+          "clicks": 623,
+          "ctr": 0.953927,
+          "cpc": 1.172873
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -470,24 +470,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 110.48,
-      "impr": 21112,
+      "spend": 110.51,
+      "impr": 21117,
       "reach": 15234,
       "clicks": 420,
-      "ctr": 1.98939,
-      "cpc": 0.263048,
-      "cpm": 5.233043,
-      "freq": 1.385847,
+      "ctr": 1.988919,
+      "cpc": 0.263119,
+      "cpm": 5.233224,
+      "freq": 1.386176,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JUNHO / 02.06 - 30.06  / WIFI / 4KM / 400T",
-          "spend": 110.48,
-          "impr": 21112,
+          "spend": 110.51,
+          "impr": 21117,
           "clicks": 420,
-          "ctr": 1.98939,
-          "cpc": 0.263048
+          "ctr": 1.988919,
+          "cpc": 0.263119
         }
       ]
     },
