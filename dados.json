@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 28/06/2026, 20:13:55",
+  "atualizadoEm": "Atualizado em 28/06/2026, 22:38:58",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -147,32 +147,32 @@
       "ig": "—",
       "acc": "1705373906851759",
       "status": "ATIVO",
-      "spend": 288.67,
-      "impr": 29903,
-      "reach": 22723,
-      "clicks": 397,
-      "ctr": 1.327626,
-      "cpc": 0.727128,
-      "cpm": 9.653546,
-      "freq": 1.315979,
+      "spend": 263.54,
+      "impr": 26483,
+      "reach": 20492,
+      "clicks": 341,
+      "ctr": 1.287618,
+      "cpc": 0.772845,
+      "cpm": 9.95129,
+      "freq": 1.292358,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "ADV WHATS / 14.05 / +25 / 50D",
-          "spend": 210.27,
-          "impr": 11270,
-          "clicks": 79,
-          "ctr": 0.700976,
-          "cpc": 2.661646
+          "spend": 197.97,
+          "impr": 10931,
+          "clicks": 76,
+          "ctr": 0.69527,
+          "cpc": 2.604868
         },
         {
           "n": "IG PERFIL / 19.03 / TODOS / 25+ / 15D",
-          "spend": 78.4,
-          "impr": 18633,
-          "clicks": 318,
-          "ctr": 1.706649,
-          "cpc": 0.246541
+          "spend": 65.57,
+          "impr": 15552,
+          "clicks": 265,
+          "ctr": 1.703961,
+          "cpc": 0.247434
         }
       ]
     },
@@ -275,22 +275,22 @@
       "acc": "37012127715052483",
       "status": "ATIVO",
       "spend": 70,
-      "impr": 4814,
+      "impr": 4815,
       "reach": 3932,
       "clicks": 81,
-      "ctr": 1.682592,
+      "ctr": 1.682243,
       "cpc": 0.864198,
-      "cpm": 14.540922,
-      "freq": 1.224313,
+      "cpm": 14.537902,
+      "freq": 1.224568,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
           "spend": 70,
-          "impr": 4814,
+          "impr": 4815,
           "clicks": 81,
-          "ctr": 1.682592,
+          "ctr": 1.682243,
           "cpc": 0.864198
         }
       ]
