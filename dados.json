@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 29/06/2026, 15:20:01",
+  "atualizadoEm": "Atualizado em 29/06/2026, 17:28:50",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1170.63,
-      "impr": 91021,
+      "spend": 1170.65,
+      "impr": 91023,
       "reach": 51796,
       "clicks": 1135,
-      "ctr": 1.246965,
-      "cpc": 1.031392,
-      "cpm": 12.861098,
-      "freq": 1.757298,
+      "ctr": 1.246938,
+      "cpc": 1.03141,
+      "cpm": 12.861035,
+      "freq": 1.757336,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 150D",
-          "spend": 1103.43,
-          "impr": 72981,
+          "spend": 1103.45,
+          "impr": 72983,
           "clicks": 732,
-          "ctr": 1.003001,
-          "cpc": 1.507418
+          "ctr": 1.002973,
+          "cpc": 1.507445
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -83,14 +83,14 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 819.39,
-      "impr": 84907,
+      "spend": 819.41,
+      "impr": 84909,
       "reach": 35819,
       "clicks": 881,
-      "ctr": 1.037606,
-      "cpc": 0.930068,
-      "cpm": 9.650441,
-      "freq": 2.370446,
+      "ctr": 1.037581,
+      "cpc": 0.930091,
+      "cpm": 9.650449,
+      "freq": 2.370502,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -104,11 +104,11 @@
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 72.27,
-          "impr": 14313,
+          "spend": 72.29,
+          "impr": 14315,
           "clicks": 255,
-          "ctr": 1.781597,
-          "cpc": 0.283412
+          "ctr": 1.781348,
+          "cpc": 0.28349
         }
       ]
     },
@@ -423,24 +423,24 @@
       "ig": "@geracaodeminassp",
       "acc": "3517126421796226",
       "status": "ATIVO",
-      "spend": 347.01,
-      "impr": 26225,
+      "spend": 347.03,
+      "impr": 26227,
       "reach": 23487,
       "clicks": 2751,
-      "ctr": 10.48999,
-      "cpc": 0.12614,
-      "cpm": 13.232031,
-      "freq": 1.116575,
+      "ctr": 10.489191,
+      "cpc": 0.126147,
+      "cpm": 13.231784,
+      "freq": 1.11666,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "PERFIL / 22.04 / TODOS / 18+ / 50D",
-          "spend": 347.01,
-          "impr": 26225,
+          "spend": 347.03,
+          "impr": 26227,
           "clicks": 2751,
-          "ctr": 10.48999,
-          "cpc": 0.12614
+          "ctr": 10.489191,
+          "cpc": 0.126147
         }
       ]
     },
@@ -471,22 +471,22 @@
       "acc": "730924665516463",
       "status": "ATIVO",
       "spend": 109.68,
-      "impr": 21230,
+      "impr": 21232,
       "reach": 15544,
       "clicks": 411,
-      "ctr": 1.93594,
+      "ctr": 1.935757,
       "cpc": 0.266861,
-      "cpm": 5.166274,
-      "freq": 1.3658,
+      "cpm": 5.165787,
+      "freq": 1.365929,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JUNHO / 02.06 - 30.06  / WIFI / 4KM / 400T",
           "spend": 109.68,
-          "impr": 21230,
+          "impr": 21232,
           "clicks": 411,
-          "ctr": 1.93594,
+          "ctr": 1.935757,
           "cpc": 0.266861
         }
       ]
@@ -498,24 +498,24 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 70.74,
-      "impr": 14955,
+      "spend": 70.75,
+      "impr": 14956,
       "reach": 9845,
       "clicks": 322,
-      "ctr": 2.153126,
-      "cpc": 0.219689,
-      "cpm": 4.730191,
-      "freq": 1.519045,
+      "ctr": 2.152982,
+      "cpc": 0.219721,
+      "cpm": 4.730543,
+      "freq": 1.519147,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 70.74,
-          "impr": 14955,
+          "spend": 70.75,
+          "impr": 14956,
           "clicks": 322,
-          "ctr": 2.153126,
-          "cpc": 0.219689
+          "ctr": 2.152982,
+          "cpc": 0.219721
         }
       ]
     },
