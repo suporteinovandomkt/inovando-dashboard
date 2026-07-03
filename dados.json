@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 03/07/2026, 17:00:15",
+  "atualizadoEm": "Atualizado em 03/07/2026, 18:18:21",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1234.87,
-      "impr": 91675,
+      "spend": 1234.95,
+      "impr": 91678,
       "reach": 49717,
       "clicks": 1149,
-      "ctr": 1.253341,
-      "cpc": 1.074735,
-      "cpm": 13.470085,
-      "freq": 1.843937,
+      "ctr": 1.2533,
+      "cpc": 1.074804,
+      "cpm": 13.470516,
+      "freq": 1.843997,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 130D",
-          "spend": 1155.25,
-          "impr": 73401,
+          "spend": 1155.33,
+          "impr": 73404,
           "clicks": 741,
-          "ctr": 1.009523,
-          "cpc": 1.559042
+          "ctr": 1.009482,
+          "cpc": 1.55915
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -92,22 +92,22 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 863.27,
-      "impr": 90646,
+      "impr": 90647,
       "reach": 35615,
       "clicks": 957,
-      "ctr": 1.055755,
+      "ctr": 1.055744,
       "cpc": 0.902059,
-      "cpm": 9.523531,
-      "freq": 2.545164,
+      "cpm": 9.523426,
+      "freq": 2.545192,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS META  / 13.05 / +30 / 100D",
           "spend": 790.39,
-          "impr": 75068,
+          "impr": 75069,
           "clicks": 702,
-          "ctr": 0.935152,
+          "ctr": 0.93514,
           "cpc": 1.125912
         },
         {
@@ -183,25 +183,6 @@
           "cpc": 0.356645
         }
       ]
-    },
-    {
-      "nome": "GAMA CLINIC",
-      "seg": "—",
-      "plano": "Start",
-      "ig": "@gamaclinicsp",
-      "acc": "681487721360272",
-      "status": "DORMENTE",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": true,
-      "camps": []
     },
     {
       "nome": "AMAR - Plano Start",
@@ -376,24 +357,24 @@
       "ig": "@geracaodeminassp",
       "acc": "3517126421796226",
       "status": "ATIVO",
-      "spend": 345.46,
-      "impr": 26333,
+      "spend": 345.47,
+      "impr": 26334,
       "reach": 22711,
-      "clicks": 2688,
-      "ctr": 10.207724,
-      "cpc": 0.128519,
-      "cpm": 13.1189,
-      "freq": 1.159482,
+      "clicks": 2690,
+      "ctr": 10.214931,
+      "cpc": 0.128428,
+      "cpm": 13.118782,
+      "freq": 1.159526,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "PERFIL / 22.04 / TODOS / 18+ / 50D",
-          "spend": 345.46,
-          "impr": 26333,
-          "clicks": 2688,
-          "ctr": 10.207724,
-          "cpc": 0.128519
+          "spend": 345.47,
+          "impr": 26334,
+          "clicks": 2690,
+          "ctr": 10.214931,
+          "cpc": 0.128428
         }
       ]
     },
@@ -460,22 +441,22 @@
       "acc": "1076173037436485",
       "status": "ATIVO",
       "spend": 70.84,
-      "impr": 15666,
+      "impr": 15669,
       "reach": 10194,
       "clicks": 338,
-      "ctr": 2.157539,
+      "ctr": 2.157126,
       "cpc": 0.209586,
-      "cpm": 4.521895,
-      "freq": 1.536786,
+      "cpm": 4.521029,
+      "freq": 1.537081,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
           "spend": 70.84,
-          "impr": 15666,
+          "impr": 15669,
           "clicks": 338,
-          "ctr": 2.157539,
+          "ctr": 2.157126,
           "cpc": 0.209586
         }
       ]
