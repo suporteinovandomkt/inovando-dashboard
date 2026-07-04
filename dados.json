@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 03/07/2026, 19:37:33",
+  "atualizadoEm": "Atualizado em 03/07/2026, 21:14:40",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -12,22 +12,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 1234.96,
-      "impr": 91683,
+      "impr": 91684,
       "reach": 49717,
       "clicks": 1149,
-      "ctr": 1.253231,
+      "ctr": 1.253218,
       "cpc": 1.074813,
-      "cpm": 13.469891,
-      "freq": 1.844098,
+      "cpm": 13.469744,
+      "freq": 1.844118,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 130D",
           "spend": 1155.33,
-          "impr": 73408,
+          "impr": 73409,
           "clicks": 741,
-          "ctr": 1.009427,
+          "ctr": 1.009413,
           "cpc": 1.55915
         },
         {
@@ -91,24 +91,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 863.27,
-      "impr": 90648,
+      "spend": 863.29,
+      "impr": 90651,
       "reach": 35615,
       "clicks": 957,
-      "ctr": 1.055732,
-      "cpc": 0.902059,
-      "cpm": 9.523321,
-      "freq": 2.54522,
+      "ctr": 1.055697,
+      "cpc": 0.902079,
+      "cpm": 9.523226,
+      "freq": 2.545304,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS META  / 13.05 / +30 / 100D",
-          "spend": 790.39,
-          "impr": 75070,
+          "spend": 790.41,
+          "impr": 75073,
           "clicks": 702,
-          "ctr": 0.935127,
-          "cpc": 1.125912
+          "ctr": 0.93509,
+          "cpc": 1.12594
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -155,32 +155,32 @@
       "ig": "—",
       "acc": "1705373906851759",
       "status": "ATIVO",
-      "spend": 194.57,
-      "impr": 19789,
-      "reach": 17031,
-      "clicks": 213,
-      "ctr": 1.076356,
-      "cpc": 0.913474,
-      "cpm": 9.83223,
-      "freq": 1.16194,
+      "spend": 263.55,
+      "impr": 25783,
+      "reach": 21335,
+      "clicks": 291,
+      "ctr": 1.128651,
+      "cpc": 0.90567,
+      "cpm": 10.221852,
+      "freq": 1.208484,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "ADV WHATS / 14.05 / +25 / 50D",
-          "spend": 139.29,
-          "impr": 6596,
-          "clicks": 58,
-          "ctr": 0.879321,
-          "cpc": 2.401552
+          "spend": 191.78,
+          "impr": 8754,
+          "clicks": 81,
+          "ctr": 0.925291,
+          "cpc": 2.367654
         },
         {
           "n": "IG PERFIL / 19.03 / TODOS / 25+ / 15D",
-          "spend": 55.28,
-          "impr": 13193,
-          "clicks": 155,
-          "ctr": 1.174865,
-          "cpc": 0.356645
+          "spend": 71.77,
+          "impr": 17029,
+          "clicks": 210,
+          "ctr": 1.23319,
+          "cpc": 0.341762
         }
       ]
     },
