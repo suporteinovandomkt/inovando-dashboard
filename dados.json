@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 04/07/2026, 17:31:55",
+  "atualizadoEm": "Atualizado em 04/07/2026, 18:31:42",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1257.66,
-      "impr": 92096,
+      "spend": 1257.68,
+      "impr": 92098,
       "reach": 50506,
       "clicks": 1137,
-      "ctr": 1.234581,
-      "cpc": 1.106121,
-      "cpm": 13.655968,
-      "freq": 1.823467,
+      "ctr": 1.234555,
+      "cpc": 1.106139,
+      "cpm": 13.655888,
+      "freq": 1.823506,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS 6633 / 27.05.26 / TODOS / 30+ / 130D",
-          "spend": 1098.15,
-          "impr": 69696,
+          "spend": 1098.17,
+          "impr": 69697,
           "clicks": 711,
-          "ctr": 1.020145,
-          "cpc": 1.544515
+          "ctr": 1.02013,
+          "cpc": 1.544543
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -41,9 +41,9 @@
         {
           "n": "WHATS / 03.07.26 / WIFI / 120D",
           "spend": 54.39,
-          "impr": 4049,
+          "impr": 4051,
           "clicks": 48,
-          "ctr": 1.185478,
+          "ctr": 1.184893,
           "cpc": 1.133125
         },
         {
@@ -153,12 +153,12 @@
       "status": "ATIVO",
       "spend": 55.52,
       "impr": 17275,
-      "reach": 14882,
+      "reach": 14889,
       "clicks": 261,
       "ctr": 1.510854,
       "cpc": 0.21272,
       "cpm": 3.213893,
-      "freq": 1.160798,
+      "freq": 1.160253,
       "linkClicks": 0,
       "pay": true,
       "camps": [
