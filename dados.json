@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 05/07/2026, 19:33:29",
+  "atualizadoEm": "Atualizado em 05/07/2026, 20:39:31",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -12,13 +12,13 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 1250.93,
-      "impr": 88076,
+      "impr": 88077,
       "reach": 49273,
       "clicks": 1127,
-      "ctr": 1.279577,
+      "ctr": 1.279562,
       "cpc": 1.109965,
-      "cpm": 14.202848,
-      "freq": 1.78751,
+      "cpm": 14.202686,
+      "freq": 1.787531,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -33,9 +33,9 @@
         {
           "n": "WHATS / 03.07.26 / WIFI / 120D",
           "spend": 161.56,
-          "impr": 8153,
+          "impr": 8154,
           "clicks": 137,
-          "ctr": 1.680363,
+          "ctr": 1.680157,
           "cpc": 1.17927
         },
         {
@@ -108,13 +108,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 800.5,
-      "impr": 85534,
+      "impr": 85535,
       "reach": 36649,
       "clicks": 964,
-      "ctr": 1.127037,
+      "ctr": 1.127024,
       "cpc": 0.830394,
-      "cpm": 9.358851,
-      "freq": 2.33387,
+      "cpm": 9.358742,
+      "freq": 2.333897,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -129,9 +129,9 @@
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
           "spend": 123.06,
-          "impr": 11206,
+          "impr": 11207,
           "clicks": 116,
-          "ctr": 1.03516,
+          "ctr": 1.035067,
           "cpc": 1.060862
         },
         {
@@ -575,13 +575,13 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 824.13,
-      "impr": 54329,
+      "impr": 54330,
       "reach": 45233,
       "clicks": 1777,
-      "ctr": 3.270813,
+      "ctr": 3.270753,
       "cpc": 0.463776,
-      "cpm": 15.169247,
-      "freq": 1.201092,
+      "cpm": 15.168967,
+      "freq": 1.201114,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -604,9 +604,9 @@
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
           "spend": 55.38,
-          "impr": 3214,
+          "impr": 3215,
           "clicks": 85,
-          "ctr": 2.64468,
+          "ctr": 2.643857,
           "cpc": 0.651529
         }
       ]
