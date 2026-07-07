@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 06/07/2026, 20:17:48",
+  "atualizadoEm": "Atualizado em 06/07/2026, 22:19:39",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,14 +11,14 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1217.71,
-      "impr": 82961,
+      "spend": 1217.72,
+      "impr": 82962,
       "reach": 47096,
       "clicks": 1150,
-      "ctr": 1.386194,
-      "cpc": 1.058878,
-      "cpm": 14.678102,
-      "freq": 1.76153,
+      "ctr": 1.386177,
+      "cpc": 1.058887,
+      "cpm": 14.678045,
+      "freq": 1.761551,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -32,11 +32,11 @@
         },
         {
           "n": "WHATS / 03.07.26 / WIFI / 120D",
-          "spend": 276.14,
-          "impr": 12823,
+          "spend": 276.15,
+          "impr": 12824,
           "clicks": 267,
-          "ctr": 2.082196,
-          "cpc": 1.034232
+          "ctr": 2.082034,
+          "cpc": 1.03427
         },
         {
           "n": "teste formulário / 02.07.26 / todos / 35D",
@@ -179,32 +179,32 @@
       "ig": "—",
       "acc": "1705373906851759",
       "status": "ATIVO",
-      "spend": 450.21,
-      "impr": 46443,
-      "reach": 33932,
-      "clicks": 583,
-      "ctr": 1.255302,
-      "cpc": 0.77223,
-      "cpm": 9.693818,
-      "freq": 1.368708,
+      "spend": 527.1,
+      "impr": 54834,
+      "reach": 39182,
+      "clicks": 705,
+      "ctr": 1.285699,
+      "cpc": 0.74766,
+      "cpm": 9.612649,
+      "freq": 1.399469,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "ADV WHATS / 14.05 / +25 / 50D",
-          "spend": 319.86,
-          "impr": 13672,
-          "clicks": 143,
-          "ctr": 1.045933,
-          "cpc": 2.236783
+          "spend": 379.91,
+          "impr": 17286,
+          "clicks": 180,
+          "ctr": 1.041305,
+          "cpc": 2.110611
         },
         {
           "n": "IG PERFIL / 19.03 / TODOS / 25+ / 15D",
-          "spend": 130.35,
-          "impr": 32771,
-          "clicks": 440,
-          "ctr": 1.342651,
-          "cpc": 0.29625
+          "spend": 147.19,
+          "impr": 37548,
+          "clicks": 525,
+          "ctr": 1.39821,
+          "cpc": 0.280362
         }
       ]
     },
