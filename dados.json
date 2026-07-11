@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 11/07/2026, 13:29:29",
+  "atualizadoEm": "Atualizado em 11/07/2026, 14:33:45",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,31 +11,31 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 1028.46,
-      "impr": 56062,
+      "spend": 1028.47,
+      "impr": 56070,
       "reach": 31411,
       "clicks": 1344,
-      "ctr": 2.397346,
-      "cpc": 0.765223,
-      "cpm": 18.345047,
-      "freq": 1.784789,
+      "ctr": 2.397004,
+      "cpc": 0.765231,
+      "cpm": 18.342607,
+      "freq": 1.785043,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 100D",
-          "spend": 865.74,
-          "impr": 35145,
+          "spend": 865.75,
+          "impr": 35152,
           "clicks": 1008,
-          "ctr": 2.868118,
-          "cpc": 0.858869
+          "ctr": 2.867547,
+          "cpc": 0.858879
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
           "spend": 86.66,
-          "impr": 19212,
+          "impr": 19213,
           "clicks": 314,
-          "ctr": 1.634395,
+          "ctr": 1.63431,
           "cpc": 0.275987
         },
         {
@@ -55,24 +55,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 964.97,
-      "impr": 128086,
+      "spend": 964.98,
+      "impr": 128088,
       "reach": 43846,
       "clicks": 1041,
-      "ctr": 0.812735,
-      "cpc": 0.926964,
-      "cpm": 7.533766,
-      "freq": 2.92127,
+      "ctr": 0.812723,
+      "cpc": 0.926974,
+      "cpm": 7.533727,
+      "freq": 2.921316,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 839.03,
-          "impr": 89253,
+          "spend": 839.04,
+          "impr": 89255,
           "clicks": 665,
-          "ctr": 0.745073,
-          "cpc": 1.261699
+          "ctr": 0.745056,
+          "cpc": 1.261714
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
@@ -128,22 +128,22 @@
       "acc": "2046299446147904",
       "status": "ATIVO",
       "spend": 55.72,
-      "impr": 18413,
-      "reach": 14788,
+      "impr": 18414,
+      "reach": 14804,
       "clicks": 300,
-      "ctr": 1.629284,
+      "ctr": 1.629195,
       "cpc": 0.185733,
-      "cpm": 3.026123,
-      "freq": 1.245131,
+      "cpm": 3.025959,
+      "freq": 1.243853,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG- PERFIL / 22.05.26 / WIFI / 8D",
           "spend": 55.72,
-          "impr": 18413,
+          "impr": 18414,
           "clicks": 300,
-          "ctr": 1.629284,
+          "ctr": 1.629195,
           "cpc": 0.185733
         }
       ]
@@ -203,13 +203,13 @@
       "acc": "969933572256897",
       "status": "ATIVO",
       "spend": 274.55,
-      "impr": 24366,
+      "impr": 24367,
       "reach": 16692,
       "clicks": 324,
-      "ctr": 1.329722,
+      "ctr": 1.329667,
       "cpc": 0.847377,
-      "cpm": 11.26775,
-      "freq": 1.459741,
+      "cpm": 11.267288,
+      "freq": 1.459801,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -240,9 +240,9 @@
         {
           "n": "IG - PERFIL / 06.07 / TODOS / 10D",
           "spend": 45.56,
-          "impr": 13233,
+          "impr": 13234,
           "clicks": 196,
-          "ctr": 1.481146,
+          "ctr": 1.481034,
           "cpc": 0.232449
         }
       ]
@@ -429,22 +429,22 @@
       "acc": "730924665516463",
       "status": "ATIVO",
       "spend": 88.52,
-      "impr": 21403,
+      "impr": 21404,
       "reach": 13185,
       "clicks": 294,
-      "ctr": 1.373639,
+      "ctr": 1.373575,
       "cpc": 0.301088,
-      "cpm": 4.135869,
-      "freq": 1.623284,
+      "cpm": 4.135676,
+      "freq": 1.62336,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
           "spend": 88.52,
-          "impr": 21403,
+          "impr": 21404,
           "clicks": 294,
-          "ctr": 1.373639,
+          "ctr": 1.373575,
           "cpc": 0.301088
         }
       ]
@@ -531,24 +531,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 874.57,
-      "impr": 58701,
+      "spend": 874.6,
+      "impr": 58702,
       "reach": 43365,
       "clicks": 2539,
-      "ctr": 4.32531,
-      "cpc": 0.344455,
-      "cpm": 14.898724,
-      "freq": 1.353649,
+      "ctr": 4.325236,
+      "cpc": 0.344466,
+      "cpm": 14.898981,
+      "freq": 1.353672,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 719.94,
-          "impr": 47567,
+          "spend": 719.97,
+          "impr": 47568,
           "clicks": 1468,
-          "ctr": 3.086173,
-          "cpc": 0.490422
+          "ctr": 3.086108,
+          "cpc": 0.490443
         },
         {
           "n": "IG-PERFIL / 21.01.26 / WIFI / BR-20_50 / 15D",
@@ -624,12 +624,12 @@
       ]
     },
     {
-      "nome": "BRENO RODRIGUES - Plano Start",
+      "nome": "ADRIANO DIAS POSITIVO - 10",
       "seg": "—",
-      "plano": "Start",
-      "ig": "—",
-      "acc": "952366480052425",
-      "status": "DORMENTE",
+      "plano": "—",
+      "ig": "@adrianodiaspositivo",
+      "acc": "—",
+      "status": "SEM_CONTA",
       "spend": 0,
       "impr": 0,
       "reach": 0,
@@ -643,10 +643,10 @@
       "camps": []
     },
     {
-      "nome": "VILLA MACARRONE",
+      "nome": "PARCÃO PET - Plano Start",
       "seg": "—",
       "plano": "Start",
-      "ig": "@villamacarroneoficial",
+      "ig": "—",
       "acc": "—",
       "status": "SEM_CONTA",
       "spend": 0,
@@ -690,12 +690,12 @@
       ]
     },
     {
-      "nome": "ADRIANO DIAS POSITIVO - 10",
+      "nome": "BRENO RODRIGUES - Plano Start",
       "seg": "—",
-      "plano": "—",
-      "ig": "@adrianodiaspositivo",
-      "acc": "—",
-      "status": "SEM_CONTA",
+      "plano": "Start",
+      "ig": "—",
+      "acc": "952366480052425",
+      "status": "DORMENTE",
       "spend": 0,
       "impr": 0,
       "reach": 0,
@@ -709,10 +709,10 @@
       "camps": []
     },
     {
-      "nome": "PARCÃO PET - Plano Start",
+      "nome": "VILLA MACARRONE",
       "seg": "—",
       "plano": "Start",
-      "ig": "—",
+      "ig": "@villamacarroneoficial",
       "acc": "—",
       "status": "SEM_CONTA",
       "spend": 0,
