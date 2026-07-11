@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 10/07/2026, 20:33:59",
+  "atualizadoEm": "Atualizado em 10/07/2026, 22:03:16",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -107,24 +107,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 738.94,
-      "impr": 77231,
+      "spend": 738.95,
+      "impr": 77233,
       "reach": 32761,
       "clicks": 916,
-      "ctr": 1.186052,
-      "cpc": 0.806703,
-      "cpm": 9.56792,
-      "freq": 2.357407,
+      "ctr": 1.186022,
+      "cpc": 0.806714,
+      "cpm": 9.567801,
+      "freq": 2.357468,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
-          "spend": 634.84,
-          "impr": 52947,
+          "spend": 634.85,
+          "impr": 52949,
           "clicks": 535,
-          "ctr": 1.010444,
-          "cpc": 1.186617
+          "ctr": 1.010406,
+          "cpc": 1.186636
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -179,32 +179,32 @@
       "ig": "—",
       "acc": "1705373906851759",
       "status": "ATIVO",
-      "spend": 536.93,
-      "impr": 62090,
-      "reach": 44725,
-      "clicks": 866,
-      "ctr": 1.39475,
-      "cpc": 0.620012,
-      "cpm": 8.647608,
-      "freq": 1.388262,
+      "spend": 538.06,
+      "impr": 67014,
+      "reach": 46577,
+      "clicks": 931,
+      "ctr": 1.389262,
+      "cpc": 0.577938,
+      "cpm": 8.029069,
+      "freq": 1.438779,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "ADV WHATS / 14.05 / +25 / 50D",
-          "spend": 390.23,
-          "impr": 24149,
-          "clicks": 235,
-          "ctr": 0.973125,
-          "cpc": 1.660553
+          "spend": 385.69,
+          "impr": 27289,
+          "clicks": 250,
+          "ctr": 0.91612,
+          "cpc": 1.54276
         },
         {
           "n": "IG PERFIL / 19.03 / TODOS / 25+ / 15D",
-          "spend": 146.7,
-          "impr": 37941,
-          "clicks": 631,
-          "ctr": 1.663109,
-          "cpc": 0.232488
+          "spend": 152.37,
+          "impr": 39725,
+          "clicks": 681,
+          "ctr": 1.714286,
+          "cpc": 0.223744
         }
       ]
     },
@@ -286,24 +286,24 @@
       "ig": "@ata.deco",
       "acc": "37012127715052483",
       "status": "ATIVO",
-      "spend": 67.06,
-      "impr": 9062,
+      "spend": 67.09,
+      "impr": 9063,
       "reach": 6238,
-      "clicks": 216,
-      "ctr": 2.38358,
-      "cpc": 0.310463,
-      "cpm": 7.400132,
-      "freq": 1.452709,
+      "clicks": 217,
+      "ctr": 2.394351,
+      "cpc": 0.309171,
+      "cpm": 7.402626,
+      "freq": 1.45287,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 67.06,
-          "impr": 9062,
-          "clicks": 216,
-          "ctr": 2.38358,
-          "cpc": 0.310463
+          "spend": 67.09,
+          "impr": 9063,
+          "clicks": 217,
+          "ctr": 2.394351,
+          "cpc": 0.309171
         }
       ]
     },
