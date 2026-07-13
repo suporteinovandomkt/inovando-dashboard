@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 13/07/2026, 19:31:31",
+  "atualizadoEm": "Atualizado em 13/07/2026, 20:28:48",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -12,13 +12,13 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 957.5,
-      "impr": 72829,
+      "impr": 72830,
       "reach": 36065,
       "clicks": 1443,
-      "ctr": 1.981354,
+      "ctr": 1.981326,
       "cpc": 0.663548,
-      "cpm": 13.147235,
-      "freq": 2.019382,
+      "cpm": 13.147055,
+      "freq": 2.019409,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -33,9 +33,9 @@
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
           "spend": 123.03,
-          "impr": 30459,
+          "impr": 30460,
           "clicks": 434,
-          "ctr": 1.424866,
+          "ctr": 1.424819,
           "cpc": 0.283479
         },
         {
@@ -56,22 +56,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 911.27,
-      "impr": 131239,
+      "impr": 131240,
       "reach": 47203,
       "clicks": 1143,
-      "ctr": 0.87093,
+      "ctr": 0.870924,
       "cpc": 0.797262,
-      "cpm": 6.943591,
-      "freq": 2.780311,
+      "cpm": 6.943539,
+      "freq": 2.780332,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
           "spend": 784.04,
-          "impr": 90149,
+          "impr": 90150,
           "clicks": 716,
-          "ctr": 0.794241,
+          "ctr": 0.794232,
           "cpc": 1.095028
         },
         {
@@ -91,24 +91,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 778.28,
-      "impr": 82623,
+      "spend": 778.29,
+      "impr": 82624,
       "reach": 35768,
       "clicks": 937,
-      "ctr": 1.134067,
-      "cpc": 0.830608,
-      "cpm": 9.419653,
-      "freq": 2.30997,
+      "ctr": 1.134053,
+      "cpc": 0.830619,
+      "cpm": 9.41966,
+      "freq": 2.309998,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
-          "spend": 707.34,
-          "impr": 62317,
+          "spend": 707.35,
+          "impr": 62318,
           "clicks": 563,
-          "ctr": 0.903445,
-          "cpc": 1.256377
+          "ctr": 0.903431,
+          "cpc": 1.256394
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
