@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 14/07/2026, 19:34:28",
+  "atualizadoEm": "Atualizado em 14/07/2026, 20:28:08",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,24 +11,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 945.55,
-      "impr": 82099,
+      "spend": 945.56,
+      "impr": 82101,
       "reach": 39773,
       "clicks": 1581,
-      "ctr": 1.925724,
-      "cpc": 0.598071,
-      "cpm": 11.517193,
-      "freq": 2.064189,
+      "ctr": 1.925677,
+      "cpc": 0.598077,
+      "cpm": 11.517034,
+      "freq": 2.06424,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 100D",
-          "spend": 796.54,
-          "impr": 45237,
+          "spend": 796.55,
+          "impr": 45239,
           "clicks": 992,
-          "ctr": 2.192895,
-          "cpc": 0.802964
+          "ctr": 2.192798,
+          "cpc": 0.802974
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
@@ -47,32 +47,32 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 893.39,
-      "impr": 134581,
+      "spend": 893.41,
+      "impr": 134583,
       "reach": 49495,
       "clicks": 1231,
-      "ctr": 0.914691,
-      "cpc": 0.725743,
-      "cpm": 6.638307,
-      "freq": 2.719083,
+      "ctr": 0.914677,
+      "cpc": 0.72576,
+      "cpm": 6.638357,
+      "freq": 2.719123,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 753.47,
-          "impr": 89917,
+          "spend": 753.48,
+          "impr": 89918,
           "clicks": 733,
-          "ctr": 0.815196,
-          "cpc": 1.027926
+          "ctr": 0.815187,
+          "cpc": 1.02794
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
-          "spend": 139.92,
-          "impr": 44664,
+          "spend": 139.93,
+          "impr": 44665,
           "clicks": 498,
-          "ctr": 1.114992,
-          "cpc": 0.280964
+          "ctr": 1.114967,
+          "cpc": 0.280984
         }
       ]
     },
@@ -84,22 +84,22 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 753.99,
-      "impr": 81636,
+      "impr": 81638,
       "reach": 35135,
       "clicks": 934,
-      "ctr": 1.144103,
+      "ctr": 1.144075,
       "cpc": 0.80727,
-      "cpm": 9.235999,
-      "freq": 2.323495,
+      "cpm": 9.235773,
+      "freq": 2.323552,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
           "spend": 682.95,
-          "impr": 60786,
+          "impr": 60788,
           "clicks": 549,
-          "ctr": 0.903168,
+          "ctr": 0.903139,
           "cpc": 1.243989
         },
         {
