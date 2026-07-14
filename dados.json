@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 14/07/2026, 14:24:22",
+  "atualizadoEm": "Atualizado em 14/07/2026, 15:43:22",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,32 +11,32 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 945.41,
-      "impr": 82048,
+      "spend": 945.47,
+      "impr": 82073,
       "reach": 39773,
       "clicks": 1580,
-      "ctr": 1.925702,
-      "cpc": 0.598361,
-      "cpm": 11.522645,
-      "freq": 2.062907,
+      "ctr": 1.925115,
+      "cpc": 0.598399,
+      "cpm": 11.519866,
+      "freq": 2.063536,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 100D",
-          "spend": 796.42,
-          "impr": 45196,
+          "spend": 796.46,
+          "impr": 45212,
           "clicks": 991,
-          "ctr": 2.192672,
-          "cpc": 0.803653
+          "ctr": 2.191896,
+          "cpc": 0.803693
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
-          "spend": 148.99,
-          "impr": 36852,
+          "spend": 149.01,
+          "impr": 36861,
           "clicks": 589,
-          "ctr": 1.598285,
-          "cpc": 0.252954
+          "ctr": 1.597895,
+          "cpc": 0.252988
         }
       ]
     },
@@ -47,24 +47,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 893.34,
-      "impr": 134570,
+      "spend": 893.35,
+      "impr": 134574,
       "reach": 49495,
       "clicks": 1231,
-      "ctr": 0.914766,
-      "cpc": 0.725703,
-      "cpm": 6.638478,
-      "freq": 2.71886,
+      "ctr": 0.914738,
+      "cpc": 0.725711,
+      "cpm": 6.638355,
+      "freq": 2.718941,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 753.42,
-          "impr": 89906,
+          "spend": 753.43,
+          "impr": 89910,
           "clicks": 733,
-          "ctr": 0.815296,
-          "cpc": 1.027858
+          "ctr": 0.81526,
+          "cpc": 1.027872
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
@@ -83,32 +83,32 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 753.92,
-      "impr": 81626,
+      "spend": 753.95,
+      "impr": 81631,
       "reach": 35135,
       "clicks": 934,
-      "ctr": 1.144243,
-      "cpc": 0.807195,
-      "cpm": 9.236273,
-      "freq": 2.32321,
+      "ctr": 1.144173,
+      "cpc": 0.807227,
+      "cpm": 9.236075,
+      "freq": 2.323353,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
-          "spend": 682.89,
-          "impr": 60779,
+          "spend": 682.91,
+          "impr": 60782,
           "clicks": 549,
-          "ctr": 0.903273,
-          "cpc": 1.24388
+          "ctr": 0.903228,
+          "cpc": 1.243916
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 71.03,
-          "impr": 20847,
+          "spend": 71.04,
+          "impr": 20849,
           "clicks": 385,
-          "ctr": 1.846789,
-          "cpc": 0.184494
+          "ctr": 1.846611,
+          "cpc": 0.184519
         }
       ]
     },
@@ -147,24 +147,24 @@
       "ig": "—",
       "acc": "37012127715052483",
       "status": "ATIVO",
-      "spend": 69.62,
-      "impr": 12195,
+      "spend": 69.63,
+      "impr": 12196,
       "reach": 8270,
       "clicks": 216,
-      "ctr": 1.771218,
-      "cpc": 0.322315,
-      "cpm": 5.708897,
-      "freq": 1.474607,
+      "ctr": 1.771072,
+      "cpc": 0.322361,
+      "cpm": 5.709249,
+      "freq": 1.474728,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 69.62,
-          "impr": 12195,
+          "spend": 69.63,
+          "impr": 12196,
           "clicks": 216,
-          "ctr": 1.771218,
-          "cpc": 0.322315
+          "ctr": 1.771072,
+          "cpc": 0.322361
         }
       ]
     },
@@ -238,24 +238,24 @@
       "ig": "@ata.deco",
       "acc": "37012127715052483",
       "status": "ATIVO",
-      "spend": 69.62,
-      "impr": 12195,
+      "spend": 69.63,
+      "impr": 12196,
       "reach": 8270,
       "clicks": 216,
-      "ctr": 1.771218,
-      "cpc": 0.322315,
-      "cpm": 5.708897,
-      "freq": 1.474607,
+      "ctr": 1.771072,
+      "cpc": 0.322361,
+      "cpm": 5.709249,
+      "freq": 1.474728,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 69.62,
-          "impr": 12195,
+          "spend": 69.63,
+          "impr": 12196,
           "clicks": 216,
-          "ctr": 1.771218,
-          "cpc": 0.322315
+          "ctr": 1.771072,
+          "cpc": 0.322361
         }
       ]
     },
@@ -433,22 +433,22 @@
       "acc": "1076173037436485",
       "status": "ATIVO",
       "spend": 70.11,
-      "impr": 16710,
+      "impr": 16711,
       "reach": 10809,
       "clicks": 295,
-      "ctr": 1.76541,
+      "ctr": 1.765304,
       "cpc": 0.237661,
-      "cpm": 4.195691,
-      "freq": 1.545934,
+      "cpm": 4.19544,
+      "freq": 1.546026,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
           "spend": 70.11,
-          "impr": 16710,
+          "impr": 16711,
           "clicks": 295,
-          "ctr": 1.76541,
+          "ctr": 1.765304,
           "cpc": 0.237661
         }
       ]
@@ -554,42 +554,6 @@
       "linkClicks": 0,
       "pay": true,
       "camps": []
-    },
-    {
-      "nome": "CHACARA  DA SERRA - Plano Start",
-      "seg": "—",
-      "plano": "Start",
-      "ig": "—",
-      "acc": "1343108897056888",
-      "status": "ATIVO",
-      "spend": 207.53,
-      "impr": 43433,
-      "reach": 32023,
-      "clicks": 1209,
-      "ctr": 2.783598,
-      "cpc": 0.171654,
-      "cpm": 4.778164,
-      "freq": 1.356306,
-      "linkClicks": 0,
-      "pay": true,
-      "camps": [
-        {
-          "n": "IG GERAL / 15.06 / TODOS / 10 D",
-          "spend": 136.1,
-          "impr": 22712,
-          "clicks": 879,
-          "ctr": 3.870201,
-          "cpc": 0.154835
-        },
-        {
-          "n": "WHATS / 10.07 / TODOS / 20D",
-          "spend": 71.43,
-          "impr": 20721,
-          "clicks": 330,
-          "ctr": 1.592587,
-          "cpc": 0.216455
-        }
-      ]
     },
     {
       "nome": "ADRIANO DIAS POSITIVO - 10",
