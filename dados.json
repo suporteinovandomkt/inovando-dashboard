@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 13/07/2026, 20:28:48",
+  "atualizadoEm": "Atualizado em 13/07/2026, 21:56:08",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -579,13 +579,13 @@
       "acc": "1343108897056888",
       "status": "ATIVO",
       "spend": 206.21,
-      "impr": 39511,
+      "impr": 39512,
       "reach": 29113,
       "clicks": 1221,
-      "ctr": 3.090279,
+      "ctr": 3.0902,
       "cpc": 0.168886,
-      "cpm": 5.219053,
-      "freq": 1.35716,
+      "cpm": 5.218921,
+      "freq": 1.357194,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -600,9 +600,9 @@
         {
           "n": "WHATS / 10.07 / TODOS / 20D",
           "spend": 51.88,
-          "impr": 13642,
+          "impr": 13643,
           "clicks": 219,
-          "ctr": 1.605336,
+          "ctr": 1.605219,
           "cpc": 0.236895
         }
       ]
