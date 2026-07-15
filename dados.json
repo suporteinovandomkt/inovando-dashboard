@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 15/07/2026, 19:33:11",
+  "atualizadoEm": "Atualizado em 15/07/2026, 20:34:20",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -12,22 +12,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 890.51,
-      "impr": 85798,
+      "impr": 85799,
       "reach": 42542,
       "clicks": 1506,
-      "ctr": 1.755286,
+      "ctr": 1.755265,
       "cpc": 0.591308,
-      "cpm": 10.379146,
-      "freq": 2.016783,
+      "cpm": 10.379025,
+      "freq": 2.016807,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 100D",
           "spend": 707.03,
-          "impr": 45315,
+          "impr": 45316,
           "clicks": 865,
-          "ctr": 1.90886,
+          "ctr": 1.908818,
           "cpc": 0.817376
         },
         {
@@ -47,24 +47,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 909.73,
-      "impr": 141094,
+      "spend": 909.74,
+      "impr": 141095,
       "reach": 51276,
       "clicks": 1321,
-      "ctr": 0.936255,
-      "cpc": 0.688668,
-      "cpm": 6.447687,
-      "freq": 2.751658,
+      "ctr": 0.936249,
+      "cpc": 0.688675,
+      "cpm": 6.447713,
+      "freq": 2.751677,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 761.69,
-          "impr": 91129,
+          "spend": 761.7,
+          "impr": 91130,
           "clicks": 771,
-          "ctr": 0.846053,
-          "cpc": 0.987925
+          "ctr": 0.846044,
+          "cpc": 0.987938
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
