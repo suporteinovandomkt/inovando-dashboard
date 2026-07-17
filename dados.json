@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 17/07/2026, 18:25:40",
+  "atualizadoEm": "Atualizado em 17/07/2026, 19:26:22",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,14 +11,14 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 659.9,
-      "impr": 81477,
+      "spend": 659.91,
+      "impr": 81478,
       "reach": 42911,
       "clicks": 1311,
-      "ctr": 1.609043,
-      "cpc": 0.503356,
-      "cpm": 8.099218,
-      "freq": 1.898744,
+      "ctr": 1.609023,
+      "cpc": 0.503364,
+      "cpm": 8.099242,
+      "freq": 1.898767,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -32,11 +32,11 @@
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
-          "spend": 204.97,
-          "impr": 43742,
+          "spend": 204.98,
+          "impr": 43743,
           "clicks": 787,
-          "ctr": 1.799186,
-          "cpc": 0.260445
+          "ctr": 1.799145,
+          "cpc": 0.260457
         }
       ]
     },
@@ -397,22 +397,22 @@
       "acc": "730924665516463",
       "status": "ATIVO",
       "spend": 79.49,
-      "impr": 16795,
+      "impr": 16797,
       "reach": 12513,
       "clicks": 241,
-      "ctr": 1.434951,
+      "ctr": 1.43478,
       "cpc": 0.329834,
-      "cpm": 4.732956,
-      "freq": 1.342204,
+      "cpm": 4.732393,
+      "freq": 1.342364,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
           "spend": 79.49,
-          "impr": 16795,
+          "impr": 16798,
           "clicks": 241,
-          "ctr": 1.434951,
+          "ctr": 1.434695,
           "cpc": 0.329834
         }
       ]
