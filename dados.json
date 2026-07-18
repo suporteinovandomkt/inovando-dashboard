@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 18/07/2026, 05:23:49",
+  "atualizadoEm": "Atualizado em 18/07/2026, 07:02:01",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -55,24 +55,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 930.48,
-      "impr": 155887,
+      "spend": 930.52,
+      "impr": 155894,
       "reach": 54999,
       "clicks": 1473,
-      "ctr": 0.944915,
-      "cpc": 0.63169,
-      "cpm": 5.968939,
-      "freq": 2.834361,
+      "ctr": 0.944873,
+      "cpc": 0.631718,
+      "cpm": 5.968928,
+      "freq": 2.834488,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 772.66,
-          "impr": 95313,
+          "spend": 772.7,
+          "impr": 95320,
           "clicks": 798,
-          "ctr": 0.837242,
-          "cpc": 0.968246
+          "ctr": 0.83718,
+          "cpc": 0.968296
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
@@ -91,31 +91,31 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 784.91,
-      "impr": 92875,
+      "spend": 784.92,
+      "impr": 92879,
       "reach": 38557,
       "clicks": 979,
-      "ctr": 1.054105,
-      "cpc": 0.801747,
-      "cpm": 8.451252,
-      "freq": 2.408771,
+      "ctr": 1.05406,
+      "cpc": 0.801757,
+      "cpm": 8.450995,
+      "freq": 2.408875,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
-          "spend": 715.32,
-          "impr": 72666,
+          "spend": 715.33,
+          "impr": 72669,
           "clicks": 627,
-          "ctr": 0.862852,
-          "cpc": 1.140861
+          "ctr": 0.862816,
+          "cpc": 1.140877
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 69.59,
-          "impr": 20209,
+          "impr": 20210,
           "clicks": 352,
-          "ctr": 1.741798,
+          "ctr": 1.741712,
           "cpc": 0.197699
         }
       ]
@@ -127,24 +127,24 @@
       "ig": "@ortodonto_se",
       "acc": "2046299446147904",
       "status": "ATIVO",
-      "spend": 55.23,
-      "impr": 19358,
+      "spend": 55.24,
+      "impr": 19360,
       "reach": 15394,
       "clicks": 288,
-      "ctr": 1.487757,
-      "cpc": 0.191771,
-      "cpm": 2.853084,
-      "freq": 1.257503,
+      "ctr": 1.487603,
+      "cpc": 0.191806,
+      "cpm": 2.853306,
+      "freq": 1.257633,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG- PERFIL / 22.05.26 / WIFI / 8D",
-          "spend": 55.23,
-          "impr": 19358,
+          "spend": 55.24,
+          "impr": 19360,
           "clicks": 288,
-          "ctr": 1.487757,
-          "cpc": 0.191771
+          "ctr": 1.487603,
+          "cpc": 0.191806
         }
       ]
     },
@@ -155,24 +155,24 @@
       "ig": "—",
       "acc": "37012127715052483",
       "status": "ATIVO",
-      "spend": 70.2,
-      "impr": 13900,
+      "spend": 70.23,
+      "impr": 13907,
       "reach": 9413,
       "clicks": 186,
-      "ctr": 1.33813,
-      "cpc": 0.377419,
-      "cpm": 5.05036,
-      "freq": 1.476681,
+      "ctr": 1.337456,
+      "cpc": 0.377581,
+      "cpm": 5.049975,
+      "freq": 1.477425,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 70.2,
-          "impr": 13900,
+          "spend": 70.23,
+          "impr": 13907,
           "clicks": 186,
-          "ctr": 1.33813,
-          "cpc": 0.377419
+          "ctr": 1.337456,
+          "cpc": 0.377581
         }
       ]
     },
@@ -202,24 +202,24 @@
       "ig": "@ata.deco",
       "acc": "37012127715052483",
       "status": "ATIVO",
-      "spend": 70.2,
-      "impr": 13900,
+      "spend": 70.23,
+      "impr": 13907,
       "reach": 9413,
       "clicks": 186,
-      "ctr": 1.33813,
-      "cpc": 0.377419,
-      "cpm": 5.05036,
-      "freq": 1.476681,
+      "ctr": 1.337456,
+      "cpc": 0.377581,
+      "cpm": 5.049975,
+      "freq": 1.477425,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 70.2,
-          "impr": 13900,
+          "spend": 70.23,
+          "impr": 13907,
           "clicks": 186,
-          "ctr": 1.33813,
-          "cpc": 0.377419
+          "ctr": 1.337456,
+          "cpc": 0.377581
         }
       ]
     },
@@ -231,22 +231,22 @@
       "acc": "973988312272175",
       "status": "ATIVO",
       "spend": 70.64,
-      "impr": 12008,
+      "impr": 12009,
       "reach": 10959,
       "clicks": 270,
-      "ctr": 2.248501,
+      "ctr": 2.248314,
       "cpc": 0.26163,
-      "cpm": 5.882745,
-      "freq": 1.09572,
+      "cpm": 5.882255,
+      "freq": 1.095812,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG GERAL / 16.06 / 25+ / TODOS / 10D",
           "spend": 70.64,
-          "impr": 12008,
+          "impr": 12009,
           "clicks": 270,
-          "ctr": 2.248501,
+          "ctr": 2.248314,
           "cpc": 0.26163
         }
       ]
@@ -258,14 +258,14 @@
       "ig": "—",
       "acc": "969933572256897",
       "status": "ATIVO",
-      "spend": 328.7,
-      "impr": 37073,
+      "spend": 328.71,
+      "impr": 37075,
       "reach": 25754,
       "clicks": 501,
-      "ctr": 1.351388,
-      "cpc": 0.656088,
-      "cpm": 8.866291,
-      "freq": 1.439505,
+      "ctr": 1.351315,
+      "cpc": 0.656108,
+      "cpm": 8.866082,
+      "freq": 1.439582,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -279,11 +279,11 @@
         },
         {
           "n": "IG - PERFIL / 06.07 / TODOS / 10D",
-          "spend": 68.89,
-          "impr": 24232,
+          "spend": 68.9,
+          "impr": 24234,
           "clicks": 354,
-          "ctr": 1.460878,
-          "cpc": 0.194605
+          "ctr": 1.460758,
+          "cpc": 0.194633
         }
       ]
     },
@@ -313,24 +313,24 @@
       "ig": "—",
       "acc": "877905779872333",
       "status": "ATIVO",
-      "spend": 232.42,
-      "impr": 21145,
+      "spend": 232.43,
+      "impr": 21147,
       "reach": 16653,
       "clicks": 572,
-      "ctr": 2.705131,
-      "cpc": 0.406329,
-      "cpm": 10.991724,
-      "freq": 1.269741,
+      "ctr": 2.704875,
+      "cpc": 0.406346,
+      "cpm": 10.991157,
+      "freq": 1.269861,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 22.04 / WIFI / 25 - 60  / 24 D",
-          "spend": 170.19,
-          "impr": 12230,
+          "spend": 170.2,
+          "impr": 12232,
           "clicks": 265,
-          "ctr": 2.166803,
-          "cpc": 0.642226
+          "ctr": 2.166449,
+          "cpc": 0.642264
         },
         {
           "n": "IG-PERFIL / 31.01 / todos / 25+ / 7D",
@@ -404,24 +404,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 95.42,
-      "impr": 17556,
-      "reach": 13071,
+      "spend": 95.49,
+      "impr": 17569,
+      "reach": 13081,
       "clicks": 281,
-      "ctr": 1.600592,
-      "cpc": 0.339573,
-      "cpm": 5.435179,
-      "freq": 1.343126,
+      "ctr": 1.599408,
+      "cpc": 0.339822,
+      "cpm": 5.435141,
+      "freq": 1.343093,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
-          "spend": 95.42,
-          "impr": 17556,
+          "spend": 95.49,
+          "impr": 17569,
           "clicks": 281,
-          "ctr": 1.600592,
-          "cpc": 0.339573
+          "ctr": 1.599408,
+          "cpc": 0.339822
         }
       ]
     },
@@ -432,24 +432,24 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 70.03,
-      "impr": 17863,
+      "spend": 70.04,
+      "impr": 17864,
       "reach": 11486,
       "clicks": 336,
-      "ctr": 1.880983,
-      "cpc": 0.208423,
-      "cpm": 3.920394,
-      "freq": 1.555198,
+      "ctr": 1.880878,
+      "cpc": 0.208452,
+      "cpm": 3.920734,
+      "freq": 1.555285,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 70.03,
-          "impr": 17863,
+          "spend": 70.04,
+          "impr": 17864,
           "clicks": 336,
-          "ctr": 1.880983,
-          "cpc": 0.208423
+          "ctr": 1.880878,
+          "cpc": 0.208452
         }
       ]
     },
@@ -507,24 +507,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 813.53,
-      "impr": 51568,
+      "spend": 813.6,
+      "impr": 51573,
       "reach": 40774,
       "clicks": 2125,
-      "ctr": 4.120773,
-      "cpc": 0.382838,
-      "cpm": 15.775869,
-      "freq": 1.264728,
+      "ctr": 4.120373,
+      "cpc": 0.382871,
+      "cpm": 15.775697,
+      "freq": 1.26485,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 715.52,
-          "impr": 45060,
+          "spend": 715.59,
+          "impr": 45065,
           "clicks": 1307,
-          "ctr": 2.900577,
-          "cpc": 0.547452
+          "ctr": 2.900255,
+          "cpc": 0.547506
         },
         {
           "n": "IG-PERFIL / 21.01.26 / WIFI / BR-20_50 / 15D",
@@ -601,22 +601,22 @@
       "acc": "724989819654241",
       "status": "ATIVO",
       "spend": 91.96,
-      "impr": 19705,
+      "impr": 19706,
       "reach": 15104,
       "clicks": 363,
-      "ctr": 1.842172,
+      "ctr": 1.842079,
       "cpc": 0.253333,
-      "cpm": 4.666836,
-      "freq": 1.304621,
+      "cpm": 4.666599,
+      "freq": 1.304688,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL JULHO / WIFI / 20_60 / 18H_01H / 400T",
           "spend": 91.96,
-          "impr": 19705,
+          "impr": 19706,
           "clicks": 363,
-          "ctr": 1.842172,
+          "ctr": 1.842079,
           "cpc": 0.253333
         }
       ]
