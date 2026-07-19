@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 18/07/2026, 19:59:50",
+  "atualizadoEm": "Atualizado em 18/07/2026, 21:02:19",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -91,14 +91,14 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 785.05,
-      "impr": 92891,
+      "spend": 785.06,
+      "impr": 92892,
       "reach": 38557,
       "clicks": 979,
-      "ctr": 1.053923,
-      "cpc": 0.80189,
-      "cpm": 8.451303,
-      "freq": 2.409186,
+      "ctr": 1.053912,
+      "cpc": 0.8019,
+      "cpm": 8.45132,
+      "freq": 2.409212,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -112,11 +112,11 @@
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 69.6,
-          "impr": 20211,
+          "spend": 69.61,
+          "impr": 20212,
           "clicks": 352,
-          "ctr": 1.741626,
-          "cpc": 0.197727
+          "ctr": 1.74154,
+          "cpc": 0.197756
         }
       ]
     },
@@ -424,22 +424,22 @@
       "acc": "730924665516463",
       "status": "ATIVO",
       "spend": 96.14,
-      "impr": 17665,
+      "impr": 17666,
       "reach": 13163,
       "clicks": 282,
-      "ctr": 1.596377,
+      "ctr": 1.596287,
       "cpc": 0.340922,
-      "cpm": 5.4424,
-      "freq": 1.342019,
+      "cpm": 5.442092,
+      "freq": 1.342095,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
           "spend": 96.14,
-          "impr": 17665,
+          "impr": 17666,
           "clicks": 282,
-          "ctr": 1.596377,
+          "ctr": 1.596287,
           "cpc": 0.340922
         }
       ]
@@ -526,24 +526,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 813.85,
-      "impr": 51597,
+      "spend": 814.08,
+      "impr": 51598,
       "reach": 40774,
       "clicks": 2125,
-      "ctr": 4.118457,
-      "cpc": 0.382988,
-      "cpm": 15.773204,
-      "freq": 1.265439,
+      "ctr": 4.118377,
+      "cpc": 0.383096,
+      "cpm": 15.777356,
+      "freq": 1.265463,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 715.84,
-          "impr": 45089,
+          "spend": 716.07,
+          "impr": 45090,
           "clicks": 1307,
-          "ctr": 2.898711,
-          "cpc": 0.547697
+          "ctr": 2.898647,
+          "cpc": 0.547873
         },
         {
           "n": "IG-PERFIL / 21.01.26 / WIFI / BR-20_50 / 15D",
