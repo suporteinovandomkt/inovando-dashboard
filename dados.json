@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 19/07/2026, 20:01:52",
+  "atualizadoEm": "Atualizado em 19/07/2026, 21:05:37",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -442,24 +442,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 111.28,
-      "impr": 19026,
+      "spend": 111.29,
+      "impr": 19028,
       "reach": 12607,
       "clicks": 337,
-      "ctr": 1.77126,
-      "cpc": 0.330208,
-      "cpm": 5.848838,
-      "freq": 1.509162,
+      "ctr": 1.771074,
+      "cpc": 0.330237,
+      "cpm": 5.848749,
+      "freq": 1.50932,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
-          "spend": 111.28,
-          "impr": 19026,
+          "spend": 111.29,
+          "impr": 19028,
           "clicks": 337,
-          "ctr": 1.77126,
-          "cpc": 0.330208
+          "ctr": 1.771074,
+          "cpc": 0.330237
         }
       ]
     },
