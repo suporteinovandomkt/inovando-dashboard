@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 20/07/2026, 17:35:49",
+  "atualizadoEm": "Atualizado em 20/07/2026, 18:46:59",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -74,24 +74,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 948.82,
-      "impr": 157565,
+      "spend": 948.9,
+      "impr": 157568,
       "reach": 54318,
       "clicks": 1537,
-      "ctr": 0.97547,
-      "cpc": 0.617319,
-      "cpm": 6.021769,
-      "freq": 2.900788,
+      "ctr": 0.975452,
+      "cpc": 0.617372,
+      "cpm": 6.022162,
+      "freq": 2.900843,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 772.08,
-          "impr": 93479,
+          "spend": 772.16,
+          "impr": 93482,
           "clicks": 802,
-          "ctr": 0.857947,
-          "cpc": 0.962693
+          "ctr": 0.857919,
+          "cpc": 0.962793
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
@@ -146,24 +146,24 @@
       "ig": "@ortodonto_se",
       "acc": "2046299446147904",
       "status": "ATIVO",
-      "spend": 57.02,
-      "impr": 19810,
+      "spend": 57.03,
+      "impr": 19812,
       "reach": 15653,
       "clicks": 281,
-      "ctr": 1.418476,
-      "cpc": 0.202918,
-      "cpm": 2.878344,
-      "freq": 1.265572,
+      "ctr": 1.418332,
+      "cpc": 0.202954,
+      "cpm": 2.878558,
+      "freq": 1.2657,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG- PERFIL / 22.05.26 / WIFI / 8D",
-          "spend": 57.02,
-          "impr": 19810,
+          "spend": 57.03,
+          "impr": 19812,
           "clicks": 281,
-          "ctr": 1.418476,
-          "cpc": 0.202918
+          "ctr": 1.418332,
+          "cpc": 0.202954
         }
       ]
     },
@@ -434,24 +434,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 129.02,
-      "impr": 22171,
+      "spend": 129.03,
+      "impr": 22173,
       "reach": 12991,
       "clicks": 396,
-      "ctr": 1.786117,
-      "cpc": 0.325808,
-      "cpm": 5.819314,
-      "freq": 1.706643,
+      "ctr": 1.785956,
+      "cpc": 0.325833,
+      "cpm": 5.81924,
+      "freq": 1.706797,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
-          "spend": 129.02,
-          "impr": 22171,
+          "spend": 129.03,
+          "impr": 22173,
           "clicks": 396,
-          "ctr": 1.786117,
-          "cpc": 0.325808
+          "ctr": 1.785956,
+          "cpc": 0.325833
         }
       ]
     },
