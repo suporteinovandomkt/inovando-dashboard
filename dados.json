@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 20/07/2026, 20:09:18",
+  "atualizadoEm": "Atualizado em 20/07/2026, 22:02:28",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -110,24 +110,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 742.56,
-      "impr": 85716,
+      "spend": 742.57,
+      "impr": 85717,
       "reach": 37109,
       "clicks": 875,
-      "ctr": 1.020813,
-      "cpc": 0.84864,
-      "cpm": 8.663027,
-      "freq": 2.309844,
+      "ctr": 1.020801,
+      "cpc": 0.848651,
+      "cpm": 8.663042,
+      "freq": 2.309871,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
-          "spend": 672.7,
-          "impr": 67277,
+          "spend": 672.71,
+          "impr": 67278,
           "clicks": 570,
-          "ctr": 0.847243,
-          "cpc": 1.180175
+          "ctr": 0.847231,
+          "cpc": 1.180193
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
