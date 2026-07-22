@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 22/07/2026, 11:17:08",
+  "atualizadoEm": "Atualizado em 22/07/2026, 13:04:55",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -40,7 +40,24 @@
       "freq": 1.815938,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG - PERFIL / 07.05 / TODOS / 30D",
+          "spend": 180.03,
+          "impr": 30934,
+          "clicks": 782,
+          "ctr": 2.527963,
+          "cpc": 0.230217
+        },
+        {
+          "n": "CAMP COLABO /  17.07  / ARACAJU / 25-40 / 10D",
+          "spend": 47.63,
+          "impr": 4820,
+          "clicks": 99,
+          "ctr": 2.053942,
+          "cpc": 0.481111
+        }
+      ]
     },
     {
       "nome": "ODONTO CHUEH",
