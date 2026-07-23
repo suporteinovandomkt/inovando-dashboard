@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/07/2026, 13:10:34",
+  "atualizadoEm": "Atualizado em 23/07/2026, 14:56:54",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -67,22 +67,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 920.83,
-      "impr": 146782,
+      "impr": 146784,
       "reach": 53104,
       "clicks": 1527,
-      "ctr": 1.040318,
+      "ctr": 1.040304,
       "cpc": 0.603032,
-      "cpm": 6.273453,
-      "freq": 2.764048,
+      "cpm": 6.273368,
+      "freq": 2.764086,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
           "spend": 741.57,
-          "impr": 88080,
+          "impr": 88082,
           "clicks": 777,
-          "ctr": 0.882153,
+          "ctr": 0.882133,
           "cpc": 0.954402
         },
         {
@@ -282,20 +282,39 @@
       ]
     },
     {
+      "nome": "BISPO CONSTRUTORA",
+      "seg": "—",
+      "plano": "—",
+      "ig": "—",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
       "nome": "ÓTICA ÓPTIMA - Plano Prata",
       "seg": "—",
       "plano": "—",
       "ig": "—",
       "acc": "969933572256897",
       "status": "ATIVO",
-      "spend": 295.67,
-      "impr": 32218,
+      "spend": 295.69,
+      "impr": 32220,
       "reach": 21732,
       "clicks": 510,
-      "ctr": 1.582966,
-      "cpc": 0.579745,
-      "cpm": 9.177168,
-      "freq": 1.482514,
+      "ctr": 1.582868,
+      "cpc": 0.579784,
+      "cpm": 9.177219,
+      "freq": 1.482606,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -309,11 +328,11 @@
         },
         {
           "n": "IG - PERFIL / 06.07 / TODOS / 10D",
-          "spend": 68.86,
-          "impr": 21511,
+          "spend": 68.88,
+          "impr": 21513,
           "clicks": 370,
-          "ctr": 1.72005,
-          "cpc": 0.186108
+          "ctr": 1.71989,
+          "cpc": 0.186162
         }
       ]
     },
@@ -426,24 +445,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 185.86,
-      "impr": 31972,
-      "reach": 17300,
+      "spend": 185.87,
+      "impr": 31975,
+      "reach": 17304,
       "clicks": 525,
-      "ctr": 1.642062,
-      "cpc": 0.354019,
-      "cpm": 5.813212,
-      "freq": 1.848092,
+      "ctr": 1.641908,
+      "cpc": 0.354038,
+      "cpm": 5.812979,
+      "freq": 1.847839,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
-          "spend": 185.86,
-          "impr": 31972,
+          "spend": 185.87,
+          "impr": 31975,
           "clicks": 525,
-          "ctr": 1.642062,
-          "cpc": 0.354019
+          "ctr": 1.641908,
+          "cpc": 0.354038
         }
       ]
     },
@@ -454,24 +473,24 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 69.89,
-      "impr": 15838,
+      "spend": 69.91,
+      "impr": 15840,
       "reach": 11591,
       "clicks": 379,
-      "ctr": 2.392979,
-      "cpc": 0.184406,
-      "cpm": 4.412805,
-      "freq": 1.366405,
+      "ctr": 2.392677,
+      "cpc": 0.184459,
+      "cpm": 4.41351,
+      "freq": 1.366578,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 69.89,
-          "impr": 15838,
+          "spend": 69.91,
+          "impr": 15840,
           "clicks": 379,
-          "ctr": 2.392979,
-          "cpc": 0.184406
+          "ctr": 2.392677,
+          "cpc": 0.184459
         }
       ]
     },
@@ -537,24 +556,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 931.13,
-      "impr": 67207,
+      "spend": 931.21,
+      "impr": 67211,
       "reach": 53696,
       "clicks": 2387,
-      "ctr": 3.551713,
-      "cpc": 0.390084,
-      "cpm": 13.854658,
-      "freq": 1.25162,
+      "ctr": 3.551502,
+      "cpc": 0.390117,
+      "cpm": 13.855024,
+      "freq": 1.251695,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 821.65,
-          "impr": 56500,
+          "spend": 821.73,
+          "impr": 56504,
           "clicks": 1566,
-          "ctr": 2.771681,
-          "cpc": 0.524681
+          "ctr": 2.771485,
+          "cpc": 0.524732
         },
         {
           "n": "IG-PERFIL / 21.01.26 / WIFI / BR-20_50 / 15D",
