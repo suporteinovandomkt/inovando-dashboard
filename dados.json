@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 24/07/2026, 19:37:19",
+  "atualizadoEm": "Atualizado em 24/07/2026, 20:39:18",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -66,24 +66,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 912.03,
-      "impr": 144586,
+      "spend": 912.06,
+      "impr": 144588,
       "reach": 53380,
       "clicks": 1535,
-      "ctr": 1.061652,
-      "cpc": 0.594156,
-      "cpm": 6.307872,
-      "freq": 2.708617,
+      "ctr": 1.061637,
+      "cpc": 0.594176,
+      "cpm": 6.307992,
+      "freq": 2.708655,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 735.07,
-          "impr": 88197,
+          "spend": 735.1,
+          "impr": 88199,
           "clicks": 791,
-          "ctr": 0.896856,
-          "cpc": 0.929292
+          "ctr": 0.896836,
+          "cpc": 0.92933
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
