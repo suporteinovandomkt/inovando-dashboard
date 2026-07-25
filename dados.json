@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 25/07/2026, 19:03:58",
+  "atualizadoEm": "Atualizado em 25/07/2026, 20:05:29",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,22 +31,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 270.18,
-      "impr": 40591,
+      "impr": 40592,
       "reach": 25356,
       "clicks": 853,
-      "ctr": 2.101451,
+      "ctr": 2.101399,
       "cpc": 0.316741,
-      "cpm": 6.656155,
-      "freq": 1.600844,
+      "cpm": 6.655991,
+      "freq": 1.600883,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
           "spend": 204.17,
-          "impr": 33921,
+          "impr": 33922,
           "clicks": 703,
-          "ctr": 2.072462,
+          "ctr": 2.072401,
           "cpc": 0.290427
         },
         {
@@ -67,22 +67,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 910.77,
-      "impr": 143326,
+      "impr": 143327,
       "reach": 53842,
       "clicks": 1521,
-      "ctr": 1.061217,
+      "ctr": 1.06121,
       "cpc": 0.598797,
-      "cpm": 6.354534,
-      "freq": 2.661974,
+      "cpm": 6.35449,
+      "freq": 2.661993,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
           "spend": 736.39,
-          "impr": 88358,
+          "impr": 88359,
           "clicks": 790,
-          "ctr": 0.89409,
+          "ctr": 0.89408,
           "cpc": 0.932139
         },
         {
@@ -103,13 +103,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 730.81,
-      "impr": 80760,
+      "impr": 80761,
       "reach": 31848,
       "clicks": 761,
-      "ctr": 0.942298,
+      "ctr": 0.942287,
       "cpc": 0.960329,
-      "cpm": 9.049158,
-      "freq": 2.535795,
+      "cpm": 9.049046,
+      "freq": 2.535826,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -124,9 +124,9 @@
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 70.89,
-          "impr": 10276,
+          "impr": 10277,
           "clicks": 275,
-          "ctr": 2.676139,
+          "ctr": 2.675878,
           "cpc": 0.257782
         }
       ]
