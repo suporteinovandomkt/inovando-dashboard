@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 29/07/2026, 20:35:15",
+  "atualizadoEm": "Atualizado em 29/07/2026, 21:58:44",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -110,24 +110,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 790.09,
-      "impr": 76387,
+      "spend": 790.17,
+      "impr": 76388,
       "reach": 32615,
       "clicks": 811,
-      "ctr": 1.061699,
-      "cpc": 0.974217,
-      "cpm": 10.343252,
-      "freq": 2.342082,
+      "ctr": 1.061685,
+      "cpc": 0.974316,
+      "cpm": 10.344164,
+      "freq": 2.342113,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS ORIGINAL  / 03.07  / +30 / 100D",
-          "spend": 703.34,
-          "impr": 66649,
+          "spend": 703.42,
+          "impr": 66650,
           "clicks": 495,
-          "ctr": 0.742697,
-          "cpc": 1.420889
+          "ctr": 0.742686,
+          "cpc": 1.421051
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -480,24 +480,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 184.95,
-      "impr": 29357,
+      "spend": 184.96,
+      "impr": 29358,
       "reach": 13928,
       "clicks": 412,
-      "ctr": 1.403413,
-      "cpc": 0.448908,
-      "cpm": 6.300031,
-      "freq": 2.107769,
+      "ctr": 1.403365,
+      "cpc": 0.448932,
+      "cpm": 6.300157,
+      "freq": 2.10784,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
-          "spend": 184.95,
-          "impr": 29357,
+          "spend": 184.96,
+          "impr": 29358,
           "clicks": 412,
-          "ctr": 1.403413,
-          "cpc": 0.448908
+          "ctr": 1.403365,
+          "cpc": 0.448932
         }
       ]
     },
