@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 31/07/2026, 17:25:30",
+  "atualizadoEm": "Atualizado em 31/07/2026, 18:41:48",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 461.33,
-      "impr": 58486,
+      "spend": 461.34,
+      "impr": 58487,
       "reach": 35638,
       "clicks": 1385,
-      "ctr": 2.368088,
-      "cpc": 0.33309,
-      "cpm": 7.887871,
-      "freq": 1.641113,
+      "ctr": 2.368048,
+      "cpc": 0.333097,
+      "cpm": 7.887907,
+      "freq": 1.641141,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 80D",
-          "spend": 230.97,
-          "impr": 13131,
+          "spend": 230.98,
+          "impr": 13132,
           "clicks": 271,
-          "ctr": 2.063818,
-          "cpc": 0.852288
+          "ctr": 2.063661,
+          "cpc": 0.852325
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
@@ -118,14 +118,14 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 865.59,
-      "impr": 74996,
+      "spend": 865.62,
+      "impr": 74997,
       "reach": 32030,
       "clicks": 872,
-      "ctr": 1.162729,
-      "cpc": 0.992649,
-      "cpm": 11.541816,
-      "freq": 2.34143,
+      "ctr": 1.162713,
+      "cpc": 0.992683,
+      "cpm": 11.542062,
+      "freq": 2.341461,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -139,11 +139,11 @@
         },
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 239.92,
-          "impr": 17964,
+          "spend": 239.95,
+          "impr": 17965,
           "clicks": 198,
-          "ctr": 1.102204,
-          "cpc": 1.211717
+          "ctr": 1.102143,
+          "cpc": 1.211869
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -488,24 +488,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 187.61,
-      "impr": 28452,
+      "spend": 187.63,
+      "impr": 28456,
       "reach": 13490,
       "clicks": 490,
-      "ctr": 1.722199,
-      "cpc": 0.382878,
-      "cpm": 6.593913,
-      "freq": 2.109118,
+      "ctr": 1.721957,
+      "cpc": 0.382918,
+      "cpm": 6.593689,
+      "freq": 2.109414,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
-          "spend": 187.61,
-          "impr": 28452,
+          "spend": 187.63,
+          "impr": 28456,
           "clicks": 490,
-          "ctr": 1.722199,
-          "cpc": 0.382878
+          "ctr": 1.721957,
+          "cpc": 0.382918
         }
       ]
     },
