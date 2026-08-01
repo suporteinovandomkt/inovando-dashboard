@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 01/08/2026, 14:10:25",
+  "atualizadoEm": "Atualizado em 01/08/2026, 15:33:02",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,32 +30,32 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 500.31,
-      "impr": 61864,
+      "spend": 500.33,
+      "impr": 61870,
       "reach": 37115,
       "clicks": 1561,
-      "ctr": 2.523277,
-      "cpc": 0.320506,
-      "cpm": 8.087256,
-      "freq": 1.666819,
+      "ctr": 2.523032,
+      "cpc": 0.320519,
+      "cpm": 8.086795,
+      "freq": 1.666981,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 80D",
-          "spend": 267.77,
-          "impr": 16234,
+          "spend": 267.78,
+          "impr": 16235,
           "clicks": 300,
-          "ctr": 1.847973,
-          "cpc": 0.892567
+          "ctr": 1.84786,
+          "cpc": 0.8926
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
-          "spend": 211.05,
-          "impr": 43218,
+          "spend": 211.06,
+          "impr": 43223,
           "clicks": 1046,
-          "ctr": 2.420288,
-          "cpc": 0.201769
+          "ctr": 2.420008,
+          "cpc": 0.201778
         },
         {
           "n": "COLAB WHATS / 30.07 / TODOS / 10D",
@@ -75,22 +75,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 946.61,
-      "impr": 145060,
+      "impr": 145061,
       "reach": 57836,
       "clicks": 1475,
-      "ctr": 1.016821,
+      "ctr": 1.016814,
       "cpc": 0.641769,
-      "cpm": 6.525645,
-      "freq": 2.508126,
+      "cpm": 6.5256,
+      "freq": 2.508144,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
           "spend": 771.62,
-          "impr": 90249,
+          "impr": 90250,
           "clicks": 766,
-          "ctr": 0.848763,
+          "ctr": 0.848753,
           "cpc": 1.007337
         },
         {
@@ -110,14 +110,14 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 846.7,
-      "impr": 71418,
+      "spend": 846.76,
+      "impr": 71421,
       "reach": 30728,
       "clicks": 865,
-      "ctr": 1.211179,
-      "cpc": 0.978844,
-      "cpm": 11.855555,
-      "freq": 2.324199,
+      "ctr": 1.211128,
+      "cpc": 0.978913,
+      "cpm": 11.855897,
+      "freq": 2.324297,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -131,19 +131,19 @@
         },
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 306.21,
-          "impr": 23144,
+          "spend": 306.22,
+          "impr": 23146,
           "clicks": 242,
-          "ctr": 1.045627,
-          "cpc": 1.265331
+          "ctr": 1.045537,
+          "cpc": 1.265372
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 70.23,
-          "impr": 8925,
+          "spend": 70.28,
+          "impr": 8926,
           "clicks": 309,
-          "ctr": 3.462185,
-          "cpc": 0.227282
+          "ctr": 3.461797,
+          "cpc": 0.227443
         }
       ]
     },
@@ -480,31 +480,31 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 216.19,
-      "impr": 29934,
+      "spend": 216.2,
+      "impr": 29938,
       "reach": 14182,
       "clicks": 526,
-      "ctr": 1.757199,
-      "cpc": 0.411008,
-      "cpm": 7.222222,
-      "freq": 2.110704,
+      "ctr": 1.756964,
+      "cpc": 0.411027,
+      "cpm": 7.221591,
+      "freq": 2.110986,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "C. WEB JULHO / 01.07 - 30.07  / WIFI / 4KM / 400T",
-          "spend": 187.07,
-          "impr": 27693,
+          "spend": 187.08,
+          "impr": 27696,
           "clicks": 492,
-          "ctr": 1.776622,
-          "cpc": 0.380224
+          "ctr": 1.77643,
+          "cpc": 0.380244
         },
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
           "spend": 17.97,
-          "impr": 1613,
+          "impr": 1614,
           "clicks": 29,
-          "ctr": 1.797892,
+          "ctr": 1.796778,
           "cpc": 0.619655
         },
         {
