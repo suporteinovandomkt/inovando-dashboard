@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 02/08/2026, 18:05:28",
+  "atualizadoEm": "Atualizado em 02/08/2026, 19:05:56",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,30 +31,30 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 592.54,
-      "impr": 69919,
+      "impr": 69921,
       "reach": 41124,
       "clicks": 1709,
-      "ctr": 2.444257,
+      "ctr": 2.444187,
       "cpc": 0.346717,
-      "cpm": 8.474664,
-      "freq": 1.700199,
+      "cpm": 8.474421,
+      "freq": 1.700248,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 80D",
           "spend": 356.92,
-          "impr": 23907,
+          "impr": 23908,
           "clicks": 376,
-          "ctr": 1.572761,
+          "ctr": 1.572695,
           "cpc": 0.949255
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
           "spend": 210,
-          "impr": 42962,
+          "impr": 42963,
           "clicks": 1045,
-          "ctr": 2.432382,
+          "ctr": 2.432325,
           "cpc": 0.200957
         },
         {
@@ -111,22 +111,22 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 840.39,
-      "impr": 72655,
+      "impr": 72656,
       "reach": 31418,
       "clicks": 893,
-      "ctr": 1.229096,
+      "ctr": 1.22908,
       "cpc": 0.941086,
-      "cpm": 11.566857,
-      "freq": 2.312528,
+      "cpm": 11.566698,
+      "freq": 2.31256,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
           "spend": 415.73,
-          "impr": 36037,
+          "impr": 36038,
           "clicks": 365,
-          "ctr": 1.012848,
+          "ctr": 1.01282,
           "cpc": 1.138986
         },
         {
@@ -608,22 +608,22 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 874.6,
-      "impr": 59612,
+      "impr": 59613,
       "reach": 47257,
       "clicks": 1939,
-      "ctr": 3.252701,
+      "ctr": 3.252646,
       "cpc": 0.451057,
-      "cpm": 14.671543,
-      "freq": 1.261443,
+      "cpm": 14.671297,
+      "freq": 1.261464,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
           "spend": 769.86,
-          "impr": 48523,
+          "impr": 48524,
           "clicks": 1535,
-          "ctr": 3.163448,
+          "ctr": 3.163383,
           "cpc": 0.501537
         },
         {
