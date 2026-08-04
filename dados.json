@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 03/08/2026, 20:13:33",
+  "atualizadoEm": "Atualizado em 03/08/2026, 22:02:43",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 690.95,
-      "impr": 77753,
+      "spend": 690.97,
+      "impr": 77756,
       "reach": 44745,
       "clicks": 1845,
-      "ctr": 2.372899,
-      "cpc": 0.374499,
-      "cpm": 8.886474,
-      "freq": 1.737691,
+      "ctr": 2.372807,
+      "cpc": 0.374509,
+      "cpm": 8.886388,
+      "freq": 1.737758,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 80D",
-          "spend": 451.64,
-          "impr": 31741,
+          "spend": 451.66,
+          "impr": 31744,
           "clicks": 460,
-          "ctr": 1.44923,
-          "cpc": 0.981826
+          "ctr": 1.449093,
+          "cpc": 0.98187
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 30D",
