@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 07/08/2026, 14:54:59",
+  "atualizadoEm": "Atualizado em 07/08/2026, 16:08:47",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 818.48,
-      "impr": 83832,
+      "spend": 818.5,
+      "impr": 83836,
       "reach": 49098,
       "clicks": 1799,
-      "ctr": 2.145959,
-      "cpc": 0.454964,
-      "cpm": 9.763336,
-      "freq": 1.707442,
+      "ctr": 2.145856,
+      "cpc": 0.454975,
+      "cpm": 9.763109,
+      "freq": 1.707524,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 587.94,
-          "impr": 36475,
+          "spend": 587.96,
+          "impr": 36478,
           "clicks": 485,
-          "ctr": 1.329678,
-          "cpc": 1.212247
+          "ctr": 1.329569,
+          "cpc": 1.212289
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -68,9 +68,9 @@
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 6.35,
-          "impr": 1316,
+          "impr": 1317,
           "clicks": 17,
-          "ctr": 1.291793,
+          "ctr": 1.290812,
           "cpc": 0.373529
         }
       ]
@@ -83,13 +83,13 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 917.15,
-      "impr": 143630,
+      "impr": 143631,
       "reach": 53037,
       "clicks": 1294,
-      "ctr": 0.900926,
+      "ctr": 0.90092,
       "cpc": 0.708771,
-      "cpm": 6.385504,
-      "freq": 2.708109,
+      "cpm": 6.38546,
+      "freq": 2.708128,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -104,9 +104,9 @@
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
           "spend": 168.86,
-          "impr": 56650,
+          "impr": 56651,
           "clicks": 691,
-          "ctr": 1.219771,
+          "ctr": 1.219749,
           "cpc": 0.24437
         }
       ]
@@ -118,32 +118,32 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 787.56,
-      "impr": 68563,
+      "spend": 787.61,
+      "impr": 68565,
       "reach": 29761,
       "clicks": 944,
-      "ctr": 1.376836,
-      "cpc": 0.83428,
-      "cpm": 11.486662,
-      "freq": 2.303787,
+      "ctr": 1.376796,
+      "cpc": 0.834333,
+      "cpm": 11.487056,
+      "freq": 2.303854,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 717.95,
-          "impr": 56773,
+          "spend": 717.99,
+          "impr": 56774,
           "clicks": 647,
-          "ctr": 1.139626,
-          "cpc": 1.10966
+          "ctr": 1.139606,
+          "cpc": 1.109722
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 69.61,
-          "impr": 11790,
+          "spend": 69.62,
+          "impr": 11791,
           "clicks": 297,
-          "ctr": 2.519084,
-          "cpc": 0.234377
+          "ctr": 2.51887,
+          "cpc": 0.234411
         }
       ]
     },
@@ -174,6 +174,25 @@
           "cpc": 0.202271
         }
       ]
+    },
+    {
+      "nome": "DRA. THAÍS SIMAN",
+      "seg": "—",
+      "plano": "—",
+      "ig": "—",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
     },
     {
       "nome": "I. CLÍNICO ESPECIALIZADO - Plano Prata",
@@ -383,6 +402,25 @@
       "camps": []
     },
     {
+      "nome": "TONINHO PEÇAS - Plano  Start",
+      "seg": "—",
+      "plano": "Start",
+      "ig": "—",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
       "nome": "RR SPA MOBILE - Plano Start",
       "seg": "—",
       "plano": "Start",
@@ -481,24 +519,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 202.61,
-      "impr": 30170,
+      "spend": 202.62,
+      "impr": 30172,
       "reach": 20576,
       "clicks": 481,
-      "ctr": 1.594299,
-      "cpc": 0.421227,
-      "cpm": 6.715612,
-      "freq": 1.466271,
+      "ctr": 1.594193,
+      "cpc": 0.421247,
+      "cpm": 6.715498,
+      "freq": 1.466369,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
-          "spend": 82.56,
-          "impr": 8588,
+          "spend": 82.57,
+          "impr": 8590,
           "clicks": 105,
-          "ctr": 1.222636,
-          "cpc": 0.786286
+          "ctr": 1.222352,
+          "cpc": 0.786381
         },
         {
           "n": "CAMP IG / 01.08 /  TODOS / 350T",
@@ -609,22 +647,22 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 894.12,
-      "impr": 70805,
+      "impr": 70806,
       "reach": 54590,
       "clicks": 1910,
-      "ctr": 2.69755,
+      "ctr": 2.697512,
       "cpc": 0.468126,
-      "cpm": 12.627922,
-      "freq": 1.297032,
+      "cpm": 12.627743,
+      "freq": 1.297051,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
           "spend": 788.58,
-          "impr": 58835,
+          "impr": 58836,
           "clicks": 1551,
-          "ctr": 2.636186,
+          "ctr": 2.636141,
           "cpc": 0.508433
         },
         {
