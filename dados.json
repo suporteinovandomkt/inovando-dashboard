@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 07/08/2026, 18:18:49",
+  "atualizadoEm": "Atualizado em 07/08/2026, 19:08:17",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 818.54,
-      "impr": 83841,
+      "spend": 818.55,
+      "impr": 83842,
       "reach": 49098,
       "clicks": 1800,
-      "ctr": 2.146921,
-      "cpc": 0.454744,
-      "cpm": 9.763004,
-      "freq": 1.707626,
+      "ctr": 2.146895,
+      "cpc": 0.45475,
+      "cpm": 9.763007,
+      "freq": 1.707646,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 587.99,
-          "impr": 36481,
+          "spend": 588,
+          "impr": 36482,
           "clicks": 485,
-          "ctr": 1.329459,
-          "cpc": 1.212351
+          "ctr": 1.329423,
+          "cpc": 1.212371
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -119,22 +119,22 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 787.61,
-      "impr": 68565,
+      "impr": 68566,
       "reach": 29761,
       "clicks": 944,
-      "ctr": 1.376796,
+      "ctr": 1.376776,
       "cpc": 0.834333,
-      "cpm": 11.487056,
-      "freq": 2.303854,
+      "cpm": 11.486889,
+      "freq": 2.303888,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
           "spend": 717.99,
-          "impr": 56774,
+          "impr": 56775,
           "clicks": 647,
-          "ctr": 1.139606,
+          "ctr": 1.139586,
           "cpc": 1.109722
         },
         {
@@ -500,24 +500,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 202.63,
-      "impr": 30175,
+      "spend": 202.64,
+      "impr": 30176,
       "reach": 20576,
       "clicks": 481,
-      "ctr": 1.594035,
-      "cpc": 0.421268,
-      "cpm": 6.715162,
-      "freq": 1.466514,
+      "ctr": 1.593982,
+      "cpc": 0.421289,
+      "cpm": 6.71527,
+      "freq": 1.466563,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
-          "spend": 82.58,
-          "impr": 8593,
+          "spend": 82.59,
+          "impr": 8594,
           "clicks": 105,
-          "ctr": 1.221925,
-          "cpc": 0.786476
+          "ctr": 1.221783,
+          "cpc": 0.786571
         },
         {
           "n": "CAMP IG / 01.08 /  TODOS / 350T",
