@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 08/08/2026, 17:40:40",
+  "atualizadoEm": "Atualizado em 08/08/2026, 18:39:29",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 838.97,
-      "impr": 84051,
+      "spend": 838.99,
+      "impr": 84052,
       "reach": 49795,
       "clicks": 1652,
-      "ctr": 1.965473,
-      "cpc": 0.507851,
-      "cpm": 9.981678,
-      "freq": 1.687941,
+      "ctr": 1.96545,
+      "cpc": 0.507863,
+      "cpm": 9.981797,
+      "freq": 1.687961,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 620.23,
-          "impr": 37297,
+          "spend": 620.25,
+          "impr": 37298,
           "clicks": 482,
-          "ctr": 1.292329,
-          "cpc": 1.286784
+          "ctr": 1.292294,
+          "cpc": 1.286826
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -501,22 +501,22 @@
       "acc": "730924665516463",
       "status": "ATIVO",
       "spend": 185.29,
-      "impr": 30716,
+      "impr": 30717,
       "reach": 20601,
       "clicks": 463,
-      "ctr": 1.507358,
+      "ctr": 1.507309,
       "cpc": 0.400194,
-      "cpm": 6.032361,
-      "freq": 1.490996,
+      "cpm": 6.032165,
+      "freq": 1.491044,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
           "spend": 88.5,
-          "impr": 9295,
+          "impr": 9296,
           "clicks": 101,
-          "ctr": 1.086606,
+          "ctr": 1.086489,
           "cpc": 0.876238
         },
         {
