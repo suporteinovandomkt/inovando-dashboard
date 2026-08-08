@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 08/08/2026, 08:36:55",
+  "atualizadoEm": "Atualizado em 08/08/2026, 08:58:37",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 838.52,
-      "impr": 84015,
+      "spend": 838.57,
+      "impr": 84020,
       "reach": 49782,
       "clicks": 1652,
-      "ctr": 1.966316,
-      "cpc": 0.507579,
-      "cpm": 9.980599,
-      "freq": 1.687658,
+      "ctr": 1.966199,
+      "cpc": 0.507609,
+      "cpm": 9.9806,
+      "freq": 1.687759,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 619.9,
-          "impr": 37285,
+          "spend": 619.92,
+          "impr": 37287,
           "clicks": 482,
-          "ctr": 1.292745,
-          "cpc": 1.2861
+          "ctr": 1.292676,
+          "cpc": 1.286141
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -59,11 +59,11 @@
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 21.53,
-          "impr": 4647,
+          "spend": 21.56,
+          "impr": 4650,
           "clicks": 76,
-          "ctr": 1.635464,
-          "cpc": 0.283289
+          "ctr": 1.634409,
+          "cpc": 0.283684
         },
         {
           "n": "COLAB WHATS / 30.07 / TODOS / 10D",
@@ -83,30 +83,30 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 930.33,
-      "impr": 145563,
+      "impr": 145566,
       "reach": 54110,
       "clicks": 1306,
-      "ctr": 0.897206,
+      "ctr": 0.897188,
       "cpc": 0.712351,
-      "cpm": 6.391253,
-      "freq": 2.690131,
+      "cpm": 6.391122,
+      "freq": 2.690187,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
           "spend": 755.03,
-          "impr": 86606,
+          "impr": 86608,
           "clicks": 597,
-          "ctr": 0.689329,
+          "ctr": 0.689313,
           "cpc": 1.264707
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
           "spend": 175.3,
-          "impr": 58957,
+          "impr": 58958,
           "clicks": 709,
-          "ctr": 1.202571,
+          "ctr": 1.202551,
           "cpc": 0.24725
         }
       ]
@@ -409,13 +409,13 @@
       "acc": "877905779872333",
       "status": "ATIVO",
       "spend": 184.39,
-      "impr": 15022,
+      "impr": 15023,
       "reach": 11276,
       "clicks": 393,
-      "ctr": 2.616163,
+      "ctr": 2.615989,
       "cpc": 0.469186,
-      "cpm": 12.274664,
-      "freq": 1.33221,
+      "cpm": 12.273847,
+      "freq": 1.332299,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -430,9 +430,9 @@
         {
           "n": "IG-PERFIL / 31.01 / todos / 25+ / 7D",
           "spend": 39.13,
-          "impr": 5350,
+          "impr": 5351,
           "clicks": 214,
-          "ctr": 4,
+          "ctr": 3.999252,
           "cpc": 0.18285
         }
       ]
@@ -500,24 +500,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 185.01,
-      "impr": 30698,
+      "spend": 185.08,
+      "impr": 30700,
       "reach": 20585,
       "clicks": 463,
-      "ctr": 1.508242,
-      "cpc": 0.39959,
-      "cpm": 6.026777,
-      "freq": 1.49128,
+      "ctr": 1.508143,
+      "cpc": 0.399741,
+      "cpm": 6.028665,
+      "freq": 1.491377,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
-          "spend": 88.22,
-          "impr": 9277,
+          "spend": 88.29,
+          "impr": 9279,
           "clicks": 101,
-          "ctr": 1.088714,
-          "cpc": 0.873465
+          "ctr": 1.088479,
+          "cpc": 0.874158
         },
         {
           "n": "CAMP IG / 01.08 /  TODOS / 350T",
