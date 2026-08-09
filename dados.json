@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 09/08/2026, 14:39:34",
+  "atualizadoEm": "Atualizado em 09/08/2026, 15:53:49",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,38 +31,38 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 844.27,
-      "impr": 80567,
+      "impr": 80576,
       "reach": 48796,
-      "clicks": 1514,
-      "ctr": 1.879181,
-      "cpc": 0.557642,
-      "cpm": 10.479104,
-      "freq": 1.651098,
+      "clicks": 1515,
+      "ctr": 1.880212,
+      "cpc": 0.557274,
+      "cpm": 10.477934,
+      "freq": 1.651283,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 637.24,
-          "impr": 36303,
-          "clicks": 480,
-          "ctr": 1.322205,
-          "cpc": 1.327583
+          "impr": 36307,
+          "clicks": 481,
+          "ctr": 1.324813,
+          "cpc": 1.324823
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
           "spend": 159.38,
-          "impr": 35295,
+          "impr": 35297,
           "clicks": 779,
-          "ctr": 2.207111,
+          "ctr": 2.206986,
           "cpc": 0.204596
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 35.08,
-          "impr": 7248,
+          "impr": 7251,
           "clicks": 120,
-          "ctr": 1.655629,
+          "ctr": 1.654944,
           "cpc": 0.292333
         },
         {
@@ -83,13 +83,13 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 942.99,
-      "impr": 142536,
+      "impr": 142537,
       "reach": 53462,
       "clicks": 1292,
-      "ctr": 0.906438,
+      "ctr": 0.906431,
       "cpc": 0.729868,
-      "cpm": 6.615802,
-      "freq": 2.666118,
+      "cpm": 6.615756,
+      "freq": 2.666137,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -104,9 +104,9 @@
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
           "spend": 175,
-          "impr": 57800,
+          "impr": 57801,
           "clicks": 697,
-          "ctr": 1.205882,
+          "ctr": 1.205861,
           "cpc": 0.251076
         }
       ]
@@ -119,13 +119,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 769.76,
-      "impr": 61079,
+      "impr": 61081,
       "reach": 29303,
       "clicks": 918,
-      "ctr": 1.502972,
+      "ctr": 1.502922,
       "cpc": 0.838519,
-      "cpm": 12.602695,
-      "freq": 2.084394,
+      "cpm": 12.602282,
+      "freq": 2.084462,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -140,9 +140,9 @@
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 69.99,
-          "impr": 14819,
+          "impr": 14821,
           "clicks": 301,
-          "ctr": 2.031176,
+          "ctr": 2.030902,
           "cpc": 0.232525
         }
       ]
@@ -409,22 +409,22 @@
       "acc": "877905779872333",
       "status": "ATIVO",
       "spend": 210.96,
-      "impr": 16421,
+      "impr": 16422,
       "reach": 12499,
       "clicks": 418,
-      "ctr": 2.545521,
+      "ctr": 2.545366,
       "cpc": 0.504689,
-      "cpm": 12.846964,
-      "freq": 1.313785,
+      "cpm": 12.846182,
+      "freq": 1.313865,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 22.04 / WIFI / 25 - 60  / 24 D",
           "spend": 165.54,
-          "impr": 10386,
+          "impr": 10387,
           "clicks": 181,
-          "ctr": 1.742731,
+          "ctr": 1.742563,
           "cpc": 0.914586
         },
         {
@@ -500,24 +500,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 192.81,
-      "impr": 33187,
+      "spend": 192.82,
+      "impr": 33189,
       "reach": 21994,
       "clicks": 501,
-      "ctr": 1.509627,
-      "cpc": 0.38485,
-      "cpm": 5.809805,
-      "freq": 1.508912,
+      "ctr": 1.509536,
+      "cpc": 0.38487,
+      "cpm": 5.809756,
+      "freq": 1.509002,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
-          "spend": 88.63,
-          "impr": 9912,
+          "spend": 88.64,
+          "impr": 9914,
           "clicks": 110,
-          "ctr": 1.109766,
-          "cpc": 0.805727
+          "ctr": 1.109542,
+          "cpc": 0.805818
         },
         {
           "n": "CAMP IG / 01.08 /  TODOS / 350T",
@@ -545,22 +545,22 @@
       "acc": "1076173037436485",
       "status": "ATIVO",
       "spend": 69.99,
-      "impr": 14480,
+      "impr": 14482,
       "reach": 9667,
       "clicks": 328,
-      "ctr": 2.265193,
+      "ctr": 2.264881,
       "cpc": 0.213384,
-      "cpm": 4.833564,
-      "freq": 1.497879,
+      "cpm": 4.832896,
+      "freq": 1.498086,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
           "spend": 69.99,
-          "impr": 14480,
+          "impr": 14482,
           "clicks": 328,
-          "ctr": 2.265193,
+          "ctr": 2.264881,
           "cpc": 0.213384
         }
       ]
@@ -619,24 +619,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 872.03,
-      "impr": 64919,
+      "spend": 872.15,
+      "impr": 64922,
       "reach": 51629,
       "clicks": 1766,
-      "ctr": 2.720313,
-      "cpc": 0.493788,
-      "cpm": 13.432585,
-      "freq": 1.257413,
+      "ctr": 2.720187,
+      "cpc": 0.493856,
+      "cpm": 13.433813,
+      "freq": 1.257472,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 767.43,
-          "impr": 52141,
+          "spend": 767.55,
+          "impr": 52144,
           "clicks": 1363,
-          "ctr": 2.614066,
-          "cpc": 0.563045
+          "ctr": 2.613915,
+          "cpc": 0.563133
         },
         {
           "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
