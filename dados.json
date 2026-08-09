@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 09/08/2026, 17:45:08",
+  "atualizadoEm": "Atualizado em 09/08/2026, 18:41:41",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,22 +31,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 844.27,
-      "impr": 80586,
+      "impr": 80587,
       "reach": 48796,
       "clicks": 1515,
-      "ctr": 1.879979,
+      "ctr": 1.879956,
       "cpc": 0.557274,
-      "cpm": 10.476634,
-      "freq": 1.651488,
+      "cpm": 10.476504,
+      "freq": 1.651508,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 637.24,
-          "impr": 36312,
+          "impr": 36313,
           "clicks": 481,
-          "ctr": 1.324631,
+          "ctr": 1.324595,
           "cpc": 1.324823
         },
         {
@@ -83,22 +83,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 942.99,
-      "impr": 142538,
+      "impr": 142539,
       "reach": 53462,
       "clicks": 1292,
-      "ctr": 0.906425,
+      "ctr": 0.906419,
       "cpc": 0.729868,
-      "cpm": 6.61571,
-      "freq": 2.666155,
+      "cpm": 6.615663,
+      "freq": 2.666174,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
           "spend": 767.99,
-          "impr": 84737,
+          "impr": 84738,
           "clicks": 595,
-          "ctr": 0.702173,
+          "ctr": 0.702164,
           "cpc": 1.29074
         },
         {
@@ -408,24 +408,24 @@
       "ig": "—",
       "acc": "877905779872333",
       "status": "ATIVO",
-      "spend": 210.96,
-      "impr": 16422,
+      "spend": 210.97,
+      "impr": 16423,
       "reach": 12499,
       "clicks": 418,
-      "ctr": 2.545366,
-      "cpc": 0.504689,
-      "cpm": 12.846182,
-      "freq": 1.313865,
+      "ctr": 2.545211,
+      "cpc": 0.504713,
+      "cpm": 12.846009,
+      "freq": 1.313945,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 22.04 / WIFI / 25 - 60  / 24 D",
-          "spend": 165.54,
-          "impr": 10387,
+          "spend": 165.55,
+          "impr": 10388,
           "clicks": 181,
-          "ctr": 1.742563,
-          "cpc": 0.914586
+          "ctr": 1.742395,
+          "cpc": 0.914641
         },
         {
           "n": "IG-PERFIL / 31.01 / todos / 25+ / 7D",
