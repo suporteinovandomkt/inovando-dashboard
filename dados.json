@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 09/08/2026, 11:10:12",
+  "atualizadoEm": "Atualizado em 09/08/2026, 12:03:46",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,22 +31,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 844.27,
-      "impr": 80548,
+      "impr": 80553,
       "reach": 48796,
       "clicks": 1513,
-      "ctr": 1.878383,
+      "ctr": 1.878266,
       "cpc": 0.558011,
-      "cpm": 10.481576,
-      "freq": 1.650709,
+      "cpm": 10.480926,
+      "freq": 1.650812,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 637.24,
-          "impr": 36294,
+          "impr": 36298,
           "clicks": 480,
-          "ctr": 1.322533,
+          "ctr": 1.322387,
           "cpc": 1.327583
         },
         {
@@ -60,9 +60,9 @@
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 35.08,
-          "impr": 7243,
+          "impr": 7244,
           "clicks": 119,
-          "ctr": 1.642966,
+          "ctr": 1.642739,
           "cpc": 0.29479
         },
         {
@@ -83,22 +83,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 942.99,
-      "impr": 142529,
+      "impr": 142530,
       "reach": 53462,
       "clicks": 1291,
-      "ctr": 0.905781,
+      "ctr": 0.905774,
       "cpc": 0.730434,
-      "cpm": 6.616127,
-      "freq": 2.665987,
+      "cpm": 6.616081,
+      "freq": 2.666006,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
           "spend": 767.99,
-          "impr": 84729,
+          "impr": 84730,
           "clicks": 594,
-          "ctr": 0.701059,
+          "ctr": 0.70105,
           "cpc": 1.292912
         },
         {
@@ -119,13 +119,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 769.76,
-      "impr": 61073,
+      "impr": 61074,
       "reach": 29303,
       "clicks": 918,
-      "ctr": 1.503119,
+      "ctr": 1.503095,
       "cpc": 0.838519,
-      "cpm": 12.603933,
-      "freq": 2.084189,
+      "cpm": 12.603727,
+      "freq": 2.084223,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -140,9 +140,9 @@
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 69.99,
-          "impr": 14815,
+          "impr": 14816,
           "clicks": 301,
-          "ctr": 2.031725,
+          "ctr": 2.031587,
           "cpc": 0.232525
         }
       ]
@@ -500,24 +500,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 192.78,
-      "impr": 33182,
+      "spend": 192.81,
+      "impr": 33184,
       "reach": 21994,
       "clicks": 501,
-      "ctr": 1.509855,
-      "cpc": 0.38479,
-      "cpm": 5.809776,
-      "freq": 1.508684,
+      "ctr": 1.509764,
+      "cpc": 0.38485,
+      "cpm": 5.81033,
+      "freq": 1.508775,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
-          "spend": 88.6,
-          "impr": 9907,
+          "spend": 88.63,
+          "impr": 9909,
           "clicks": 110,
-          "ctr": 1.110326,
-          "cpc": 0.805455
+          "ctr": 1.110102,
+          "cpc": 0.805727
         },
         {
           "n": "CAMP IG / 01.08 /  TODOS / 350T",
