@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 08/08/2026, 20:37:43",
+  "atualizadoEm": "Atualizado em 08/08/2026, 23:22:21",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -118,24 +118,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 794.29,
-      "impr": 68202,
+      "spend": 794.37,
+      "impr": 68204,
       "reach": 31314,
       "clicks": 954,
-      "ctr": 1.398786,
-      "cpc": 0.832589,
-      "cpm": 11.646139,
-      "freq": 2.178003,
+      "ctr": 1.398745,
+      "cpc": 0.832673,
+      "cpm": 11.646971,
+      "freq": 2.178067,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 725.84,
-          "impr": 54684,
+          "spend": 725.92,
+          "impr": 54686,
           "clicks": 665,
-          "ctr": 1.216078,
-          "cpc": 1.091489
+          "ctr": 1.216033,
+          "cpc": 1.091609
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -552,24 +552,24 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 70.57,
-      "impr": 14940,
+      "spend": 70.58,
+      "impr": 14941,
       "reach": 9923,
       "clicks": 321,
-      "ctr": 2.148594,
-      "cpc": 0.219844,
-      "cpm": 4.723561,
-      "freq": 1.505593,
+      "ctr": 2.148451,
+      "cpc": 0.219875,
+      "cpm": 4.723914,
+      "freq": 1.505694,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 70.57,
-          "impr": 14940,
+          "spend": 70.58,
+          "impr": 14941,
           "clicks": 321,
-          "ctr": 2.148594,
-          "cpc": 0.219844
+          "ctr": 2.148451,
+          "cpc": 0.219875
         }
       ]
     },
