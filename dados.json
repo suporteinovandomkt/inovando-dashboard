@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 10/08/2026, 16:35:17",
+  "atualizadoEm": "Atualizado em 10/08/2026, 17:18:42",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,14 +30,14 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 816.32,
-      "impr": 75808,
+      "spend": 816.35,
+      "impr": 75811,
       "reach": 46224,
       "clicks": 1366,
-      "ctr": 1.801921,
-      "cpc": 0.597599,
-      "cpm": 10.768257,
-      "freq": 1.640014,
+      "ctr": 1.801849,
+      "cpc": 0.597621,
+      "cpm": 10.768226,
+      "freq": 1.640079,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -59,11 +59,11 @@
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 58.53,
-          "impr": 11966,
+          "spend": 58.56,
+          "impr": 11969,
           "clicks": 198,
-          "ctr": 1.654688,
-          "cpc": 0.295606
+          "ctr": 1.654274,
+          "cpc": 0.295758
         },
         {
           "n": "COLAB WHATS / 30.07 / TODOS / 10D",
