@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 10/08/2026, 18:22:18",
+  "atualizadoEm": "Atualizado em 10/08/2026, 19:09:50",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -82,24 +82,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 937.52,
-      "impr": 137242,
+      "spend": 937.54,
+      "impr": 137243,
       "reach": 52429,
       "clicks": 1271,
-      "ctr": 0.926101,
-      "cpc": 0.737624,
-      "cpm": 6.831145,
-      "freq": 2.617673,
+      "ctr": 0.926095,
+      "cpc": 0.73764,
+      "cpm": 6.831241,
+      "freq": 2.617693,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 760.37,
-          "impr": 80436,
+          "spend": 760.39,
+          "impr": 80437,
           "clicks": 563,
-          "ctr": 0.699935,
-          "cpc": 1.350568
+          "ctr": 0.699927,
+          "cpc": 1.350604
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
@@ -118,14 +118,14 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 754.12,
-      "impr": 55213,
+      "spend": 754.13,
+      "impr": 55214,
       "reach": 26539,
       "clicks": 903,
-      "ctr": 1.635484,
-      "cpc": 0.835127,
-      "cpm": 13.658378,
-      "freq": 2.080448,
+      "ctr": 1.635455,
+      "cpc": 0.835138,
+      "cpm": 13.658311,
+      "freq": 2.080485,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -139,11 +139,11 @@
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 67.34,
-          "impr": 16195,
+          "spend": 67.35,
+          "impr": 16196,
           "clicks": 294,
-          "ctr": 1.815375,
-          "cpc": 0.229048
+          "ctr": 1.815263,
+          "cpc": 0.229082
         }
       ]
     },
@@ -473,22 +473,22 @@
       "acc": "730924665516463",
       "status": "ATIVO",
       "spend": 237.95,
-      "impr": 40825,
+      "impr": 40826,
       "reach": 26015,
       "clicks": 609,
-      "ctr": 1.491733,
+      "ctr": 1.491696,
       "cpc": 0.390723,
-      "cpm": 5.828536,
-      "freq": 1.569287,
+      "cpm": 5.828394,
+      "freq": 1.569325,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
           "spend": 113.19,
-          "impr": 12909,
+          "impr": 12910,
           "clicks": 138,
-          "ctr": 1.069022,
+          "ctr": 1.068939,
           "cpc": 0.820217
         },
         {
