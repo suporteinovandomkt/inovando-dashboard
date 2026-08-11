@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 11/08/2026, 01:03:41",
+  "atualizadoEm": "Atualizado em 11/08/2026, 02:17:36",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,40 +30,40 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 818.09,
-      "impr": 74246,
+      "spend": 818.29,
+      "impr": 74261,
       "reach": 45536,
       "clicks": 1237,
-      "ctr": 1.666083,
-      "cpc": 0.66135,
-      "cpm": 11.018641,
-      "freq": 1.63049,
+      "ctr": 1.665746,
+      "cpc": 0.661512,
+      "cpm": 11.019108,
+      "freq": 1.63082,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 616.41,
-          "impr": 31630,
+          "spend": 616.57,
+          "impr": 31636,
           "clicks": 382,
-          "ctr": 1.207714,
-          "cpc": 1.613639
+          "ctr": 1.207485,
+          "cpc": 1.614058
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
-          "spend": 130.45,
-          "impr": 28357,
+          "spend": 130.46,
+          "impr": 28362,
           "clicks": 610,
-          "ctr": 2.151144,
-          "cpc": 0.213852
+          "ctr": 2.150765,
+          "cpc": 0.213869
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 71.23,
-          "impr": 14259,
+          "spend": 71.26,
+          "impr": 14263,
           "clicks": 245,
-          "ctr": 1.718213,
-          "cpc": 0.290735
+          "ctr": 1.717731,
+          "cpc": 0.290857
         }
       ]
     },
@@ -74,32 +74,32 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 948.37,
-      "impr": 128713,
+      "spend": 948.39,
+      "impr": 128715,
       "reach": 49728,
       "clicks": 1186,
-      "ctr": 0.92143,
-      "cpc": 0.799637,
-      "cpm": 7.368098,
-      "freq": 2.588341,
+      "ctr": 0.921416,
+      "cpc": 0.799654,
+      "cpm": 7.368139,
+      "freq": 2.588381,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 110D",
-          "spend": 771.31,
-          "impr": 72244,
+          "spend": 771.32,
+          "impr": 72245,
           "clicks": 475,
-          "ctr": 0.657494,
-          "cpc": 1.623811
+          "ctr": 0.657485,
+          "cpc": 1.623832
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
-          "spend": 177.06,
-          "impr": 56469,
+          "spend": 177.07,
+          "impr": 56470,
           "clicks": 711,
-          "ctr": 1.259098,
-          "cpc": 0.24903
+          "ctr": 1.259076,
+          "cpc": 0.249044
         }
       ]
     },
@@ -508,24 +508,24 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 70.5,
-      "impr": 14025,
+      "spend": 70.57,
+      "impr": 14028,
       "reach": 9419,
       "clicks": 299,
-      "ctr": 2.131907,
-      "cpc": 0.235786,
-      "cpm": 5.026738,
-      "freq": 1.489012,
+      "ctr": 2.131451,
+      "cpc": 0.23602,
+      "cpm": 5.030653,
+      "freq": 1.48933,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 70.5,
-          "impr": 14025,
+          "spend": 70.57,
+          "impr": 14028,
           "clicks": 299,
-          "ctr": 2.131907,
-          "cpc": 0.235786
+          "ctr": 2.131451,
+          "cpc": 0.23602
         }
       ]
     },
@@ -583,24 +583,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 988.72,
-      "impr": 59425,
+      "spend": 988.74,
+      "impr": 59426,
       "reach": 47939,
       "clicks": 1706,
-      "ctr": 2.870846,
-      "cpc": 0.579555,
-      "cpm": 16.638115,
-      "freq": 1.239596,
+      "ctr": 2.870797,
+      "cpc": 0.579566,
+      "cpm": 16.638172,
+      "freq": 1.239617,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 876.08,
-          "impr": 46308,
+          "spend": 876.1,
+          "impr": 46309,
           "clicks": 1298,
-          "ctr": 2.802971,
-          "cpc": 0.674946
+          "ctr": 2.802911,
+          "cpc": 0.674961
         },
         {
           "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
