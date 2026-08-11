@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 11/08/2026, 16:39:24",
+  "atualizadoEm": "Atualizado em 11/08/2026, 17:57:28",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,40 +30,40 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 819.47,
-      "impr": 74427,
+      "spend": 819.54,
+      "impr": 74430,
       "reach": 45583,
       "clicks": 1239,
-      "ctr": 1.664718,
-      "cpc": 0.661396,
-      "cpm": 11.010386,
-      "freq": 1.63278,
+      "ctr": 1.664651,
+      "cpc": 0.661453,
+      "cpm": 11.010883,
+      "freq": 1.632846,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 617.19,
-          "impr": 31695,
+          "spend": 617.25,
+          "impr": 31696,
           "clicks": 382,
-          "ctr": 1.205237,
-          "cpc": 1.615681
+          "ctr": 1.205199,
+          "cpc": 1.615838
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
           "spend": 130.81,
-          "impr": 28434,
+          "impr": 28435,
           "clicks": 612,
-          "ctr": 2.152353,
+          "ctr": 2.152277,
           "cpc": 0.213742
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 71.47,
-          "impr": 14298,
+          "spend": 71.48,
+          "impr": 14299,
           "clicks": 245,
-          "ctr": 1.713526,
-          "cpc": 0.291714
+          "ctr": 1.713407,
+          "cpc": 0.291755
         }
       ]
     },
@@ -74,14 +74,14 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 948.51,
-      "impr": 128742,
+      "spend": 948.52,
+      "impr": 128744,
       "reach": 49728,
       "clicks": 1186,
-      "ctr": 0.921222,
-      "cpc": 0.799755,
-      "cpm": 7.367526,
-      "freq": 2.588924,
+      "ctr": 0.921208,
+      "cpc": 0.799764,
+      "cpm": 7.367489,
+      "freq": 2.588964,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -95,11 +95,11 @@
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
-          "spend": 177.11,
-          "impr": 56489,
+          "spend": 177.12,
+          "impr": 56491,
           "clicks": 711,
-          "ctr": 1.258652,
-          "cpc": 0.2491
+          "ctr": 1.258608,
+          "cpc": 0.249114
         }
       ]
     },
