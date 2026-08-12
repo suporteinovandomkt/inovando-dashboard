@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 12/08/2026, 18:24:02",
+  "atualizadoEm": "Atualizado em 12/08/2026, 19:21:29",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,22 +31,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 800.88,
-      "impr": 70595,
+      "impr": 70596,
       "reach": 43243,
       "clicks": 1145,
-      "ctr": 1.621928,
+      "ctr": 1.621905,
       "cpc": 0.699459,
-      "cpm": 11.344713,
-      "freq": 1.632519,
+      "cpm": 11.344552,
+      "freq": 1.632542,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 614.63,
-          "impr": 31815,
+          "impr": 31816,
           "clicks": 364,
-          "ctr": 1.144114,
+          "ctr": 1.144078,
           "cpc": 1.688544
         },
         {
@@ -464,24 +464,24 @@
       "ig": "@tenoriosburger.saoluis",
       "acc": "730924665516463",
       "status": "ATIVO",
-      "spend": 259.17,
-      "impr": 43071,
+      "spend": 259.19,
+      "impr": 43072,
       "reach": 27377,
       "clicks": 680,
-      "ctr": 1.578789,
-      "cpc": 0.381132,
-      "cpm": 6.017274,
-      "freq": 1.573255,
+      "ctr": 1.578752,
+      "cpc": 0.381162,
+      "cpm": 6.017598,
+      "freq": 1.573291,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "VENDAS C WEB / 31.07-31.08 / WIFI / 18-60 / 18 D",
-          "spend": 130.67,
-          "impr": 14394,
+          "spend": 130.69,
+          "impr": 14395,
           "clicks": 165,
-          "ctr": 1.146311,
-          "cpc": 0.791939
+          "ctr": 1.146231,
+          "cpc": 0.792061
         },
         {
           "n": "CAMP IG / 01.08 /  TODOS / 350T",
