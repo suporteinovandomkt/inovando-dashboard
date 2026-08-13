@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 13/08/2026, 18:56:08",
+  "atualizadoEm": "Atualizado em 13/08/2026, 19:54:01",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -110,31 +110,31 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 790.05,
-      "impr": 54788,
+      "spend": 790.08,
+      "impr": 54790,
       "reach": 26485,
       "clicks": 932,
-      "ctr": 1.701102,
-      "cpc": 0.847693,
-      "cpm": 14.420129,
-      "freq": 2.068643,
+      "ctr": 1.70104,
+      "cpc": 0.847725,
+      "cpm": 14.42015,
+      "freq": 2.068718,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 720.24,
-          "impr": 34762,
+          "spend": 720.27,
+          "impr": 34763,
           "clicks": 632,
-          "ctr": 1.818077,
-          "cpc": 1.13962
+          "ctr": 1.818025,
+          "cpc": 1.139668
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 69.81,
-          "impr": 20026,
+          "impr": 20027,
           "clicks": 300,
-          "ctr": 1.498053,
+          "ctr": 1.497978,
           "cpc": 0.2327
         }
       ]
@@ -574,24 +574,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 966.59,
-      "impr": 56179,
+      "spend": 966.61,
+      "impr": 56180,
       "reach": 44512,
       "clicks": 1689,
-      "ctr": 3.006461,
-      "cpc": 0.572285,
-      "cpm": 17.205539,
-      "freq": 1.262109,
+      "ctr": 3.006408,
+      "cpc": 0.572297,
+      "cpm": 17.205589,
+      "freq": 1.262132,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 853.84,
-          "impr": 42894,
+          "spend": 853.86,
+          "impr": 42895,
           "clicks": 1266,
-          "ctr": 2.951462,
-          "cpc": 0.674439
+          "ctr": 2.951393,
+          "cpc": 0.674455
         },
         {
           "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
