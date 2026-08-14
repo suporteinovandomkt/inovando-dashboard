@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 14/08/2026, 19:32:47",
+  "atualizadoEm": "Atualizado em 14/08/2026, 19:53:32",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,22 +31,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 833.71,
-      "impr": 66251,
+      "impr": 66252,
       "reach": 39285,
       "clicks": 1167,
-      "ctr": 1.761483,
+      "ctr": 1.761456,
       "cpc": 0.714404,
-      "cpm": 12.584112,
-      "freq": 1.68642,
+      "cpm": 12.583922,
+      "freq": 1.686445,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 658.62,
-          "impr": 31251,
+          "impr": 31252,
           "clicks": 500,
-          "ctr": 1.599949,
+          "ctr": 1.599898,
           "cpc": 1.31724
         },
         {
@@ -75,22 +75,22 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 992.91,
-      "impr": 129566,
+      "impr": 129567,
       "reach": 51690,
       "clicks": 1285,
-      "ctr": 0.991773,
+      "ctr": 0.991765,
       "cpc": 0.772693,
-      "cpm": 7.663353,
-      "freq": 2.506597,
+      "cpm": 7.663294,
+      "freq": 2.506616,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 130D",
           "spend": 820.2,
-          "impr": 74622,
+          "impr": 74623,
           "clicks": 619,
-          "ctr": 0.829514,
+          "ctr": 0.829503,
           "cpc": 1.32504
         },
         {
@@ -656,18 +656,27 @@
       "plano": "Start",
       "ig": "@luckslanches",
       "acc": "724989819654241",
-      "status": "API_PENDENTE",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
+      "status": "ATIVO",
+      "spend": 66.32,
+      "impr": 11970,
+      "reach": 9910,
+      "clicks": 208,
+      "ctr": 1.737678,
+      "cpc": 0.318846,
+      "cpm": 5.540518,
+      "freq": 1.207871,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG PERFIL AGOSTO / WIFI / 20_60 / 18H_01H / 400T",
+          "spend": 66.32,
+          "impr": 11970,
+          "clicks": 208,
+          "ctr": 1.737678,
+          "cpc": 0.318846
+        }
+      ]
     }
   ]
 }
