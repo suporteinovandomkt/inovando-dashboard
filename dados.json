@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 14/08/2026, 16:52:31",
+  "atualizadoEm": "Atualizado em 14/08/2026, 17:38:26",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -574,24 +574,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 950.83,
-      "impr": 55488,
+      "spend": 950.84,
+      "impr": 55490,
       "reach": 43064,
       "clicks": 1726,
-      "ctr": 3.110582,
-      "cpc": 0.550886,
-      "cpm": 17.135777,
-      "freq": 1.288501,
+      "ctr": 3.11047,
+      "cpc": 0.550892,
+      "cpm": 17.13534,
+      "freq": 1.288547,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 840.72,
-          "impr": 42168,
+          "spend": 840.73,
+          "impr": 42170,
           "clicks": 1290,
-          "ctr": 3.059192,
-          "cpc": 0.651721
+          "ctr": 3.059047,
+          "cpc": 0.651729
         },
         {
           "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
