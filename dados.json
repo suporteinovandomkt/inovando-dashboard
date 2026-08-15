@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 15/08/2026, 12:29:30",
+  "atualizadoEm": "Atualizado em 15/08/2026, 12:49:52",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,32 +30,32 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 840.88,
-      "impr": 64882,
+      "spend": 840.93,
+      "impr": 64887,
       "reach": 38956,
       "clicks": 1218,
-      "ctr": 1.877254,
-      "cpc": 0.690378,
-      "cpm": 12.960143,
-      "freq": 1.66552,
+      "ctr": 1.877109,
+      "cpc": 0.690419,
+      "cpm": 12.959915,
+      "freq": 1.665648,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 663.36,
-          "impr": 29903,
+          "spend": 663.37,
+          "impr": 29904,
           "clicks": 553,
-          "ctr": 1.849313,
-          "cpc": 1.199566
+          "ctr": 1.849251,
+          "cpc": 1.199584
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 108.03,
-          "impr": 20129,
+          "spend": 108.07,
+          "impr": 20133,
           "clicks": 374,
-          "ctr": 1.858016,
-          "cpc": 0.28885
+          "ctr": 1.857647,
+          "cpc": 0.288957
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -110,14 +110,14 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 781.89,
-      "impr": 56806,
+      "spend": 781.9,
+      "impr": 56807,
       "reach": 27008,
       "clicks": 970,
-      "ctr": 1.707566,
-      "cpc": 0.806072,
-      "cpm": 13.764215,
-      "freq": 2.103303,
+      "ctr": 1.707536,
+      "cpc": 0.806082,
+      "cpm": 13.764149,
+      "freq": 2.10334,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -131,11 +131,11 @@
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 70.21,
-          "impr": 19575,
+          "spend": 70.22,
+          "impr": 19576,
           "clicks": 291,
-          "ctr": 1.48659,
-          "cpc": 0.241271
+          "ctr": 1.486514,
+          "cpc": 0.241306
         }
       ]
     },
