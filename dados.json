@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 17/08/2026, 12:33:25",
+  "atualizadoEm": "Atualizado em 17/08/2026, 12:53:55",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,40 +30,40 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 798.29,
-      "impr": 62004,
+      "spend": 798.31,
+      "impr": 62008,
       "reach": 37480,
       "clicks": 1282,
-      "ctr": 2.067609,
-      "cpc": 0.622691,
-      "cpm": 12.874815,
-      "freq": 1.654322,
+      "ctr": 2.067475,
+      "cpc": 0.622707,
+      "cpm": 12.874307,
+      "freq": 1.654429,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 624.97,
-          "impr": 27073,
+          "impr": 27075,
           "clicks": 628,
-          "ctr": 2.319654,
+          "ctr": 2.319483,
           "cpc": 0.995175
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 102.25,
-          "impr": 19344,
+          "spend": 102.26,
+          "impr": 19345,
           "clicks": 370,
-          "ctr": 1.912738,
-          "cpc": 0.276351
+          "ctr": 1.912639,
+          "cpc": 0.276378
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
-          "spend": 71.07,
-          "impr": 15587,
+          "spend": 71.08,
+          "impr": 15588,
           "clicks": 284,
-          "ctr": 1.822031,
-          "cpc": 0.250246
+          "ctr": 1.821914,
+          "cpc": 0.250282
         }
       ]
     },
@@ -111,13 +111,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 734.46,
-      "impr": 57283,
+      "impr": 57284,
       "reach": 28031,
       "clicks": 928,
-      "ctr": 1.620027,
+      "ctr": 1.619999,
       "cpc": 0.791444,
-      "cpm": 12.821605,
-      "freq": 2.043559,
+      "cpm": 12.821381,
+      "freq": 2.043595,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -132,9 +132,9 @@
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 71.63,
-          "impr": 20164,
+          "impr": 20165,
           "clicks": 284,
-          "ctr": 1.408451,
+          "ctr": 1.408381,
           "cpc": 0.252218
         }
       ]
