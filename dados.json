@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 17/08/2026, 11:37:01",
+  "atualizadoEm": "Atualizado em 17/08/2026, 11:57:48",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,13 +31,13 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 798.21,
-      "impr": 61995,
+      "impr": 61999,
       "reach": 37480,
       "clicks": 1282,
-      "ctr": 2.067909,
+      "ctr": 2.067775,
       "cpc": 0.622629,
-      "cpm": 12.875393,
-      "freq": 1.654082,
+      "cpm": 12.874562,
+      "freq": 1.654189,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -52,17 +52,17 @@
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 102.23,
-          "impr": 19340,
+          "impr": 19342,
           "clicks": 370,
-          "ctr": 1.913133,
+          "ctr": 1.912936,
           "cpc": 0.276297
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
           "spend": 71.07,
-          "impr": 15584,
+          "impr": 15587,
           "clicks": 284,
-          "ctr": 1.822382,
+          "ctr": 1.822031,
           "cpc": 0.250246
         }
       ]
@@ -74,24 +74,24 @@
       "ig": "@odontochueh",
       "acc": "776932710078790",
       "status": "ATIVO",
-      "spend": 1010.16,
-      "impr": 144648,
+      "spend": 1010.18,
+      "impr": 144651,
       "reach": 59546,
       "clicks": 1450,
-      "ctr": 1.002433,
-      "cpc": 0.696662,
-      "cpm": 6.983574,
-      "freq": 2.429181,
+      "ctr": 1.002413,
+      "cpc": 0.696676,
+      "cpm": 6.983567,
+      "freq": 2.429231,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 130D",
-          "spend": 836.31,
-          "impr": 88366,
+          "spend": 836.33,
+          "impr": 88369,
           "clicks": 808,
-          "ctr": 0.914379,
-          "cpc": 1.035037
+          "ctr": 0.914348,
+          "cpc": 1.035062
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
@@ -110,24 +110,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 734.38,
-      "impr": 57279,
+      "spend": 734.39,
+      "impr": 57281,
       "reach": 28031,
       "clicks": 928,
-      "ctr": 1.62014,
-      "cpc": 0.791358,
-      "cpm": 12.821104,
-      "freq": 2.043416,
+      "ctr": 1.620083,
+      "cpc": 0.791369,
+      "cpm": 12.820831,
+      "freq": 2.043488,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 662.75,
-          "impr": 37115,
+          "spend": 662.76,
+          "impr": 37117,
           "clicks": 644,
-          "ctr": 1.735148,
-          "cpc": 1.029115
+          "ctr": 1.735054,
+          "cpc": 1.02913
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
