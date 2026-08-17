@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 17/08/2026, 16:54:53",
+  "atualizadoEm": "Atualizado em 17/08/2026, 17:36:24",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,32 +30,32 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 798.47,
-      "impr": 62043,
+      "spend": 798.49,
+      "impr": 62045,
       "reach": 37506,
       "clicks": 1282,
-      "ctr": 2.066309,
-      "cpc": 0.622832,
-      "cpm": 12.869623,
-      "freq": 1.654215,
+      "ctr": 2.066242,
+      "cpc": 0.622847,
+      "cpm": 12.86953,
+      "freq": 1.654269,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 625.04,
-          "impr": 27088,
+          "spend": 625.05,
+          "impr": 27089,
           "clicks": 628,
-          "ctr": 2.31837,
-          "cpc": 0.995287
+          "ctr": 2.318284,
+          "cpc": 0.995303
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 102.3,
-          "impr": 19360,
+          "spend": 102.31,
+          "impr": 19361,
           "clicks": 370,
-          "ctr": 1.911157,
-          "cpc": 0.276486
+          "ctr": 1.911058,
+          "cpc": 0.276514
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -174,25 +174,6 @@
       "ig": "—",
       "acc": "—",
       "status": "SEM_CONTA",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": true,
-      "camps": []
-    },
-    {
-      "nome": "AMAR - Plano Start",
-      "seg": "—",
-      "plano": "Start",
-      "ig": "—",
-      "acc": "312676821930863",
-      "status": "DORMENTE",
       "spend": 0,
       "impr": 0,
       "reach": 0,
