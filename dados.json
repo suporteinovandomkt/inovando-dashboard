@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 17/08/2026, 20:51:17",
+  "atualizadoEm": "Atualizado em 17/08/2026, 22:44:44",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -353,24 +353,24 @@
       "ig": "—",
       "acc": "877905779872333",
       "status": "ATIVO",
-      "spend": 206.59,
-      "impr": 16085,
+      "spend": 206.6,
+      "impr": 16086,
       "reach": 10420,
       "clicks": 423,
-      "ctr": 2.629779,
-      "cpc": 0.488392,
-      "cpm": 12.843643,
-      "freq": 1.543666,
+      "ctr": 2.629616,
+      "cpc": 0.488416,
+      "cpm": 12.843466,
+      "freq": 1.543762,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 22.04 / WIFI / 25 - 60  / 24 D",
-          "spend": 158.53,
-          "impr": 9619,
+          "spend": 158.54,
+          "impr": 9620,
           "clicks": 133,
-          "ctr": 1.38268,
-          "cpc": 1.191955
+          "ctr": 1.382536,
+          "cpc": 1.19203
         },
         {
           "n": "IG-PERFIL / 31.01 / todos / 25+ / 7D",
