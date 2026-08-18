@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 18/08/2026, 16:34:08",
+  "atualizadoEm": "Atualizado em 18/08/2026, 16:52:34",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,22 +31,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 849.77,
-      "impr": 68268,
+      "impr": 68270,
       "reach": 39604,
       "clicks": 1407,
-      "ctr": 2.060995,
+      "ctr": 2.060935,
       "cpc": 0.603959,
-      "cpm": 12.44756,
-      "freq": 1.723765,
+      "cpm": 12.447195,
+      "freq": 1.723816,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 680.17,
-          "impr": 33308,
+          "impr": 33309,
           "clicks": 744,
-          "ctr": 2.233698,
+          "ctr": 2.233631,
           "cpc": 0.914207
         },
         {
@@ -60,9 +60,9 @@
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
           "spend": 68.2,
-          "impr": 15316,
+          "impr": 15317,
           "clicks": 285,
-          "ctr": 1.860799,
+          "ctr": 1.860678,
           "cpc": 0.239298
         }
       ]
