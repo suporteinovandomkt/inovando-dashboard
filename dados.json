@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 20/08/2026, 08:35:36",
+  "atualizadoEm": "Atualizado em 20/08/2026, 08:57:40",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 848.45,
-      "impr": 75302,
+      "spend": 848.52,
+      "impr": 75309,
       "reach": 41835,
       "clicks": 1463,
-      "ctr": 1.942843,
-      "cpc": 0.579938,
-      "cpm": 11.267297,
-      "freq": 1.799976,
+      "ctr": 1.942663,
+      "cpc": 0.579986,
+      "cpm": 11.267179,
+      "freq": 1.800143,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 678.44,
-          "impr": 39879,
+          "spend": 678.49,
+          "impr": 39885,
           "clicks": 803,
-          "ctr": 2.013591,
-          "cpc": 0.844882
+          "ctr": 2.013288,
+          "cpc": 0.844944
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
@@ -59,11 +59,11 @@
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
-          "spend": 64.23,
-          "impr": 12733,
+          "spend": 64.25,
+          "impr": 12734,
           "clicks": 243,
-          "ctr": 1.908427,
-          "cpc": 0.264321
+          "ctr": 1.908277,
+          "cpc": 0.264403
         }
       ]
     },
@@ -111,22 +111,22 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 792.3,
-      "impr": 61108,
+      "impr": 61109,
       "reach": 29949,
       "clicks": 956,
-      "ctr": 1.564443,
+      "ctr": 1.564418,
       "cpc": 0.828766,
-      "cpm": 12.965569,
-      "freq": 2.040402,
+      "cpm": 12.965357,
+      "freq": 2.040435,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
           "spend": 720.74,
-          "impr": 41298,
+          "impr": 41299,
           "clicks": 641,
-          "ctr": 1.552133,
+          "ctr": 1.552096,
           "cpc": 1.124399
         },
         {
@@ -240,24 +240,24 @@
       "ig": "—",
       "acc": "973988312272175",
       "status": "ATIVO",
-      "spend": 66.35,
-      "impr": 8286,
-      "reach": 7280,
+      "spend": 66.36,
+      "impr": 8287,
+      "reach": 7289,
       "clicks": 247,
-      "ctr": 2.980932,
-      "cpc": 0.268623,
-      "cpm": 8.007483,
-      "freq": 1.138187,
+      "ctr": 2.980572,
+      "cpc": 0.268664,
+      "cpm": 8.007723,
+      "freq": 1.136919,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG GERAL / 16.06 / 25+ / TODOS / 10D",
-          "spend": 66.35,
-          "impr": 8286,
+          "spend": 66.36,
+          "impr": 8287,
           "clicks": 247,
-          "ctr": 2.980932,
-          "cpc": 0.268623
+          "ctr": 2.980572,
+          "cpc": 0.268664
         }
       ]
     },
@@ -288,13 +288,13 @@
       "acc": "969933572256897",
       "status": "ATIVO",
       "spend": 278.71,
-      "impr": 15217,
+      "impr": 15218,
       "reach": 9751,
       "clicks": 254,
-      "ctr": 1.669186,
+      "ctr": 1.669076,
       "cpc": 1.097283,
-      "cpm": 18.3157,
-      "freq": 1.560558,
+      "cpm": 18.314496,
+      "freq": 1.56066,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -317,9 +317,9 @@
         {
           "n": "IG - PERFIL / 06.07 / TODOS / 10D",
           "spend": 31.69,
-          "impr": 6101,
+          "impr": 6102,
           "clicks": 134,
-          "ctr": 2.196361,
+          "ctr": 2.196001,
           "cpc": 0.236493
         }
       ]
@@ -498,22 +498,22 @@
       "acc": "1076173037436485",
       "status": "ATIVO",
       "spend": 68.95,
-      "impr": 8486,
+      "impr": 8487,
       "reach": 6398,
       "clicks": 259,
-      "ctr": 3.052086,
+      "ctr": 3.051726,
       "cpc": 0.266216,
-      "cpm": 8.125147,
-      "freq": 1.326352,
+      "cpm": 8.12419,
+      "freq": 1.326508,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
           "spend": 68.95,
-          "impr": 8486,
+          "impr": 8487,
           "clicks": 259,
-          "ctr": 3.052086,
+          "ctr": 3.051726,
           "cpc": 0.266216
         }
       ]
