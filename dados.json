@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 20/08/2026, 18:36:41",
+  "atualizadoEm": "Atualizado em 20/08/2026, 18:57:41",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,14 +30,14 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 848.95,
-      "impr": 75373,
+      "spend": 848.96,
+      "impr": 75374,
       "reach": 41853,
       "clicks": 1468,
-      "ctr": 1.947647,
-      "cpc": 0.578304,
-      "cpm": 11.263317,
-      "freq": 1.800898,
+      "ctr": 1.947621,
+      "cpc": 0.578311,
+      "cpm": 11.2633,
+      "freq": 1.800922,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -51,11 +51,11 @@
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 105.91,
-          "impr": 22717,
+          "spend": 105.92,
+          "impr": 22718,
           "clicks": 419,
-          "ctr": 1.844434,
-          "cpc": 0.252769
+          "ctr": 1.844353,
+          "cpc": 0.252792
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -571,35 +571,18 @@
       "plano": "Start",
       "ig": "—",
       "acc": "2416703108676525",
-      "status": "ATIVO",
-      "spend": 816.2,
-      "impr": 59134,
-      "reach": 46152,
-      "clicks": 1697,
-      "ctr": 2.869753,
-      "cpc": 0.480966,
-      "cpm": 13.80255,
-      "freq": 1.281288,
+      "status": "API_PENDENTE",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 711.27,
-          "impr": 48475,
-          "clicks": 1341,
-          "ctr": 2.766374,
-          "cpc": 0.530403
-        },
-        {
-          "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
-          "spend": 104.93,
-          "impr": 10659,
-          "clicks": 356,
-          "ctr": 3.339901,
-          "cpc": 0.294747
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "MASTER CLEAN PRO AJU",
