@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 21/08/2026, 04:00:33",
+  "atualizadoEm": "Atualizado em 21/08/2026, 04:50:59",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,42 +30,17 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 817.51,
-      "impr": 77823,
+      "spend": 817.56,
+      "impr": 77826,
       "reach": 41953,
       "clicks": 1460,
-      "ctr": 1.876052,
-      "cpc": 0.559938,
-      "cpm": 10.504735,
-      "freq": 1.855004,
+      "ctr": 1.87598,
+      "cpc": 0.559973,
+      "cpm": 10.504973,
+      "freq": 1.855076,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 643.84,
-          "impr": 41315,
-          "clicks": 781,
-          "ctr": 1.890355,
-          "cpc": 0.824379
-        },
-        {
-          "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 103.27,
-          "impr": 23062,
-          "clicks": 425,
-          "ctr": 1.842858,
-          "cpc": 0.242988
-        },
-        {
-          "n": "IG - PERFIL / 07.05 / TODOS / 10D",
-          "spend": 70.4,
-          "impr": 13446,
-          "clicks": 254,
-          "ctr": 1.889038,
-          "cpc": 0.277165
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "ODONTO CHUEH",
@@ -84,24 +59,7 @@
       "freq": 2.441089,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 03.07.26 / WIFI / 130D",
-          "spend": 939.34,
-          "impr": 97945,
-          "clicks": 809,
-          "ctr": 0.825974,
-          "cpc": 1.161112
-        },
-        {
-          "n": "IG- PERFIL / 20.06 / todos / 25D",
-          "spend": 186.88,
-          "impr": 58043,
-          "clicks": 929,
-          "ctr": 1.600538,
-          "cpc": 0.201163
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "DENT-X",
@@ -110,14 +68,14 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 784.6,
-      "impr": 62377,
+      "spend": 784.61,
+      "impr": 62378,
       "reach": 30270,
       "clicks": 932,
-      "ctr": 1.49414,
-      "cpc": 0.841845,
-      "cpm": 12.578354,
-      "freq": 2.060687,
+      "ctr": 1.494117,
+      "cpc": 0.841856,
+      "cpm": 12.578313,
+      "freq": 2.06072,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -131,11 +89,11 @@
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 71.24,
-          "impr": 19626,
+          "spend": 71.25,
+          "impr": 19627,
           "clicks": 328,
-          "ctr": 1.671252,
-          "cpc": 0.217195
+          "ctr": 1.671167,
+          "cpc": 0.217226
         }
       ]
     },
@@ -156,16 +114,7 @@
       "freq": 1.256669,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 68.06,
-          "impr": 8103,
-          "clicks": 157,
-          "ctr": 1.937554,
-          "cpc": 0.433503
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "DRA. THAÍS SIMAN",
@@ -222,16 +171,7 @@
       "freq": 1.256669,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 68.06,
-          "impr": 8103,
-          "clicks": 157,
-          "ctr": 1.937554,
-          "cpc": 0.433503
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "CAFEÍNA URBANA ARQUITETURA",
@@ -288,41 +228,16 @@
       "acc": "969933572256897",
       "status": "ATIVO",
       "spend": 299.02,
-      "impr": 16916,
+      "impr": 16918,
       "reach": 10944,
       "clicks": 284,
-      "ctr": 1.678884,
+      "ctr": 1.678685,
       "cpc": 1.052887,
-      "cpm": 17.676756,
-      "freq": 1.545687,
+      "cpm": 17.674666,
+      "freq": 1.54587,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 1708 / 25-60 / 45D",
-          "spend": 172.06,
-          "impr": 5593,
-          "clicks": 59,
-          "ctr": 1.05489,
-          "cpc": 2.916271
-        },
-        {
-          "n": "WHATS / 07.07 / TODOS / 45D",
-          "spend": 83.28,
-          "impr": 3553,
-          "clicks": 56,
-          "ctr": 1.576133,
-          "cpc": 1.487143
-        },
-        {
-          "n": "IG - PERFIL / 06.07 / TODOS / 10D",
-          "spend": 43.68,
-          "impr": 7770,
-          "clicks": 169,
-          "ctr": 2.175032,
-          "cpc": 0.258462
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "LOJA REIS",
@@ -490,16 +405,7 @@
       "freq": 1.353479,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 70.72,
-          "impr": 8443,
-          "clicks": 266,
-          "ctr": 3.150539,
-          "cpc": 0.265865
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "PADARIA RAINHA DA SUL - 05",
@@ -518,16 +424,7 @@
       "freq": 1.482855,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG PERFIL / 21.07 / TODOS / 20D",
-          "spend": 136.52,
-          "impr": 20195,
-          "clicks": 432,
-          "ctr": 2.139143,
-          "cpc": 0.316019
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "TAPIOCA ALAGOANA - 10",
@@ -555,34 +452,17 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 834.89,
-      "impr": 59664,
+      "spend": 834.91,
+      "impr": 59668,
       "reach": 46150,
       "clicks": 1723,
-      "ctr": 2.887839,
-      "cpc": 0.484556,
-      "cpm": 13.993195,
-      "freq": 1.292828,
+      "ctr": 2.887645,
+      "cpc": 0.484568,
+      "cpm": 13.992592,
+      "freq": 1.292914,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 728.38,
-          "impr": 49313,
-          "clicks": 1366,
-          "ctr": 2.770061,
-          "cpc": 0.533221
-        },
-        {
-          "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
-          "spend": 106.51,
-          "impr": 10351,
-          "clicks": 357,
-          "ctr": 3.448942,
-          "cpc": 0.298347
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "MASTER CLEAN PRO AJU",
