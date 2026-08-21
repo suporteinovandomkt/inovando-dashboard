@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 21/08/2026, 04:50:59",
+  "atualizadoEm": "Atualizado em 21/08/2026, 05:52:06",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,14 +30,14 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 817.56,
-      "impr": 77826,
+      "spend": 817.66,
+      "impr": 77838,
       "reach": 41953,
       "clicks": 1460,
-      "ctr": 1.87598,
-      "cpc": 0.559973,
-      "cpm": 10.504973,
-      "freq": 1.855076,
+      "ctr": 1.875691,
+      "cpc": 0.560041,
+      "cpm": 10.504638,
+      "freq": 1.855362,
       "linkClicks": 0,
       "pay": true,
       "camps": []
@@ -50,16 +50,33 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 1126.22,
-      "impr": 155988,
+      "impr": 155990,
       "reach": 63901,
       "clicks": 1738,
-      "ctr": 1.114188,
+      "ctr": 1.114174,
       "cpc": 0.647998,
-      "cpm": 7.219914,
-      "freq": 2.441089,
+      "cpm": 7.219822,
+      "freq": 2.44112,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "WHATS / 03.07.26 / WIFI / 130D",
+          "spend": 939.34,
+          "impr": 97946,
+          "clicks": 809,
+          "ctr": 0.825965,
+          "cpc": 1.161112
+        },
+        {
+          "n": "IG- PERFIL / 20.06 / todos / 25D",
+          "spend": 186.88,
+          "impr": 58044,
+          "clicks": 929,
+          "ctr": 1.60051,
+          "cpc": 0.201163
+        }
+      ]
     },
     {
       "nome": "DENT-X",
@@ -69,13 +86,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 784.61,
-      "impr": 62378,
+      "impr": 62381,
       "reach": 30270,
       "clicks": 932,
-      "ctr": 1.494117,
+      "ctr": 1.494045,
       "cpc": 0.841856,
-      "cpm": 12.578313,
-      "freq": 2.06072,
+      "cpm": 12.577708,
+      "freq": 2.060819,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -90,9 +107,9 @@
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 71.25,
-          "impr": 19627,
+          "impr": 19630,
           "clicks": 328,
-          "ctr": 1.671167,
+          "ctr": 1.670912,
           "cpc": 0.217226
         }
       ]
@@ -358,16 +375,7 @@
       "freq": 2.049162,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "BAC IG / 03.08 / TODOS / 10D",
-          "spend": 73.59,
-          "impr": 11129,
-          "clicks": 105,
-          "ctr": 0.943481,
-          "cpc": 0.700857
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "TENORIOS - 10",
@@ -395,14 +403,14 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 70.72,
-      "impr": 8443,
+      "spend": 70.74,
+      "impr": 8444,
       "reach": 6238,
       "clicks": 266,
-      "ctr": 3.150539,
-      "cpc": 0.265865,
-      "cpm": 8.37617,
-      "freq": 1.353479,
+      "ctr": 3.150166,
+      "cpc": 0.26594,
+      "cpm": 8.377546,
+      "freq": 1.353639,
       "linkClicks": 0,
       "pay": true,
       "camps": []
@@ -424,7 +432,16 @@
       "freq": 1.482855,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG PERFIL / 21.07 / TODOS / 20D",
+          "spend": 136.52,
+          "impr": 20195,
+          "clicks": 432,
+          "ctr": 2.139143,
+          "cpc": 0.316019
+        }
+      ]
     },
     {
       "nome": "TAPIOCA ALAGOANA - 10",
@@ -462,7 +479,24 @@
       "freq": 1.292914,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "WHATS / 04.07.26 / TODOS / 110D",
+          "spend": 728.4,
+          "impr": 49317,
+          "clicks": 1366,
+          "ctr": 2.769836,
+          "cpc": 0.533236
+        },
+        {
+          "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
+          "spend": 106.51,
+          "impr": 10351,
+          "clicks": 357,
+          "ctr": 3.448942,
+          "cpc": 0.298347
+        }
+      ]
     },
     {
       "nome": "MASTER CLEAN PRO AJU",
@@ -471,24 +505,24 @@
       "ig": "—",
       "acc": "1499544194883369",
       "status": "ATIVO",
-      "spend": 71.56,
-      "impr": 13709,
-      "reach": 11321,
+      "spend": 71.58,
+      "impr": 13710,
+      "reach": 11326,
       "clicks": 222,
-      "ctr": 1.619374,
-      "cpc": 0.322342,
-      "cpm": 5.219929,
-      "freq": 1.210935,
+      "ctr": 1.619256,
+      "cpc": 0.322432,
+      "cpm": 5.221007,
+      "freq": 1.210489,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "Camp IG / 21.07 / TODOS / 10D",
-          "spend": 71.56,
-          "impr": 13709,
+          "spend": 71.58,
+          "impr": 13710,
           "clicks": 222,
-          "ctr": 1.619374,
-          "cpc": 0.322342
+          "ctr": 1.619256,
+          "cpc": 0.322432
         }
       ]
     },
