@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 22/08/2026, 11:30:34",
+  "atualizadoEm": "Atualizado em 22/08/2026, 11:52:12",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,24 +30,24 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 815.19,
-      "impr": 80824,
+      "spend": 815.22,
+      "impr": 80826,
       "reach": 43308,
       "clicks": 1460,
-      "ctr": 1.806394,
-      "cpc": 0.558349,
-      "cpm": 10.085989,
-      "freq": 1.86626,
+      "ctr": 1.806349,
+      "cpc": 0.55837,
+      "cpm": 10.086111,
+      "freq": 1.866306,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 640.59,
-          "impr": 44301,
+          "spend": 640.62,
+          "impr": 44303,
           "clicks": 775,
-          "ctr": 1.749396,
-          "cpc": 0.826568
+          "ctr": 1.749317,
+          "cpc": 0.826606
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
@@ -496,24 +496,24 @@
       "ig": "@barerestaurante.uniaodeminas",
       "acc": "1076173037436485",
       "status": "ATIVO",
-      "spend": 71.95,
-      "impr": 8461,
+      "spend": 71.96,
+      "impr": 8462,
       "reach": 6412,
       "clicks": 269,
-      "ctr": 3.179293,
-      "cpc": 0.267472,
-      "cpm": 8.503723,
-      "freq": 1.319557,
+      "ctr": 3.178918,
+      "cpc": 0.267509,
+      "cpm": 8.5039,
+      "freq": 1.319713,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 71.95,
-          "impr": 8461,
+          "spend": 71.96,
+          "impr": 8462,
           "clicks": 269,
-          "ctr": 3.179293,
-          "cpc": 0.267472
+          "ctr": 3.178918,
+          "cpc": 0.267509
         }
       ]
     },
