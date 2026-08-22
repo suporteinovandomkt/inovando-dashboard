@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 22/08/2026, 07:33:43",
+  "atualizadoEm": "Atualizado em 22/08/2026, 07:53:53",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,32 +30,32 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 814.92,
-      "impr": 80784,
+      "spend": 814.97,
+      "impr": 80793,
       "reach": 43308,
       "clicks": 1459,
-      "ctr": 1.806051,
-      "cpc": 0.558547,
-      "cpm": 10.087641,
-      "freq": 1.865337,
+      "ctr": 1.80585,
+      "cpc": 0.558581,
+      "cpm": 10.087136,
+      "freq": 1.865544,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 640.37,
-          "impr": 44278,
+          "spend": 640.39,
+          "impr": 44282,
           "clicks": 774,
-          "ctr": 1.748046,
-          "cpc": 0.827351
+          "ctr": 1.747889,
+          "cpc": 0.827377
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 103.66,
-          "impr": 24284,
+          "spend": 103.69,
+          "impr": 24289,
           "clicks": 441,
-          "ctr": 1.816011,
-          "cpc": 0.235057
+          "ctr": 1.815637,
+          "cpc": 0.235125
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -75,30 +75,30 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 1108.97,
-      "impr": 148027,
+      "impr": 148030,
       "reach": 61680,
       "clicks": 1676,
-      "ctr": 1.132226,
+      "ctr": 1.132203,
       "cpc": 0.661677,
-      "cpm": 7.491674,
-      "freq": 2.399919,
+      "cpm": 7.491522,
+      "freq": 2.399968,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 130D",
           "spend": 929.32,
-          "impr": 93338,
+          "impr": 93340,
           "clicks": 750,
-          "ctr": 0.803531,
+          "ctr": 0.803514,
           "cpc": 1.239093
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
           "spend": 179.65,
-          "impr": 54689,
+          "impr": 54690,
           "clicks": 926,
-          "ctr": 1.693211,
+          "ctr": 1.69318,
           "cpc": 0.194006
         }
       ]
@@ -111,13 +111,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 769.87,
-      "impr": 61844,
+      "impr": 61845,
       "reach": 30631,
       "clicks": 900,
-      "ctr": 1.455275,
+      "ctr": 1.455251,
       "cpc": 0.855411,
-      "cpm": 12.44858,
-      "freq": 2.019,
+      "cpm": 12.448379,
+      "freq": 2.019033,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -132,9 +132,9 @@
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 69.94,
-          "impr": 19149,
+          "impr": 19150,
           "clicks": 333,
-          "ctr": 1.738994,
+          "ctr": 1.738903,
           "cpc": 0.21003
         }
       ]
@@ -305,12 +305,12 @@
       "status": "ATIVO",
       "spend": 330.35,
       "impr": 19905,
-      "reach": 12885,
+      "reach": 12886,
       "clicks": 328,
       "ctr": 1.647827,
       "cpc": 1.007165,
       "cpm": 16.596333,
-      "freq": 1.54482,
+      "freq": 1.5447,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -572,22 +572,22 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 850.14,
-      "impr": 60023,
+      "impr": 60024,
       "reach": 45823,
       "clicks": 1774,
-      "ctr": 2.955534,
+      "ctr": 2.955484,
       "cpc": 0.479222,
-      "cpm": 14.163571,
-      "freq": 1.309888,
+      "cpm": 14.163335,
+      "freq": 1.30991,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
           "spend": 743.54,
-          "impr": 50247,
+          "impr": 50248,
           "clicks": 1401,
-          "ctr": 2.788226,
+          "ctr": 2.788171,
           "cpc": 0.530721
         },
         {
