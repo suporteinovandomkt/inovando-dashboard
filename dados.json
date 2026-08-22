@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 22/08/2026, 16:49:58",
+  "atualizadoEm": "Atualizado em 22/08/2026, 17:33:35",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,13 +31,13 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 815.3,
-      "impr": 80857,
+      "impr": 80859,
       "reach": 43317,
       "clicks": 1461,
-      "ctr": 1.806894,
+      "ctr": 1.806849,
       "cpc": 0.558042,
-      "cpm": 10.083233,
-      "freq": 1.866634,
+      "cpm": 10.082984,
+      "freq": 1.866681,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -52,9 +52,9 @@
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 103.74,
-          "impr": 24320,
+          "impr": 24322,
           "clicks": 442,
-          "ctr": 1.817434,
+          "ctr": 1.817285,
           "cpc": 0.234706
         },
         {
@@ -571,24 +571,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 850.22,
-      "impr": 60038,
+      "spend": 850.26,
+      "impr": 60040,
       "reach": 45861,
       "clicks": 1774,
-      "ctr": 2.954795,
-      "cpc": 0.479267,
-      "cpm": 14.161364,
-      "freq": 1.30913,
+      "ctr": 2.954697,
+      "cpc": 0.47929,
+      "cpm": 14.161559,
+      "freq": 1.309173,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 743.62,
-          "impr": 50262,
+          "spend": 743.66,
+          "impr": 50264,
           "clicks": 1401,
-          "ctr": 2.787394,
-          "cpc": 0.530778
+          "ctr": 2.787283,
+          "cpc": 0.530807
         },
         {
           "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
