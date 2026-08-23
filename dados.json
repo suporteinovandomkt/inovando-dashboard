@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/08/2026, 02:04:16",
+  "atualizadoEm": "Atualizado em 23/08/2026, 02:38:34",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -40,7 +40,32 @@
       "freq": 1.896853,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "WHATS / 28.07 / TODOS / +30 / 90D",
+          "spend": 630,
+          "impr": 46007,
+          "clicks": 797,
+          "ctr": 1.732345,
+          "cpc": 0.790464
+        },
+        {
+          "n": "CAMP LAND / 06.08 / TODOS / 10D",
+          "spend": 105,
+          "impr": 25352,
+          "clicks": 464,
+          "ctr": 1.83023,
+          "cpc": 0.226293
+        },
+        {
+          "n": "IG - PERFIL / 07.05 / TODOS / 10D",
+          "spend": 69.99,
+          "impr": 11285,
+          "clicks": 230,
+          "ctr": 2.038104,
+          "cpc": 0.304304
+        }
+      ]
     },
     {
       "nome": "ODONTO CHUEH",
@@ -59,24 +84,7 @@
       "freq": 2.407388,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 03.07.26 / WIFI / 130D",
-          "spend": 905.93,
-          "impr": 87461,
-          "clicks": 673,
-          "ctr": 0.769486,
-          "cpc": 1.346107
-        },
-        {
-          "n": "IG- PERFIL / 20.06 / todos / 25D",
-          "spend": 174.99,
-          "impr": 52974,
-          "clicks": 926,
-          "ctr": 1.748027,
-          "cpc": 0.188974
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "DENT-X",
@@ -95,24 +103,7 @@
       "freq": 2.007603,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 697.59,
-          "impr": 42047,
-          "clicks": 541,
-          "ctr": 1.286655,
-          "cpc": 1.289445
-        },
-        {
-          "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
-          "spend": 70,
-          "impr": 18946,
-          "clicks": 329,
-          "ctr": 1.736514,
-          "cpc": 0.212766
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "I. CLÍNICO ESPECIALIZADO - Plano Prata",
@@ -207,7 +198,16 @@
       "freq": 1.126817,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG GERAL / 16.06 / 25+ / TODOS / 10D",
+          "spend": 69.75,
+          "impr": 8139,
+          "clicks": 236,
+          "ctr": 2.899619,
+          "cpc": 0.295551
+        }
+      ]
     },
     {
       "nome": "MALBEC -Plano Start",
@@ -327,7 +327,24 @@
       "freq": 1.166847,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "WHATS / 22.04 / WIFI / 25 - 60  / 24 D",
+          "spend": 36.94,
+          "impr": 1829,
+          "clicks": 27,
+          "ctr": 1.476217,
+          "cpc": 1.368148
+        },
+        {
+          "n": "IG-PERFIL / 31.01 / todos / 25+ / 7D",
+          "spend": 10.16,
+          "impr": 1409,
+          "clicks": 50,
+          "ctr": 3.548616,
+          "cpc": 0.2032
+        }
+      ]
     },
     {
       "nome": "GERAÇÃO DE MINAS - 05",
@@ -365,7 +382,16 @@
       "freq": 1.859056,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "BAC IG / 03.08 / TODOS / 10D",
+          "spend": 53.06,
+          "impr": 8191,
+          "clicks": 81,
+          "ctr": 0.98889,
+          "cpc": 0.655062
+        }
+      ]
     },
     {
       "nome": "TENORIOS - 10",
@@ -459,14 +485,14 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 874.16,
-      "impr": 62601,
-      "reach": 47649,
+      "spend": 874.17,
+      "impr": 62604,
+      "reach": 47652,
       "clicks": 1828,
-      "ctr": 2.920081,
-      "cpc": 0.478206,
-      "cpm": 13.963994,
-      "freq": 1.313795,
+      "ctr": 2.919941,
+      "cpc": 0.478211,
+      "cpm": 13.963485,
+      "freq": 1.313775,
       "linkClicks": 0,
       "pay": true,
       "camps": []
@@ -488,16 +514,7 @@
       "freq": 1.187645,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "Camp IG / 21.07 / TODOS / 10D",
-          "spend": 69.98,
-          "impr": 13861,
-          "clicks": 243,
-          "ctr": 1.75312,
-          "cpc": 0.287984
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "BRENO RODRIGUES - Plano Start",
