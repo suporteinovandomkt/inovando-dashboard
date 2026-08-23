@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/08/2026, 14:28:18",
+  "atualizadoEm": "Atualizado em 23/08/2026, 14:50:12",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -110,24 +110,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 767.6,
-      "impr": 61012,
+      "spend": 767.63,
+      "impr": 61014,
       "reach": 30381,
       "clicks": 871,
-      "ctr": 1.427588,
-      "cpc": 0.881286,
-      "cpm": 12.581132,
-      "freq": 2.008229,
+      "ctr": 1.427541,
+      "cpc": 0.88132,
+      "cpm": 12.581211,
+      "freq": 2.008295,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 697.6,
-          "impr": 42057,
+          "spend": 697.63,
+          "impr": 42059,
           "clicks": 541,
-          "ctr": 1.286349,
-          "cpc": 1.289464
+          "ctr": 1.286288,
+          "cpc": 1.289519
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -572,22 +572,22 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 874.41,
-      "impr": 62654,
+      "impr": 62656,
       "reach": 47693,
       "clicks": 1828,
-      "ctr": 2.917611,
+      "ctr": 2.917518,
       "cpc": 0.478342,
-      "cpm": 13.956172,
-      "freq": 1.313694,
+      "cpm": 13.955727,
+      "freq": 1.313736,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
           "spend": 769.91,
-          "impr": 53683,
+          "impr": 53685,
           "clicks": 1473,
-          "ctr": 2.743885,
+          "ctr": 2.743783,
           "cpc": 0.522682
         },
         {
