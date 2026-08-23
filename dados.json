@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/08/2026, 02:38:34",
+  "atualizadoEm": "Atualizado em 23/08/2026, 03:55:12",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,30 +31,30 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 804.99,
-      "impr": 82644,
+      "impr": 82647,
       "reach": 43569,
       "clicks": 1491,
-      "ctr": 1.804124,
+      "ctr": 1.804058,
       "cpc": 0.539899,
-      "cpm": 9.740453,
-      "freq": 1.896853,
+      "cpm": 9.740099,
+      "freq": 1.896922,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 630,
-          "impr": 46007,
+          "impr": 46009,
           "clicks": 797,
-          "ctr": 1.732345,
+          "ctr": 1.73227,
           "cpc": 0.790464
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 105,
-          "impr": 25352,
+          "impr": 25353,
           "clicks": 464,
-          "ctr": 1.83023,
+          "ctr": 1.830158,
           "cpc": 0.226293
         },
         {
@@ -84,7 +84,24 @@
       "freq": 2.407388,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "WHATS / 03.07.26 / WIFI / 130D",
+          "spend": 905.93,
+          "impr": 87461,
+          "clicks": 673,
+          "ctr": 0.769486,
+          "cpc": 1.346107
+        },
+        {
+          "n": "IG- PERFIL / 20.06 / todos / 25D",
+          "spend": 174.99,
+          "impr": 52974,
+          "clicks": 926,
+          "ctr": 1.748027,
+          "cpc": 0.188974
+        }
+      ]
     },
     {
       "nome": "DENT-X",
@@ -103,7 +120,24 @@
       "freq": 2.007603,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "WHATS / 28.07  / +30 / 100D",
+          "spend": 697.59,
+          "impr": 42047,
+          "clicks": 541,
+          "ctr": 1.286655,
+          "cpc": 1.289445
+        },
+        {
+          "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
+          "spend": 70,
+          "impr": 18946,
+          "clicks": 329,
+          "ctr": 1.736514,
+          "cpc": 0.212766
+        }
+      ]
     },
     {
       "nome": "I. CLÍNICO ESPECIALIZADO - Plano Prata",
@@ -122,7 +156,24 @@
       "freq": 1.253259,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
+          "spend": 69.96,
+          "impr": 8463,
+          "clicks": 168,
+          "ctr": 1.985112,
+          "cpc": 0.416429
+        },
+        {
+          "n": "WHATS / 2108 / 5KM / 20 - 60 / 20D",
+          "spend": 26.72,
+          "impr": 479,
+          "clicks": 11,
+          "ctr": 2.296451,
+          "cpc": 2.429091
+        }
+      ]
     },
     {
       "nome": "DRA. THAÍS SIMAN",
@@ -179,7 +230,24 @@
       "freq": 1.253259,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
+          "spend": 69.96,
+          "impr": 8463,
+          "clicks": 168,
+          "ctr": 1.985112,
+          "cpc": 0.416429
+        },
+        {
+          "n": "WHATS / 2108 / 5KM / 20 - 60 / 20D",
+          "spend": 26.72,
+          "impr": 479,
+          "clicks": 11,
+          "ctr": 2.296451,
+          "cpc": 2.429091
+        }
+      ]
     },
     {
       "nome": "CAFEÍNA URBANA ARQUITETURA",
@@ -363,7 +431,16 @@
       "freq": 1.227781,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "PERFIL / 04.07  / TODOS / 18+ / 50D",
+          "spend": 349.81,
+          "impr": 35904,
+          "clicks": 2617,
+          "ctr": 7.288881,
+          "cpc": 0.133668
+        }
+      ]
     },
     {
       "nome": "BACACIO AÇAI",
@@ -420,16 +497,25 @@
       "acc": "1076173037436485",
       "status": "ATIVO",
       "spend": 69.99,
-      "impr": 8361,
+      "impr": 8362,
       "reach": 6402,
       "clicks": 263,
-      "ctr": 3.145557,
+      "ctr": 3.145181,
       "cpc": 0.266122,
-      "cpm": 8.371008,
-      "freq": 1.305998,
+      "cpm": 8.370007,
+      "freq": 1.306154,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
+          "spend": 69.99,
+          "impr": 8362,
+          "clicks": 263,
+          "ctr": 3.145181,
+          "cpc": 0.266122
+        }
+      ]
     },
     {
       "nome": "PADARIA RAINHA DA SUL - 05",
@@ -485,17 +571,34 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 874.17,
-      "impr": 62604,
+      "spend": 874.21,
+      "impr": 62608,
       "reach": 47652,
       "clicks": 1828,
-      "ctr": 2.919941,
-      "cpc": 0.478211,
-      "cpm": 13.963485,
-      "freq": 1.313775,
+      "ctr": 2.919755,
+      "cpc": 0.478233,
+      "cpm": 13.963232,
+      "freq": 1.313859,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "WHATS / 04.07.26 / TODOS / 110D",
+          "spend": 769.71,
+          "impr": 53637,
+          "clicks": 1473,
+          "ctr": 2.746239,
+          "cpc": 0.522546
+        },
+        {
+          "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
+          "spend": 104.5,
+          "impr": 8971,
+          "clicks": 355,
+          "ctr": 3.957195,
+          "cpc": 0.294366
+        }
+      ]
     },
     {
       "nome": "MASTER CLEAN PRO AJU",
@@ -514,7 +617,16 @@
       "freq": 1.187645,
       "linkClicks": 0,
       "pay": true,
-      "camps": []
+      "camps": [
+        {
+          "n": "Camp IG / 21.07 / TODOS / 10D",
+          "spend": 69.98,
+          "impr": 13861,
+          "clicks": 243,
+          "ctr": 1.75312,
+          "cpc": 0.287984
+        }
+      ]
     },
     {
       "nome": "BRENO RODRIGUES - Plano Start",
