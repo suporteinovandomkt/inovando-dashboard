@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/08/2026, 01:18:01",
+  "atualizadoEm": "Atualizado em 23/08/2026, 02:04:16",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,41 +31,16 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 804.99,
-      "impr": 82639,
+      "impr": 82644,
       "reach": 43569,
       "clicks": 1491,
-      "ctr": 1.804233,
+      "ctr": 1.804124,
       "cpc": 0.539899,
-      "cpm": 9.741042,
-      "freq": 1.896739,
+      "cpm": 9.740453,
+      "freq": 1.896853,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 630,
-          "impr": 46003,
-          "clicks": 797,
-          "ctr": 1.732496,
-          "cpc": 0.790464
-        },
-        {
-          "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 105,
-          "impr": 25351,
-          "clicks": 464,
-          "ctr": 1.830303,
-          "cpc": 0.226293
-        },
-        {
-          "n": "IG - PERFIL / 07.05 / TODOS / 10D",
-          "spend": 69.99,
-          "impr": 11285,
-          "clicks": 230,
-          "ctr": 2.038104,
-          "cpc": 0.304304
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "ODONTO CHUEH",
@@ -111,13 +86,13 @@
       "acc": "495685006882489",
       "status": "ATIVO",
       "spend": 767.59,
-      "impr": 60992,
-      "reach": 30379,
+      "impr": 60993,
+      "reach": 30381,
       "clicks": 870,
-      "ctr": 1.426417,
+      "ctr": 1.426393,
       "cpc": 0.882287,
-      "cpm": 12.585093,
-      "freq": 2.007703,
+      "cpm": 12.584887,
+      "freq": 2.007603,
       "linkClicks": 0,
       "pay": true,
       "camps": [
@@ -132,9 +107,9 @@
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 70,
-          "impr": 18945,
+          "impr": 18946,
           "clicks": 329,
-          "ctr": 1.736606,
+          "ctr": 1.736514,
           "cpc": 0.212766
         }
       ]
@@ -156,24 +131,7 @@
       "freq": 1.253259,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 69.96,
-          "impr": 8463,
-          "clicks": 168,
-          "ctr": 1.985112,
-          "cpc": 0.416429
-        },
-        {
-          "n": "WHATS / 2108 / 5KM / 20 - 60 / 20D",
-          "spend": 26.72,
-          "impr": 479,
-          "clicks": 11,
-          "ctr": 2.296451,
-          "cpc": 2.429091
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "DRA. THAÍS SIMAN",
@@ -230,24 +188,7 @@
       "freq": 1.253259,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG ATA / 19.06 / Todos / 5KM / 10D",
-          "spend": 69.96,
-          "impr": 8463,
-          "clicks": 168,
-          "ctr": 1.985112,
-          "cpc": 0.416429
-        },
-        {
-          "n": "WHATS / 2108 / 5KM / 20 - 60 / 20D",
-          "spend": 26.72,
-          "impr": 479,
-          "clicks": 11,
-          "ctr": 2.296451,
-          "cpc": 2.429091
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "CAFEÍNA URBANA ARQUITETURA",
@@ -266,16 +207,7 @@
       "freq": 1.126817,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG GERAL / 16.06 / 25+ / TODOS / 10D",
-          "spend": 69.75,
-          "impr": 8139,
-          "clicks": 236,
-          "ctr": 2.899619,
-          "cpc": 0.295551
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "MALBEC -Plano Start",
@@ -414,16 +346,7 @@
       "freq": 1.227781,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "PERFIL / 04.07  / TODOS / 18+ / 50D",
-          "spend": 349.81,
-          "impr": 35904,
-          "clicks": 2617,
-          "ctr": 7.288881,
-          "cpc": 0.133668
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "BACACIO AÇAI",
@@ -442,16 +365,7 @@
       "freq": 1.859056,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "BAC IG / 03.08 / TODOS / 10D",
-          "spend": 53.06,
-          "impr": 8191,
-          "clicks": 81,
-          "ctr": 0.98889,
-          "cpc": 0.655062
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "TENORIOS - 10",
@@ -489,16 +403,7 @@
       "freq": 1.305998,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "IG PERFIL / 05.05.26 / TODOS / 10D",
-          "spend": 69.99,
-          "impr": 8361,
-          "clicks": 263,
-          "ctr": 3.145557,
-          "cpc": 0.266122
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "PADARIA RAINHA DA SUL - 05",
@@ -554,34 +459,17 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 874.13,
-      "impr": 62591,
+      "spend": 874.16,
+      "impr": 62601,
       "reach": 47649,
-      "clicks": 1827,
-      "ctr": 2.91895,
-      "cpc": 0.478451,
-      "cpm": 13.965746,
-      "freq": 1.313585,
+      "clicks": 1828,
+      "ctr": 2.920081,
+      "cpc": 0.478206,
+      "cpm": 13.963994,
+      "freq": 1.313795,
       "linkClicks": 0,
       "pay": true,
-      "camps": [
-        {
-          "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 769.63,
-          "impr": 53620,
-          "clicks": 1472,
-          "ctr": 2.745244,
-          "cpc": 0.522846
-        },
-        {
-          "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
-          "spend": 104.5,
-          "impr": 8971,
-          "clicks": 355,
-          "ctr": 3.957195,
-          "cpc": 0.294366
-        }
-      ]
+      "camps": []
     },
     {
       "nome": "MASTER CLEAN PRO AJU",
