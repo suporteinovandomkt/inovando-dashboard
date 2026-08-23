@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/08/2026, 19:31:41",
+  "atualizadoEm": "Atualizado em 23/08/2026, 19:52:11",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,30 +31,30 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 804.99,
-      "impr": 82725,
+      "impr": 82728,
       "reach": 43642,
       "clicks": 1491,
-      "ctr": 1.802357,
+      "ctr": 1.802292,
       "cpc": 0.539899,
-      "cpm": 9.730916,
-      "freq": 1.895536,
+      "cpm": 9.730563,
+      "freq": 1.895605,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 630,
-          "impr": 46051,
+          "impr": 46052,
           "clicks": 797,
-          "ctr": 1.73069,
+          "ctr": 1.730652,
           "cpc": 0.790464
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 105,
-          "impr": 25384,
+          "impr": 25386,
           "clicks": 464,
-          "ctr": 1.827923,
+          "ctr": 1.827779,
           "cpc": 0.226293
         },
         {
