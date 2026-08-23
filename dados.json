@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 23/08/2026, 06:41:20",
+  "atualizadoEm": "Atualizado em 23/08/2026, 06:56:07",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -31,22 +31,22 @@
       "acc": "1599437730832316",
       "status": "ATIVO",
       "spend": 804.99,
-      "impr": 82657,
+      "impr": 82658,
       "reach": 43569,
       "clicks": 1491,
-      "ctr": 1.80384,
+      "ctr": 1.803818,
       "cpc": 0.539899,
-      "cpm": 9.738921,
-      "freq": 1.897152,
+      "cpm": 9.738803,
+      "freq": 1.897175,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
           "spend": 630,
-          "impr": 46015,
+          "impr": 46016,
           "clicks": 797,
-          "ctr": 1.732044,
+          "ctr": 1.732006,
           "cpc": 0.790464
         },
         {
@@ -572,22 +572,22 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 874.25,
-      "impr": 62618,
+      "impr": 62619,
       "reach": 47670,
       "clicks": 1828,
-      "ctr": 2.919288,
+      "ctr": 2.919242,
       "cpc": 0.478255,
-      "cpm": 13.96164,
-      "freq": 1.313572,
+      "cpm": 13.961417,
+      "freq": 1.313593,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
           "spend": 769.75,
-          "impr": 53647,
+          "impr": 53648,
           "clicks": 1473,
-          "ctr": 2.745727,
+          "ctr": 2.745676,
           "cpc": 0.522573
         },
         {
