@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 25/08/2026, 18:57:24",
+  "atualizadoEm": "Atualizado em 25/08/2026, 19:36:57",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -33,9 +33,9 @@
       "spend": 802.25,
       "impr": 92042,
       "reach": 47487,
-      "clicks": 1596,
-      "ctr": 1.733991,
-      "cpc": 0.502663,
+      "clicks": 1597,
+      "ctr": 1.735077,
+      "cpc": 0.502348,
       "cpm": 8.71613,
       "freq": 1.938257,
       "linkClicks": 0,
@@ -53,9 +53,9 @@
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
           "spend": 105.04,
           "impr": 27427,
-          "clicks": 502,
-          "ctr": 1.830313,
-          "cpc": 0.209243
+          "clicks": 503,
+          "ctr": 1.833959,
+          "cpc": 0.208827
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -118,24 +118,24 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 812.61,
-      "impr": 63529,
+      "spend": 812.65,
+      "impr": 63531,
       "reach": 32034,
       "clicks": 884,
-      "ctr": 1.391491,
-      "cpc": 0.919242,
-      "cpm": 12.791166,
-      "freq": 1.983174,
+      "ctr": 1.391447,
+      "cpc": 0.919287,
+      "cpm": 12.791393,
+      "freq": 1.983237,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 745.86,
-          "impr": 45947,
+          "spend": 745.9,
+          "impr": 45949,
           "clicks": 582,
-          "ctr": 1.266677,
-          "cpc": 1.281546
+          "ctr": 1.266622,
+          "cpc": 1.281615
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
@@ -572,22 +572,22 @@
       "acc": "2416703108676525",
       "status": "ATIVO",
       "spend": 880.58,
-      "impr": 69560,
+      "impr": 69561,
       "reach": 53628,
       "clicks": 2005,
-      "ctr": 2.882404,
+      "ctr": 2.882362,
       "cpc": 0.439192,
-      "cpm": 12.659287,
-      "freq": 1.297084,
+      "cpm": 12.659105,
+      "freq": 1.297102,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
           "spend": 783.3,
-          "impr": 61199,
+          "impr": 61200,
           "clicks": 1664,
-          "ctr": 2.718999,
+          "ctr": 2.718954,
           "cpc": 0.470733
         },
         {
