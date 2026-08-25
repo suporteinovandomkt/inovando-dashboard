@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 25/08/2026, 12:53:04",
+  "atualizadoEm": "Atualizado em 25/08/2026, 13:48:37",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,32 +30,32 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 801.66,
-      "impr": 91985,
+      "spend": 801.92,
+      "impr": 91998,
       "reach": 47487,
       "clicks": 1595,
-      "ctr": 1.733978,
-      "cpc": 0.502608,
-      "cpm": 8.715117,
-      "freq": 1.937056,
+      "ctr": 1.733733,
+      "cpc": 0.502771,
+      "cpm": 8.716711,
+      "freq": 1.93733,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 612.22,
-          "impr": 51394,
+          "spend": 612.38,
+          "impr": 51404,
           "clicks": 840,
-          "ctr": 1.634432,
-          "cpc": 0.728833
+          "ctr": 1.634114,
+          "cpc": 0.729024
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 104.89,
-          "impr": 27411,
+          "spend": 104.99,
+          "impr": 27414,
           "clicks": 501,
-          "ctr": 1.827733,
-          "cpc": 0.209361
+          "ctr": 1.827533,
+          "cpc": 0.209561
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -83,23 +83,23 @@
       "acc": "776932710078790",
       "status": "ATIVO",
       "spend": 1088.68,
-      "impr": 137045,
+      "impr": 137046,
       "reach": 55626,
       "clicks": 1636,
-      "ctr": 1.193768,
+      "ctr": 1.19376,
       "cpc": 0.665452,
-      "cpm": 7.94396,
-      "freq": 2.463686,
+      "cpm": 7.943902,
+      "freq": 2.463704,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 03.07.26 / WIFI / 130D",
-          "spend": 910.44,
-          "impr": 85337,
+          "spend": 910.45,
+          "impr": 85339,
           "clicks": 667,
-          "ctr": 0.781607,
-          "cpc": 1.364978
+          "ctr": 0.781589,
+          "cpc": 1.364993
         },
         {
           "n": "IG- PERFIL / 20.06 / todos / 25D",
@@ -118,31 +118,31 @@
       "ig": "@dentxodontologia",
       "acc": "495685006882489",
       "status": "ATIVO",
-      "spend": 812.57,
-      "impr": 63509,
+      "spend": 812.58,
+      "impr": 63516,
       "reach": 32034,
       "clicks": 884,
-      "ctr": 1.391929,
-      "cpc": 0.919197,
-      "cpm": 12.794565,
-      "freq": 1.98255,
+      "ctr": 1.391775,
+      "cpc": 0.919208,
+      "cpm": 12.793312,
+      "freq": 1.982768,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07  / +30 / 100D",
-          "spend": 745.83,
-          "impr": 45934,
+          "spend": 745.84,
+          "impr": 45938,
           "clicks": 582,
-          "ctr": 1.267035,
-          "cpc": 1.281495
+          "ctr": 1.266925,
+          "cpc": 1.281512
         },
         {
           "n": "IG-PERFIL / 09.02.26 / TODOS / 10D",
           "spend": 66.74,
-          "impr": 17575,
+          "impr": 17578,
           "clicks": 302,
-          "ctr": 1.71835,
+          "ctr": 1.718057,
           "cpc": 0.220993
         }
       ]
@@ -571,24 +571,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 880.43,
-      "impr": 69549,
+      "spend": 880.46,
+      "impr": 69552,
       "reach": 53628,
       "clicks": 2005,
-      "ctr": 2.88286,
-      "cpc": 0.439117,
-      "cpm": 12.659132,
-      "freq": 1.296879,
+      "ctr": 2.882735,
+      "cpc": 0.439132,
+      "cpm": 12.659018,
+      "freq": 1.296934,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 783.15,
-          "impr": 61188,
+          "spend": 783.18,
+          "impr": 61191,
           "clicks": 1664,
-          "ctr": 2.719487,
-          "cpc": 0.470643
+          "ctr": 2.719354,
+          "cpc": 0.470661
         },
         {
           "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
