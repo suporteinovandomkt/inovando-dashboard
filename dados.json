@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 26/08/2026, 03:02:39",
+  "atualizadoEm": "Atualizado em 26/08/2026, 04:02:22",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -30,32 +30,32 @@
       "ig": "@souzagneri",
       "acc": "1599437730832316",
       "status": "ATIVO",
-      "spend": 796.52,
-      "impr": 96863,
+      "spend": 796.54,
+      "impr": 96871,
       "reach": 48973,
       "clicks": 1687,
-      "ctr": 1.741635,
-      "cpc": 0.472152,
-      "cpm": 8.223161,
-      "freq": 1.977886,
+      "ctr": 1.741491,
+      "cpc": 0.472164,
+      "cpm": 8.222688,
+      "freq": 1.978049,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 28.07 / TODOS / +30 / 90D",
-          "spend": 592.9,
-          "impr": 54271,
+          "spend": 592.91,
+          "impr": 54277,
           "clicks": 875,
-          "ctr": 1.612279,
-          "cpc": 0.6776
+          "ctr": 1.612101,
+          "cpc": 0.677611
         },
         {
           "n": "CAMP LAND / 06.08 / TODOS / 10D",
-          "spend": 101.58,
-          "impr": 25700,
+          "spend": 101.59,
+          "impr": 25702,
           "clicks": 488,
-          "ctr": 1.898833,
-          "cpc": 0.208156
+          "ctr": 1.898685,
+          "cpc": 0.208176
         },
         {
           "n": "IG - PERFIL / 07.05 / TODOS / 10D",
@@ -571,24 +571,24 @@
       "ig": "—",
       "acc": "2416703108676525",
       "status": "ATIVO",
-      "spend": 878.72,
-      "impr": 71993,
+      "spend": 878.76,
+      "impr": 71996,
       "reach": 55643,
       "clicks": 2154,
-      "ctr": 2.991958,
-      "cpc": 0.407948,
-      "cpm": 12.205631,
-      "freq": 1.293838,
+      "ctr": 2.991833,
+      "cpc": 0.407967,
+      "cpm": 12.205678,
+      "freq": 1.293891,
       "linkClicks": 0,
       "pay": true,
       "camps": [
         {
           "n": "WHATS / 04.07.26 / TODOS / 110D",
-          "spend": 777.19,
-          "impr": 63016,
+          "spend": 777.23,
+          "impr": 63019,
           "clicks": 1780,
-          "ctr": 2.824679,
-          "cpc": 0.436624
+          "ctr": 2.824545,
+          "cpc": 0.436646
         },
         {
           "n": "IG-PERFIL / 21.07.26 / WIFI / BR-20_50 / 15D",
