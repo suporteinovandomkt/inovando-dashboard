@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 03/09/2026, 10:49:25",
+  "atualizadoEm": "Atualizado em 03/09/2026, 14:47:50",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -237,6 +237,25 @@
       "seg": "—",
       "plano": "Start",
       "ig": "@adrianodiaspositivo",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "ALISSON RODRIGO - HONDA PRO",
+      "seg": "—",
+      "plano": "—",
+      "ig": "—",
       "acc": "—",
       "status": "SEM_CONTA",
       "spend": 0,
