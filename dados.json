@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 11/09/2026, 14:42:47",
+  "atualizadoEm": "Atualizado em 11/09/2026, 17:53:12",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -255,6 +255,25 @@
       "nome": "ALISSON RODRIGO - HONDA PRO",
       "seg": "—",
       "plano": "—",
+      "ig": "—",
+      "acc": "—",
+      "status": "SEM_CONTA",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "TONINHO PEÇAS - Plano  Start",
+      "seg": "—",
+      "plano": "Start",
       "ig": "—",
       "acc": "—",
       "status": "SEM_CONTA",
