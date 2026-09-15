@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 15/09/2026, 09:04:15",
+  "atualizadoEm": "Atualizado em 15/09/2026, 13:51:05",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -195,12 +195,12 @@
       "camps": []
     },
     {
-      "nome": "ÓTICA ÓPTIMA - Plano Prata",
+      "nome": "IDEEAL CONSTRUTEC",
       "seg": "—",
       "plano": "—",
       "ig": "—",
-      "acc": "969933572256897",
-      "status": "API_PENDENTE",
+      "acc": "—",
+      "status": "SEM_CONTA",
       "spend": 0,
       "impr": 0,
       "reach": 0,
@@ -214,12 +214,12 @@
       "camps": []
     },
     {
-      "nome": "LOJA REIS",
+      "nome": "ÓTICA ÓPTIMA - Plano Prata",
       "seg": "—",
       "plano": "—",
       "ig": "—",
-      "acc": "—",
-      "status": "SEM_CONTA",
+      "acc": "969933572256897",
+      "status": "API_PENDENTE",
       "spend": 0,
       "impr": 0,
       "reach": 0,
