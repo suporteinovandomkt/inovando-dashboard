@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 22/10/2026, 07:32:31",
+  "atualizadoEm": "Atualizado em 22/10/2026, 12:33:15",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -11,25 +11,6 @@
       "ig": "@inovando_mkt",
       "acc": "—",
       "status": "SEM_CONTA",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": true,
-      "camps": []
-    },
-    {
-      "nome": "SOUZAGNERI",
-      "seg": "—",
-      "plano": "Ouro",
-      "ig": "@souzagneri",
-      "acc": "1599437730832316",
-      "status": "API_PENDENTE",
       "spend": 0,
       "impr": 0,
       "reach": 0,
