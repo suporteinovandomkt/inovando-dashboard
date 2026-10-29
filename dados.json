@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 29/10/2026, 16:31:10",
+  "atualizadoEm": "Atualizado em 29/10/2026, 20:31:53",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -277,6 +277,25 @@
       "ig": "—",
       "acc": "877905779872333",
       "status": "API_PENDENTE",
+      "spend": 0,
+      "impr": 0,
+      "reach": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "freq": 0,
+      "linkClicks": 0,
+      "pay": true,
+      "camps": []
+    },
+    {
+      "nome": "SEMENTE DO BEM",
+      "seg": "—",
+      "plano": "—",
+      "ig": "—",
+      "acc": "—",
+      "status": "SEM_CONTA",
       "spend": 0,
       "impr": 0,
       "reach": 0,
