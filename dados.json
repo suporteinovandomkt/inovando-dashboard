@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "Atualizado em 17/11/2026, 06:01:34",
+  "atualizadoEm": "Atualizado em 17/11/2026, 15:25:25",
   "periodo": {
     "label": "Últimos 7 dias"
   },
@@ -68,25 +68,6 @@
       "ig": "—",
       "acc": "37012127715052483",
       "status": "API_PENDENTE",
-      "spend": 0,
-      "impr": 0,
-      "reach": 0,
-      "clicks": 0,
-      "ctr": 0,
-      "cpc": 0,
-      "cpm": 0,
-      "freq": 0,
-      "linkClicks": 0,
-      "pay": true,
-      "camps": []
-    },
-    {
-      "nome": "DRA. THAÍS SIMAN",
-      "seg": "—",
-      "plano": "—",
-      "ig": "—",
-      "acc": "—",
-      "status": "SEM_CONTA",
       "spend": 0,
       "impr": 0,
       "reach": 0,
